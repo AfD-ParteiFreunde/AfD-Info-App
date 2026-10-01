@@ -49,6 +49,64 @@ object BundestagRemote {
         slugs.toList()
     }
 
+    // --- Official Bundestag portraits (host: www.bundestag.de, independent of afdbundestag.de) ---
+
+    private const val BIO_FILTER =
+        "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien/1040594-1040594"
+    private val BIO_LINK_RE =
+        Regex("/abgeordnete/biografien/[A-Za-z]/[a-z0-9_-]+-[0-9]+")
+    // The real portrait sits in the <source> whose media matches the smallest width.
+    private val PORTRAIT_SRC_RE = Regex(
+        "srcset=\"(/resource/image/[^\"]+?\\.(?:jpg|jpeg|png)) 1x\"\\s+media=\"\\(width &gt;= 1px\\)\"",
+        RegexOption.IGNORE_CASE,
+    )
+
+    /** Public key used to match official Bundestag portraits: "first|last" normalized. */
+    fun publicKey(first: String, last: String): String = fullKey(first, last)
+
+    private fun fullKey(first: String, last: String): String = norm(first) + "|" + norm(last)
+
+    /**
+     * Crawls the official Bundestag biography list to build a full-name -> portrait
+     * URL map. Uses www.bundestag.de only, so it keeps working even when the
+     * AfD-fraction host is unreachable.
+     */
+    suspend fun fetchBundestagPortraits(): Map<String, String> = withContext(Dispatchers.IO) {
+        val bioPaths = LinkedHashSet<String>()
+        var offset = 0
+        while (offset < 900) {
+            val html = runCatching { Http.get("$BIO_FILTER?offset=$offset") }.getOrNull() ?: break
+            val found = BIO_LINK_RE.findAll(html).map { it.value }.toList()
+            if (found.isEmpty()) break
+            val before = bioPaths.size
+            bioPaths += found
+            if (bioPaths.size == before) break
+            offset += 12
+        }
+
+        val result = HashMap<String, String>()
+        coroutineScope {
+            bioPaths.chunked(5).forEach { chunk ->
+                val batch = chunk.map { path ->
+                    async {
+                        val html = runCatching { Http.get("https://www.bundestag.de$path") }
+                            .getOrNull() ?: return@async null
+                        val portrait = PORTRAIT_SRC_RE.find(html)?.groupValues?.get(1)
+                            ?: return@async null
+                        val tail = path.substringAfterLast("/")
+                        val namePart = tail.substringBeforeLast("-")
+                        val parts = namePart.split("_")
+                        val last = parts.last()
+                        val first = if (parts.size >= 2) parts.first() else ""
+                        fullKey(first, last) to "https://www.bundestag.de$portrait"
+                    }
+                }.awaitAll().filterNotNull()
+                batch.forEach { (k, v) -> result[k] = v }
+            }
+        }
+        result
+    }
+
     private fun photoForSurname(html: String, surname: String): String? {
         val sn = norm(surname)
         if (sn.isBlank()) return null

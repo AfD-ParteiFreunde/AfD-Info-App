@@ -523,6 +523,32 @@ private fun ContactCard(member: ContactMember) {
                     }
                 }
             }
+            if (member.socials.isNotEmpty()) {
+                Spacer(Modifier.height(12.dp))
+                Row(
+                    horizontalArrangement = Arrangement.spacedBy(10.dp),
+                    verticalAlignment = Alignment.CenterVertically,
+                ) {
+                    member.socials.forEach { (key, url) ->
+                        val icon = socialIconRes(key) ?: return@forEach
+                        Box(
+                            Modifier
+                                .size(38.dp)
+                                .clip(CircleShape)
+                                .background(MaterialTheme.colorScheme.surfaceVariant)
+                                .clickable { openUrl(context, url) },
+                            contentAlignment = Alignment.Center,
+                        ) {
+                            Icon(
+                                painter = painterResource(icon),
+                                contentDescription = key,
+                                tint = MaterialTheme.colorScheme.onSurfaceVariant,
+                                modifier = Modifier.size(20.dp),
+                            )
+                        }
+                    }
+                }
+            }
         }
     }
 }
@@ -831,13 +857,13 @@ private fun LandtagMemberCard(member: LandtagMember) {
     }
 }
 
-private fun socialIconRes(label: String): Int? = when (label) {
-    "Facebook" -> R.drawable.ic_social_facebook
-    "Instagram" -> R.drawable.ic_social_instagram
-    "X" -> R.drawable.ic_social_x
-    "YouTube" -> R.drawable.ic_social_youtube
-    "Telegram" -> R.drawable.ic_social_telegram
-    "TikTok" -> R.drawable.ic_social_tiktok
+private fun socialIconRes(label: String): Int? = when (label.lowercase()) {
+    "facebook" -> R.drawable.ic_social_facebook
+    "instagram" -> R.drawable.ic_social_instagram
+    "x", "twitter" -> R.drawable.ic_social_x
+    "youtube" -> R.drawable.ic_social_youtube
+    "telegram" -> R.drawable.ic_social_telegram
+    "tiktok" -> R.drawable.ic_social_tiktok
     else -> null
 }
 

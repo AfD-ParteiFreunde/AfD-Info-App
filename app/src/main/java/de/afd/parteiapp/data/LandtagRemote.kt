@@ -235,20 +235,36 @@ object LandtagRemote {
 
     private fun parseMv(html: String): List<LandtagMember> {
         val out = mutableListOf<LandtagMember>()
+        // Each member card is: portrait <img> (filename contains the person's name)
+        // then two H2 headings (first name, last name) and an optional H5 role.
+        // Anchoring on the portrait filename keeps brochure/section headings out.
         val col = Regex(
-            "src=\"(https://afd-fraktion-mv\\.de/wp-content/uploads/[^\"]+)\".*?<h2 class=\"elementor-heading-title elementor-size-default\">([^<]+)</h2>.*?<h2 class=\"elementor-heading-title elementor-size-default\">([^<]+)</h2>(?:.*?<h5 class=\"elementor-heading-title elementor-size-default\">([^<]+)</h5>)?",
+            "src=\"(https://afd-fraktion-mv\\.de/wp-content/uploads/[^\"]+?)-\\d+x\\d+\\.(?:png|jpg|jpeg|webp)\"[^>]*>" +
+                ".*?<h2[^>]*elementor-heading-title[^>]*>([^<]+)</h2>\\s*</div>\\s*</div>\\s*<div[^>]*widget-heading" +
+                ".*?<h2[^>]*elementor-heading-title[^>]*>([^<]+)</h2>" +
+                "(?:.*?<h5[^>]*elementor-heading-title[^>]*>([^<]+)</h5>)?",
             setOf(RegexOption.DOT_MATCHES_ALL)
         )
+        val namePat = Regex("^[A-ZÄÖÜ][A-Za-zÄÖÜäöüß.\\- ]+$")
+        val seen = HashSet<String>()
         col.findAll(html).forEach { m ->
-            val first = clean(m.groupValues[2]).split(" ").firstOrNull() ?: ""
-            val surname = clean(m.groupValues[3]).split(" ").firstOrNull() ?: ""
-            val full = if (first.isNotBlank() && surname.isNotBlank()) {
-                first.lowercase().replaceFirstChar { it.uppercase() } + " " + surname.lowercase().replaceFirstChar { it.uppercase() }
-            } else clean(m.groupValues[2]) + " " + clean(m.groupValues[3])
-            out += make("Mecklenburg-Vorpommern", full, m.groupValues[4], m.groupValues[1])
+            val a = clean(m.groupValues[2])
+            val b = clean(m.groupValues[3])
+            if (!namePat.matches(a) || !namePat.matches(b)) return@forEach
+            if (a.any(Char::isDigit) || b.any(Char::isDigit)) return@forEach
+            val imgName = normalizeKey(m.groupValues[1].substringAfterLast("/"))
+            if (!imgName.contains(normalizeKey(b)) && !imgName.contains(normalizeKey(a))) return@forEach
+            val full = titleCase(a) + " " + titleCase(b)
+            if (!seen.add(full)) return@forEach
+            out += make("Mecklenburg-Vorpommern", full, clean(m.groupValues[4]), m.groupValues[1])
         }
         return out
     }
+
+    private fun titleCase(s: String): String =
+        s.lowercase().split(" ").joinToString(" ") { part ->
+            part.replaceFirstChar { if (it.isLowerCase()) it.titlecase() else it.toString() }
+        }
 
     private fun parseNi(html: String): List<LandtagMember> {
         val out = mutableListOf<LandtagMember>()
@@ -264,8 +280,12 @@ object LandtagRemote {
 
     private fun parseNrw(html: String): List<LandtagMember> {
         val out = mutableListOf<LandtagMember>()
-        val row = Regex("abgeordnetendetail\\.html\\?k=(\\d+)\"[^>]*>([^<]+)</a>(?:.*?<td>([^<]*(?:Fraktionsvorsitzender|Parl\\.|Stellv\\.|Fraktionsvorstand)[^<]*)</td>)?", setOf(RegexOption.DOT_MATCHES_ALL))
-        row.findAll(html).forEach { m ->
+        // Match each member link independently (no cross-row spanning), then look
+        // for an optional role only within a small bounded window after the link.
+        val link = Regex("abgeordnetendetail\\.html\\?k=(\\d+)\"[^>]*title=\"Zur Detailansicht von ([^\"]+)\"")
+        val roleRegex = Regex("<td>([^<]*(?:Fraktionsvorsitzender|Parl\\.|Stellv\\.|Fraktionsvorstand)[^<]*)</td>")
+        val seen = HashSet<String>()
+        link.findAll(html).forEach { m ->
             val raw = clean(m.groupValues[2])
             val full = if (raw.contains(",")) {
                 val parts = raw.split(",").map { it.trim() }
@@ -273,7 +293,10 @@ object LandtagRemote {
                 val first = parts.getOrElse(1) { "" }
                 "$first $last".trim()
             } else stripTitles(raw)
-            val role = m.groupValues[3].substringBefore(";")
+            if (full.isBlank() || !seen.add(full)) return@forEach
+            val from = m.range.last
+            val window = html.substring(from, (from + 600).coerceAtMost(html.length))
+            val role = roleRegex.find(window)?.groupValues?.get(1)?.substringBefore(";")?.trim().orEmpty()
             out += make("Nordrhein-Westfalen", full, role, "")
         }
         return out
@@ -303,13 +326,23 @@ object LandtagRemote {
 
     private fun parseSachsen(html: String): List<LandtagMember> {
         val out = mutableListOf<LandtagMember>()
-        val card = Regex(
-            "src=\"(https://afd-fraktion-sachsen\\.de/wp-content/uploads/[^\"]+)\".*?<h3>([^<]+)</h3>\\s*<div>(?:<div>)?([^<]*)",
-            setOf(RegexOption.DOT_MATCHES_ALL)
-        )
-        card.findAll(html).forEach { m ->
-            val n = clean(m.groupValues[2])
-            if (!n.contains("Grundsatzerklärung", true)) out += make("Sachsen", stripTitles(n), m.groupValues[3].replace("\u00a0", ""), m.groupValues[1])
+        // Members are listed as <h3>Name</h3>; some have no portrait, so parse the
+        // names directly (not only those preceded by an image) and attach a role
+        // when present.
+        val nameRe = Regex("<h3>([^<]+)</h3>")
+        val seen = HashSet<String>()
+        nameRe.findAll(html).forEach { m ->
+            val raw = clean(m.groupValues[1])
+            if (raw.contains("Grundsatzerklärung", true)) return@forEach
+            if (raw.length !in 4..60 || !raw.contains(" ")) return@forEach
+            val name = stripTitles(raw)
+            if (!seen.add(name)) return@forEach
+            // role (optional) within a small window after the name
+            val from = m.range.last
+            val window = html.substring(from, (from + 200).coerceAtMost(html.length))
+            val role = Regex("<div>(?:<div>)?([^<]+)").find(window)
+                ?.groupValues?.get(1)?.replace("\u00a0", "")?.trim().orEmpty()
+            out += make("Sachsen", name, role, "")
         }
         return out
     }
@@ -328,13 +361,19 @@ object LandtagRemote {
 
     private fun parseThueringen(html: String): List<LandtagMember> {
         val out = mutableListOf<LandtagMember>()
-        // scope to AfD accordion panel if present
+        // The page lists ALL parties. Scope strictly to the AfD section:
+        // from id="sect-fraktion-afd" up to the next "sect-fraktion-<other>".
         val start = html.indexOf("id=\"sect-fraktion-afd\"")
-        val scope = if (start >= 0) html.substring(start, minOf(html.length, start + 400_000)) else html
+        if (start < 0) return emptyList()
+        val nextSection = Regex("id=\"sect-fraktion-(?!afd)[a-zA-Z0-9-]+\"")
+            .find(html, start + 1)
+        val end = nextSection?.range?.first ?: html.length
+        val scope = html.substring(start, end)
         val img = Regex("<img data-src=\"(/fileadmin/_processed_/[^\"]+)\"[^>]*alt=\"([^\"]+)\"")
+        val seen = HashSet<String>()
         img.findAll(scope).forEach { m ->
             val n = clean(m.groupValues[2])
-            if (n.length in 4..60 && n.contains(" ")) {
+            if (n.length in 4..60 && n.contains(" ") && seen.add(n)) {
                 out += make("Thüringen", n, "", resolve("https://www.thueringer-landtag.de", m.groupValues[1]))
             }
         }

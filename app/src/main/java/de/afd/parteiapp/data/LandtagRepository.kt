@@ -122,7 +122,15 @@ object LandtagRepository {
             val fetch = if (urls == null) null else runCatching {
                 LandtagRemote.fetch(st.name, st.parliament, urls)
             }.getOrNull()
-            if (fetch != null) {
+            // Sanity guard: only trust a live parse whose member count is close to
+            // the curated baseline. Far more => other parties leaked in; far fewer
+            // => the page structure changed and members are missing. In either case
+            // keep the curated bundled data.
+            val baseline = st.members.size
+            val liveCount = fetch?.members?.size ?: 0
+            val plausible = baseline == 0 ||
+                (liveCount >= (baseline * 3 / 5) && liveCount <= (baseline * 3 / 2))
+            if (fetch != null && plausible && fetch.members.isNotEmpty()) {
                 // preserve curated emails/websites from the seed by name
                 val seedByName = assetByName[st.name]?.members?.associateBy { normalize(it.name) } ?: emptyMap()
                 val merged = fetch.members.map { m ->

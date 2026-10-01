@@ -62,7 +62,16 @@
       "land": "Hamburg",
       "mandate": "Landesliste Hamburg",
       "beruf": "Kaufmann",
-      "photo": "https://afdbundestag.de/wp-content/uploads/2021/12/Bernd-Baumann.jpg"
+      "photo": "https://afdbundestag.de/wp-content/uploads/2021/12/Bernd-Baumann.jpg",
+      "socials": {
+        "website": "https://www.bernd-baumann.de/",
+        "facebook": "https://www.facebook.com/DrBerndBaumann",
+        "instagram": "https://www.instagram.com/drberndbaumann/",
+        "x": "https://x.com/DrBerndBaumann",
+        "youtube": "https://www.youtube.com/@DrBerndBaumannMdB",
+        "tiktok": "https://www.tiktok.com/@drberndbaumann",
+        "telegram": "https://t.me/drberndbaumann"
+      }
     },
     {
       "name": "Carsten Becker",
@@ -216,7 +225,16 @@
       "land": "Thüringen",
       "mandate": "Wahlkreis 193 Gera – Greiz – Altenburger Land",
       "beruf": "Rechtsanwalt, Industriekaufmann",
-      "photo": "https://afdbt-cdn.b-cdn.net/wp-content/uploads/2023/01/Brandner-Stephan.png"
+      "photo": "https://afdbt-cdn.b-cdn.net/wp-content/uploads/2023/01/Brandner-Stephan.png",
+      "socials": {
+        "website": "https://www.brandner-im-bundestag.de/start.html",
+        "facebook": "https://www.facebook.com/stBrandner/",
+        "instagram": "https://www.instagram.com/stephanbrandner",
+        "x": "https://x.com/BrandnerSt",
+        "youtube": "https://www.youtube.com/@StephanBrandnerAfD",
+        "tiktok": "https://www.tiktok.com/@brandner_afd",
+        "telegram": "https://t.me/StephanBrandnerMdB"
+      }
     },
     {
       "name": "Erhard Brucker",
@@ -249,7 +267,15 @@
       "land": "Sachsen",
       "mandate": "Wahlkreis 156 Görlitz",
       "beruf": "Maler- und Lackierermeister",
-      "photo": "https://afdbundestag.de/wp-content/uploads/2021/12/Tino-Chrupalla.jpg"
+      "photo": "https://afdbundestag.de/wp-content/uploads/2021/12/Tino-Chrupalla.jpg",
+      "socials": {
+        "website": "https://www.tinochrupalla.de/",
+        "facebook": "https://www.facebook.com/TinoAfD",
+        "instagram": "https://www.instagram.com/chrupallatino/",
+        "x": "https://x.com/Tino_Chrupalla",
+        "youtube": "https://www.youtube.com/@tino_chrupalla",
+        "tiktok": "https://www.tiktok.com/@tino.chrupalla.afd"
+      }
     },
     {
       "name": "Dr. Gottfried Curio",
@@ -337,7 +363,15 @@
       "land": "Bayern",
       "mandate": "Landesliste Bayern",
       "beruf": "Unternehmer",
-      "photo": "https://afdbt-cdn.b-cdn.net/wp-content/uploads/2023/01/Felser-Peter.png"
+      "photo": "https://afdbt-cdn.b-cdn.net/wp-content/uploads/2023/01/Felser-Peter.png",
+      "socials": {
+        "website": "https://www.peterfelser.de/",
+        "facebook": "https://www.facebook.com/Peter-Felser-AfD-225499161202327/",
+        "instagram": "https://www.instagram.com/peter_felser/",
+        "x": "https://x.com/PeterFelser",
+        "youtube": "https://www.youtube.com/@peterfelserafd",
+        "tiktok": "https://www.tiktok.com/@peterfelser_mdb"
+      }
     },
     {
       "name": "Jan Feser",
@@ -381,7 +415,13 @@
       "land": "Brandenburg",
       "mandate": "Wahlkreis 56 Prignitz – Ostprignitz-Ruppin – Havelland I",
       "beruf": "Gymnasiallehrer",
-      "photo": "https://afdbt-cdn.b-cdn.net/wp-content/uploads/2025/03/Froemming-Goetz.png"
+      "photo": "https://afdbt-cdn.b-cdn.net/wp-content/uploads/2025/03/Froemming-Goetz.png",
+      "socials": {
+        "website": "https://www.goetz-froemming.de/",
+        "facebook": "https://www.facebook.com/goetzfroemming/",
+        "instagram": "https://www.instagram.com/goetzfroemming",
+        "x": "https://x.com/GtzFrmming"
+      }
     },
     {
       "name": "Markus Frohnmaier",
@@ -392,7 +432,15 @@
       "land": "Baden-Württemberg",
       "mandate": "Landesliste Baden-Württemberg",
       "beruf": "Pressesprecher",
-      "photo": "https://afdbt-cdn.b-cdn.net/wp-content/uploads/2023/01/frohnmaier-markus-1.png"
+      "photo": "https://afdbt-cdn.b-cdn.net/wp-content/uploads/2023/01/frohnmaier-markus-1.png",
+      "socials": {
+        "website": "https://www.markusfrohnmaier.de/",
+        "facebook": "https://www.facebook.com/frohnmaier",
+        "instagram": "https://www.instagram.com/markus_frohnmaier/",
+        "x": "https://x.com/Frohnmaier_AfD",
+        "tiktok": "https://www.tiktok.com/@markusfrohnmaier",
+        "telegram": "https://t.me/frohnmaier"
+      }
     },
     {
       "name": "Rainer Galla",
@@ -458,7 +506,13 @@
       "land": "Brandenburg",
       "mandate": "Wahlkreis 57 Uckermark – Barnim I",
       "beruf": "Soldat auf Zeit",
-      "photo": "https://afdbundestag.de/wp-content/uploads/2021/11/Gnauck_Hannes.jpg"
+      "photo": "https://afdbundestag.de/wp-content/uploads/2021/11/Gnauck_Hannes.jpg",
+      "socials": {
+        "instagram": "https://www.instagram.com/hannesgnauck/",
+        "x": "https://x.com/Hannes_Gnauck",
+        "tiktok": "https://www.tiktok.com/@hannesgnauck",
+        "telegram": "https://t.me/HannesGnauck"
+      }
     },
     {
       "name": "Hans-Jürgen Goßner",
@@ -733,7 +787,11 @@
       "land": "Nordrhein-Westfalen",
       "mandate": "Landesliste Nordrhein-Westfalen",
       "beruf": "Bankkaufmann",
-      "photo": "https://afdbt-cdn.b-cdn.net/wp-content/uploads/2023/01/Keuter-Stefan.png"
+      "photo": "https://afdbt-cdn.b-cdn.net/wp-content/uploads/2023/01/Keuter-Stefan.png",
+      "socials": {
+        "facebook": "https://www.facebook.com/Stefan.Keuter.AfD/",
+        "x": "https://x.com/StefanKeuterAfD"
+      }
     },
     {
       "name": "Rocco Kever",
@@ -766,7 +824,16 @@
       "land": "Nordrhein-Westfalen",
       "mandate": "Landesliste Nordrhein-Westfalen",
       "beruf": "Wissenschaftlicher Mitarbeiter",
-      "photo": "https://afdbt-cdn.b-cdn.net/wp-content/uploads/2025/03/Kneller-Maximilian-1.png"
+      "photo": "https://afdbt-cdn.b-cdn.net/wp-content/uploads/2025/03/Kneller-Maximilian-1.png",
+      "socials": {
+        "website": "https://maximiliankneller.de/",
+        "facebook": "https://www.facebook.com/maximiliankneller.afd/",
+        "instagram": "https://www.instagram.com/kneller.mdb/",
+        "x": "https://x.com/maxkneller",
+        "youtube": "https://www.youtube.com/@KnellerMdB",
+        "tiktok": "https://www.tiktok.com/@knellerafd",
+        "telegram": "https://t.me/maxknellermdb"
+      }
     },
     {
       "name": "Heinrich Koch",
@@ -810,7 +877,13 @@
       "land": "Niedersachsen",
       "mandate": "Landesliste Niedersachsen",
       "beruf": "Dipl.-Ing. (MBA)",
-      "photo": "https://afdbt-cdn.b-cdn.net/wp-content/uploads/2023/01/Koenig-Joern.png"
+      "photo": "https://afdbt-cdn.b-cdn.net/wp-content/uploads/2023/01/Koenig-Joern.png",
+      "socials": {
+        "website": "https://joernkoenig.de/",
+        "facebook": "https://www.facebook.com/joernkoenig",
+        "instagram": "https://www.instagram.com/joern.koenig",
+        "tiktok": "https://www.tiktok.com/@joernkoenig_mdb"
+      }
     },
     {
       "name": "Enrico Komning",
@@ -821,7 +894,14 @@
       "land": "Mecklenburg-Vorpommern",
       "mandate": "Wahlkreis 16 Mecklenburgische Seenplatte I – Vorpommern-Greifswald II",
       "beruf": "Rechtsanwalt",
-      "photo": "https://afdbt-cdn.b-cdn.net/wp-content/uploads/2023/01/Komning-Enrico.png"
+      "photo": "https://afdbt-cdn.b-cdn.net/wp-content/uploads/2023/01/Komning-Enrico.png",
+      "socials": {
+        "website": "https://enrico-komning.de/ek/",
+        "facebook": "https://www.facebook.com/Enrico.Komning/",
+        "instagram": "https://www.instagram.com/enricokomningmdb",
+        "x": "https://x.com/EnricoKomning",
+        "youtube": "https://www.youtube.com/@enricokomningmdb4589"
+      }
     },
     {
       "name": "Thomas Korell",
@@ -1041,7 +1121,16 @@
       "land": "Rheinland-Pfalz",
       "mandate": "Landesliste Rheinland-Pfalz",
       "beruf": "Finanzanlagen- und Versicherungsfachmann (IHK)",
-      "photo": "https://afdbundestag.de/wp-content/uploads/mdb-fotos/Münzenmaier-16_600x600_acf_cropped.jpg"
+      "photo": "https://afdbundestag.de/wp-content/uploads/mdb-fotos/Münzenmaier-16_600x600_acf_cropped.jpg",
+      "socials": {
+        "website": "https://www.sebastian-muenzenmaier.de/",
+        "facebook": "https://www.facebook.com/sebastian.muenzenmaier/",
+        "instagram": "https://www.instagram.com/sebastian.muenzenmaier.afd/",
+        "x": "https://x.com/S_Muenzenmaier",
+        "youtube": "https://www.youtube.com/@SebastianMuenzenmaierMdB",
+        "tiktok": "https://www.tiktok.com/@muenzenmaier",
+        "telegram": "https://t.me/infokanal_muenzenmaier"
+      }
     },
     {
       "name": "Edgar Naujok",
@@ -1206,7 +1295,16 @@
       "land": "Sachsen-Anhalt",
       "mandate": "Wahlkreis 72 Burgenland – Saalekreis",
       "beruf": "Offizier, Dipl.-Pädagoge",
-      "photo": "https://afdbt-cdn.b-cdn.net/wp-content/uploads/2023/01/Reichardt-Martin.png"
+      "photo": "https://afdbt-cdn.b-cdn.net/wp-content/uploads/2023/01/Reichardt-Martin.png",
+      "socials": {
+        "website": "https://martin-reichardt.de/",
+        "facebook": "https://www.facebook.com/MartinReichardtAfD",
+        "instagram": "https://www.instagram.com/martin.reichardt.afd/",
+        "x": "https://x.com/M_Reichardt_AfD",
+        "youtube": "https://www.youtube.com/c/MartinReichardtAfD",
+        "tiktok": "https://www.tiktok.com/@mr_afd",
+        "telegram": "https://t.me/MartinReichardtMdB"
+      }
     },
     {
       "name": "Martin Erwin Renner",
@@ -1459,7 +1557,16 @@
       "land": "Berlin",
       "mandate": "Landesliste Berlin",
       "beruf": "Anwältin",
-      "photo": "https://afdbundestag.de/wp-content/uploads/2021/12/Beatrix-von-Storch.jpg"
+      "photo": "https://afdbundestag.de/wp-content/uploads/2021/12/Beatrix-von-Storch.jpg",
+      "socials": {
+        "website": "https://beatrixvonstorch.de/",
+        "facebook": "https://www.facebook.com/BeatrixVonStorch",
+        "instagram": "https://www.instagram.com/beatrix.von.storch",
+        "x": "https://twitter.com/Beatrix_vStorch",
+        "youtube": "https://www.youtube.com/c/BeatrixvonStorch",
+        "tiktok": "https://www.tiktok.com/@beatrixvonstorchneu",
+        "telegram": "https://t.me/BeatrixvStorch"
+      }
     },
     {
       "name": "Otto Strauß",
@@ -1525,7 +1632,15 @@
       "land": "Baden-Württemberg",
       "mandate": "Landesliste Baden-Württemberg",
       "beruf": "Dipl.-Kauffrau, Dipl.-Volkswirtin",
-      "photo": "https://afdbundestag.de/wp-content/uploads/2025/02/Weidel-Quadrat.jpg"
+      "photo": "https://afdbundestag.de/wp-content/uploads/2025/02/Weidel-Quadrat.jpg",
+      "socials": {
+        "website": "https://www.alice-weidel.de/",
+        "facebook": "https://www.facebook.com/aliceweidel/",
+        "instagram": "https://www.instagram.com/alice.weidel",
+        "x": "https://x.com/Alice_Weidel",
+        "youtube": "https://www.youtube.com/@Alice.Weidel",
+        "tiktok": "https://www.tiktok.com/@alice_weidel_afd"
+      }
     },
     {
       "name": "Mathias Weiser",

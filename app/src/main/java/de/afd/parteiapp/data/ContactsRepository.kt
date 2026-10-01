@@ -25,6 +25,7 @@ data class ContactMember(
     val mandate: String,
     val beruf: String,
     val photo: String,
+    val socials: Map<String, String> = emptyMap(),
 )
 
 data class Landesverband(
@@ -138,14 +139,23 @@ object ContactsRepository {
         val photosByName = asset.members
             .filter { it.photo.isNotBlank() }
             .associate { it.name to it.photo }
+        val socialsByName = asset.members
+            .filter { it.socials.isNotEmpty() }
+            .associate { it.name to it.socials }
         val file = cacheFile(context)
         if (!file.exists()) return asset to 0L
         return runCatching {
             val root = JSONObject(file.readText())
             val cached = parseMembers(root.optJSONArray("members") ?: JSONArray())
             if (cached.isEmpty()) return asset to 0L
+            // Always backfill blank cached photos and socials from the bundled asset.
             val members = cached.map { member ->
-                member.copy(photo = member.photo.ifBlank { photosByName[member.name].orEmpty() })
+                member.copy(
+                    photo = member.photo.takeIf { it.isNotBlank() }
+                        ?: photosByName[member.name].orEmpty(),
+                    socials = if (member.socials.isNotEmpty()) member.socials
+                    else socialsByName[member.name].orEmpty(),
+                )
             }
             asset.copy(members = members) to root.optLong("fetchedAt")
         }.getOrDefault(asset to 0L)
@@ -154,21 +164,39 @@ object ContactsRepository {
     suspend fun refresh(context: Context, force: Boolean): ContactsResult = withContext(Dispatchers.IO) {
         val (current, fetchedAt) = loadBest(context)
         val fresh = fetchedAt > 0L && System.currentTimeMillis() - fetchedAt < 72L * 60L * 60L * 1000L
-        if (!force && fresh) {
-            return@withContext ContactsResult(current, fetchedAt, live = false)
+        // Retry automatically if the cached set is missing photos, even when fresh.
+        val missingPhotos = current.members.any { it.photo.isBlank() }
+        if (!force && fresh && !missingPhotos) {
+            // Cache is current — this is NOT an offline/failed state, so report it
+            // as live; the UI then shows "updated <ago>" instead of a wrong "Offline".
+            return@withContext ContactsResult(current, fetchedAt, live = true)
         }
         try {
             val seed = load(context).members
             val roles = seed.filter { it.role.isNotBlank() }.associate { it.name to it.role }
+            // Photo fallback: live scrape -> fetched value -> bundled -> cached,
+            // so a thin or failed photo scrape can never erase existing portraits.
             val seedPhotos = seed.filter { it.photo.isNotBlank() }.associate { it.name to it.photo }
+            val cachedPhotos = current.members.filter { it.photo.isNotBlank() }.associate { it.name to it.photo }
+            val seedSocials = seed.filter { it.socials.isNotEmpty() }.associate { it.name to it.socials }
+            val cachedSocials = current.members.filter { it.socials.isNotEmpty() }.associate { it.name to it.socials }
             val fetched = ContactsRemote.fetch(roles)
+            // Prefer official Bundestag portraits (working host); AfD-fraction photos
+            // are a secondary/best-effort source.
+            val officialPhotos = runCatching { BundestagRemote.fetchBundestagPortraits() }
+                .getOrDefault(emptyMap())
             val livePhotos = runCatching { BundestagRemote.fetchPhotos() }.getOrDefault(emptyMap())
             val members = fetched.map { member ->
-                val liveByKey = livePhotos[photoKey(member.lastName, member.firstName)]
-                val liveByName = livePhotos[normalizeKey(member.lastName)]
-                val photo = liveByKey ?: liveByName
-                    ?: member.photo.ifBlank { seedPhotos[member.name].orEmpty() }
-                member.copy(photo = photo)
+                val key = BundestagRemote.publicKey(member.firstName, member.lastName)
+                val photo = officialPhotos[key]
+                    ?: livePhotos[photoKey(member.lastName, member.firstName)]
+                    ?: livePhotos[normalizeKey(member.lastName)]
+                    ?: member.photo.takeIf { it.isNotBlank() }
+                    ?: seedPhotos[member.name]?.takeIf { it.isNotBlank() }
+                    ?: cachedPhotos[member.name]?.takeIf { it.isNotBlank() }
+                    ?: ""
+                val socials = seedSocials[member.name] ?: cachedSocials[member.name] ?: emptyMap()
+                member.copy(photo = photo, socials = socials)
             }
             saveCache(context, members)
             ContactsResult(
@@ -177,6 +205,9 @@ object ContactsRepository {
                 live = true,
             )
         } catch (t: Throwable) {
+            // Keep previous data; do NOT advance fetchedAt so the next attempt
+            // retries instead of being locked out for 72h.
+            android.util.Log.w("ContactsRepo", "refresh failed", t)
             ContactsResult(current, fetchedAt, live = false, error = t.message ?: "error")
         }
     }
@@ -195,6 +226,9 @@ object ContactsRepository {
                     put("mandate", member.mandate)
                     put("beruf", member.beruf)
                     put("photo", member.photo)
+                    if (member.socials.isNotEmpty()) {
+                        put("socials", JSONObject(member.socials as Map<*, *>))
+                    }
                 }
             )
         }
@@ -227,8 +261,19 @@ object ContactsRepository {
                 mandate = obj.optString("mandate"),
                 beruf = obj.optString("beruf"),
                 photo = obj.optString("photo"),
+                socials = parseSocials(obj.optJSONObject("socials")),
             )
         }
+
+    private fun parseSocials(obj: JSONObject?): Map<String, String> {
+        if (obj == null) return emptyMap()
+        return buildMap {
+            obj.keys().forEach { key ->
+                val value = obj.optString(key)
+                if (value.isNotBlank()) put(key, value)
+            }
+        }
+    }
 
     private fun cacheFile(context: Context) = File(context.filesDir, "contacts_live.json")
 }
