@@ -134,6 +134,90 @@ Die App verlinkt auf **www.wir-lieben-deutschland.de** (AfD-Fanshop, Alias `afd-
 | Shop | wir-lieben-deutschland.de | Browser ok; CLI blockt Cloudflare; von afd.de verlinkt |
 | Landesverbands-Sites + Spenden-Deeplinks | 9 Websites, 4 `/spenden`-Seiten | 200 (afd-hamburg.de: Cloudflare-Challenge für CLI, im Browser ok) |
 
+## Quellen
+
+Alle Inhalte werden zur Laufzeit von den folgenden Quellen geladen. Angaben ohne Gewähr; die Rechte liegen bei den jeweiligen Herausgebern.
+
+### Nachrichten (RSS/Atom)
+
+| Quelle | Feed-URL |
+|---|---|
+| AfD | `https://www.afd.de/feed/` |
+| AfD-Fraktion | `https://afdbundestag.de/feed/` |
+| YouTube · AfD | `https://www.youtube.com/feeds/videos.xml?channel_id=UCq2rogaxLtQFrYG3X3KYNww` |
+| YouTube · AfD-Fraktion | `https://www.youtube.com/feeds/videos.xml?channel_id=UC_dZp8bZipnjntBGLVHm6rw` |
+| NIUS | `https://nius.de/rss` |
+| Junge Freiheit | `https://jungefreiheit.de/feed/` |
+| Apollo News | `https://apollo-news.net/feed/` |
+| Tichys Einblick | `https://www.tichyseinblick.de/feed/` |
+| COMPACT | `https://www.compact-online.de/feed/` |
+| Deutschlandkurier | `https://deutschlandkurier.de/feed/` |
+
+### Wahltermine, Umfragen & Wahlen
+
+| Bereich | Quelle |
+|---|---|
+| Wahltermine | `https://www.wahlrecht.de/termine.htm` (Jsoup) |
+| Bundestags-Umfragen | `https://www.wahlrecht.de/umfragen/index.htm` (Jsoup) |
+| Landtags-Umfragen | `https://api.dawum.de/` (JSON), abgeglichen mit wahlrecht.de |
+| Wahlprogramm (PDF) | `https://www.afd.de/wahlprogramm25/` → PDF unter `afd.de/wp-content/uploads/` |
+
+### Kontakte & Mandatsträger
+
+| Bereich | Quelle |
+|---|---|
+| MdB-Stammdaten (Bundestag) | `https://www.bundestag.de/resource/blob/472878/MdB-Stammdaten.zip` (Open Data, XML) |
+| Bundestags-Porträts | `https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien/1040594-1040594` |
+| MdB-Porträts (Fallback) | `https://afdbundestag.de/abgeordnete/` |
+| MdB-Biografien | `https://www.bundestag.de/abgeordnete` |
+| Landtagsfraktionen (AfD) | siehe Tabelle unten |
+| Landesverbände (Logos/Sites) | `https://www.afd.de/partei/landesverbaende/` + Wikimedia Commons |
+
+**Landtagsfraktionen je Bundesland:**
+
+| Bundesland | Quelle |
+|---|---|
+| Baden-Württemberg | `https://afd-fraktion-bw.de/abgeordnete/` |
+| Bayern | `https://www.afd-landtag.bayern/fraktion/` |
+| Berlin | `https://afd-fraktion.berlin/unsere-abgeordneten/` |
+| Brandenburg | `https://www.landtag.brandenburg.de/de/abgeordnete_-_fraktionen/fraktionen/afd-fraktion/25206` |
+| Bremen | `https://www.bremische-buergerschaft.de/abgeordnete/fraktionen` |
+| Hamburg | `https://www.hamburgische-buergerschaft.de/ueber-uns/abgeordneten-uebersicht` |
+| Hessen | `https://hessischer-landtag.de/fraktion/afd` |
+| Mecklenburg-Vorpommern | `https://afd-fraktion-mv.de/` |
+| Niedersachsen | `https://www.landtag-niedersachsen.de/fraktion-der-afd` |
+| Nordrhein-Westfalen | `https://www.landtag.nrw.de/home/der-landtag/abgeordnete-und--fraktionen/die-abgeordneten/abgeordnetensuche/suche-nach-fraktionen/fraktionsliste.html?fraktion=AfD` |
+| Rheinland-Pfalz | `https://landtag-rlp.de/de/parlament/fraktionen/afd-fraktion.htm` |
+| Saarland | `https://www.landtag-saar.de/abgeordnete-und-fraktionen/fraktionen/afd` |
+| Sachsen | `https://afd-fraktion-sachsen.de/abgeordnete-seit-2024/` |
+| Sachsen-Anhalt | `https://afdfraktion-lsa.de/abgeordnete` |
+| Thüringen | `https://www.thueringer-landtag.de/abgeordnete/abgeordnete-fraktionen-sitzordnung` |
+
+### Veranstaltungen, Shop & Karte
+
+| Bereich | Quelle |
+|---|---|
+| Veranstaltungen der Fraktion | `https://afdbundestag.de/veranstaltungen/` (Jsoup) |
+| Shop (Fanshop) | `https://www.wir-lieben-deutschland.de/` (Alias `afd-fanshop.de`) |
+| Geokodierung | `https://nominatim.openstreetmap.org/search` (OpenStreetMap) |
+| PLZ-Auflösung | `https://api.zippopotam.us/de/` |
+| Karten-Kacheln | Esri ArcGIS, OpenStreetMap, Wikimedia Maps (siehe `assets/map.html`) |
+
+### Offizielle Kanäle & Links
+
+| Ziel | URL |
+|---|---|
+| Mitglied werden | `https://www.afd.de/mitglied-werden/` |
+| Spenden | `https://spenden.afd.de/` |
+| Grundsatzprogramm | `https://www.afd.de/grundsatzprogramm/` |
+| Landesverbände | `https://www.afd.de/partei/landesverbaende/` |
+| Fraktion | `https://afdbundestag.de/` |
+| Bundestag | `https://www.bundestag.de/abgeordnete` |
+| Facebook | `https://de-de.facebook.com/alternativefuerde/` |
+| X (Twitter) | `https://twitter.com/AfD` |
+| Instagram | `https://www.instagram.com/afd.bund/` |
+| YouTube | `https://www.youtube.com/channel/UCq2rogaxLtQFrYG3X3KYNww` |
+
 ## Lizenz
 
 Der Quellcode steht unter der **MIT-Lizenz** (siehe [`LICENSE`](LICENSE)) – frei nutzbar, veränderbar und weiterverbreitbar. Die MIT-Lizenz gilt **nur für den Quellcode**; gebündelte Assets (Partei-Logos, Fonts, PDF, Live-Inhalte) verbleiben bei den jeweiligen Rechteinhabern, siehe Hinweis am Ende der `LICENSE`.
