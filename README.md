@@ -134,6 +134,10 @@ Die App verlinkt auf **www.wir-lieben-deutschland.de** (AfD-Fanshop, Alias `afd-
 | Shop | wir-lieben-deutschland.de | Browser ok; CLI blockt Cloudflare; von afd.de verlinkt |
 | Landesverbands-Sites + Spenden-Deeplinks | 9 Websites, 4 `/spenden`-Seiten | 200 (afd-hamburg.de: Cloudflare-Challenge für CLI, im Browser ok) |
 
+## Lizenz
+
+Der Quellcode steht unter der **MIT-Lizenz** (siehe [`LICENSE`](LICENSE)) – frei nutzbar, veränderbar und weiterverbreitbar. Die MIT-Lizenz gilt **nur für den Quellcode**; gebündelte Assets (Partei-Logos, Fonts, PDF, Live-Inhalte) verbleiben bei den jeweiligen Rechteinhabern, siehe Hinweis am Ende der `LICENSE`.
+
 ## Rechtliches / Hinweise
 
 - Private, inoffizielle App; kein Angebot der AfD, ihrer Gliederungen oder Fraktionen. Impressum/Schriftzug/CI gehören den jeweiligen Rechteinhabern; offizielle Logo-Assets ggf. durch die Parteivorlage ersetzen.
