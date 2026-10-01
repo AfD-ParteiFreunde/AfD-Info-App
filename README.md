@@ -8,8 +8,21 @@ Eine native Android-App (Kotlin + Jetpack Compose) für Parteifreunde: Nachricht
 
 ## Screenshots
 
-> Noch keine Screenshots eingecheckt. Aufnahmen unter `docs/screenshots/`
-> ablegen (siehe `docs/screenshots/README.md`) und hier eine Tabelle ergänzen.
+| Nachrichten | Wahlprogramm | Wahlkampf | Umfragen |
+|---|---|---|---|
+| ![Nachrichten](docs/screenshots/01-nachrichten.png) | ![Wahlprogramm](docs/screenshots/02-wahlprogramm.png) | ![Wahlkampf-Countdown](docs/screenshots/03-wahlkampf-countdown.png) | ![Umfragen](docs/screenshots/04-wahlkampf-umfragen.png) |
+
+| Landtagskarte | Spenden & Shop | Unterstützen | Banküberweisung |
+|---|---|---|---|
+| ![Landtagskarte](docs/screenshots/05-wahlkampf-landtag-karte.png) | ![Shop](docs/screenshots/06-spenden-shop.png) | ![Unterstützen](docs/screenshots/07-spenden-unterstuetzen.png) | ![Bank/QR](docs/screenshots/08-spenden-bank-qr.png) |
+
+| MdB-Kontakte | Bundestagskarte | Landesverbände | Mehr – Quellen |
+|---|---|---|---|
+| ![MdB](docs/screenshots/09-kontakte-mdb.png) | ![Bundestagskarte](docs/screenshots/10-kontakte-bundestag.png) | ![Landesverbände](docs/screenshots/11-kontakte-landesverbaende.png) | ![Quellen](docs/screenshots/12-mehr-quellen.png) |
+
+| Mehr – Social Media |
+|---|
+| ![Social](docs/screenshots/13-mehr-social.png) |
 
 ## Auf einen Blick
 

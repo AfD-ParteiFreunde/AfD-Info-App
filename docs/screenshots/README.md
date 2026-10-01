@@ -1,13 +1,23 @@
 # Screenshots
 
-Lege hier Aufnahmen der Hauptbereiche ab (jpg/png), damit die Tabelle im
-Haupt-README sie anzeigen kann:
+Aufnahmen der Hauptbereiche der App. Am Gerät aufnehmen:
 
-- news.png          – Nachrichten
-- wahlkampf.png     – Wahlkampf (Countdown, Termine)
-- umfragen.png      – Landtagsumfragen / Deutschlandkarte
-- kontakte.png      – Kontakte (Bundestag)
-- landesverbaende.png – Landesverbände
-- wahlprogramm.png  – Wahlprogramm mit Suche
+```bash
+adb exec-out screencap -p > docs/screenshots/01-nachrichten.png
+```
 
-Aufnahme am Gerät: `adb exec-out screencap -p > docs/screenshots/news.png`
+| Datei | Bereich |
+|---|---|
+| `01-nachrichten.png` | Nachrichten (RSS-Aggregation) |
+| `02-wahlprogramm.png` | Wahlprogramm (PDF mit Suche) |
+| `03-wahlkampf-countdown.png` | Wahlkampf – Countdown & Termine |
+| `04-wahlkampf-umfragen.png` | Wahlkampf – Bundestags-Umfragen & Sitzverteilung |
+| `05-wahlkampf-landtag-karte.png` | Wahlkampf – Landtags-Umfragen (Deutschlandkarte) |
+| `06-spenden-shop.png` | Unterstützen – Shop/Produkt-Highlights |
+| `07-spenden-unterstuetzen.png` | Unterstützen – Spenden & Banküberweisung |
+| `08-spenden-bank-qr.png` | Unterstützen – Bankverbindung mit QR-Code |
+| `09-kontakte-mdb.png` | Kontakte – MdB-Detail (Bundestag) |
+| `10-kontakte-bundestag.png` | Kontakte – Bundestags-Abgeordnete nach Bundesland |
+| `11-kontakte-landesverbaende.png` | Kontakte – Landesverbände |
+| `12-mehr-quellen.png` | Mehr – Nachrichtenquellen |
+| `13-mehr-social.png` | Mehr – Social Media |
