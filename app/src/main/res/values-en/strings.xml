@@ -163,7 +163,7 @@ By tapping "Accept" you confirm that you have read and understood this notice. C
     <string name="more_join">Become a member</string>
     <string name="more_donate_link">Donate</string>
     <string name="more_about">About the app</string>
-    <string name="more_about_text">Private, unofficial information app. Content comes from the linked sources. Not an official product of the AfD or its subdivisions.</string>
+    <string name="more_about_text">Private, unofficial information app for party supporters – not an official product of the AfD or its subdivisions.\n\nThe app bundles news from selected sources, election dates and polls, events on a map, contacts of Bundestag and state parliament members, and the election programme with full-text search. All content is loaded from the linked sources at runtime; there is no user account, no advertising and no tracking.\n\nAll information without guarantee. Rights to content and logos belong to their respective owners.</string>
     <string name="more_privacy">Privacy</string>
     <string name="more_privacy_note">View privacy notice</string>
     <string name="more_version">Version %1$s</string>

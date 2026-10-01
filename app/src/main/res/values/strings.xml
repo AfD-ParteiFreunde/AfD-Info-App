@@ -163,7 +163,7 @@ Mit dem Antippen von „Akzeptieren“ bestätigst du, dass du diese Hinweise ge
     <string name="more_join">Mitglied werden</string>
     <string name="more_donate_link">Spenden</string>
     <string name="more_about">Über die App</string>
-    <string name="more_about_text">Private, inoffizielle Informations-App für Parteifreunde. Inhalte stammen von den verlinkten Quellen. Kein offizielles Angebot der AfD oder ihrer Gliederungen.</string>
+    <string name="more_about_text">Private, inoffizielle Informations-App für Parteifreunde – kein offizielles Angebot der AfD oder ihrer Gliederungen.\n\nDie App bündelt Nachrichten ausgewählter Quellen, Wahltermine und Umfragen, Veranstaltungen auf einer Karte, Kontakte von Bundestags- und Landtagsabgeordneten sowie das Wahlprogramm mit Volltextsuche. Alle Inhalte werden zur Laufzeit von den verlinkten Quellen geladen; es gibt kein Nutzerkonto, keine Werbung und kein Tracking.\n\nAlle Angaben ohne Gewähr. Rechte an Inhalten und Logos liegen bei den jeweiligen Rechteinhabern.</string>
     <string name="more_privacy">Datenschutz</string>
     <string name="more_privacy_note">Datenschutzhinweise ansehen</string>
     <string name="more_version">Version %1$s</string>
