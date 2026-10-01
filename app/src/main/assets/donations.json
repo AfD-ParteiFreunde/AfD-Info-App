@@ -1,0 +1,155 @@
+[
+  {
+    "id": "bund",
+    "name": "Bund",
+    "recipient": "Alternative für Deutschland – Bundesgeschäftsstelle",
+    "iban": "DE65 1809 2744 0100 0991 55",
+    "bic": "GENODEF1SPM",
+    "bank": "Volksbank Spree-Neiße eG",
+    "website": "https://spenden.afd.de/"
+  },
+  {
+    "id": "bw",
+    "name": "Baden-Württemberg",
+    "recipient": "Alternative für Deutschland",
+    "iban": "DE70 6009 0100 0241 0220 02",
+    "bic": "VOBADESSXXX",
+    "bank": "Volksbank Stuttgart",
+    "website": "https://afd-bw.de/spenden/"
+  },
+  {
+    "id": "by",
+    "name": "Bayern",
+    "recipient": "AfD Landesverband Bayern",
+    "iban": "DE49 7025 0150 0029 5882 41",
+    "bic": "BYLADEM1KMS",
+    "bank": "Kreissparkasse München Starnberg Ebersberg",
+    "website": "https://www.afdbayern.de/spenden"
+  },
+  {
+    "id": "be",
+    "name": "Berlin",
+    "recipient": "Alternative für Deutschland, Berlin",
+    "iban": "DE35 1005 0000 0191 1950 57",
+    "bic": "BELADEBEXXX",
+    "bank": "Berliner Sparkasse",
+    "website": "https://afd.berlin/spenden"
+  },
+  {
+    "id": "bb",
+    "name": "Brandenburg",
+    "recipient": "Alternative für Deutschland Landesverband Brandenburg",
+    "iban": "DE20 1605 0000 1000 5761 47",
+    "bic": "WELADED1PMB",
+    "bank": "Mittelbrandenburgische Sparkasse",
+    "website": "https://afd-brandenburg.de/spenden/"
+  },
+  {
+    "id": "hb",
+    "name": "Bremen",
+    "recipient": "Alternative für Deutschland Bremen",
+    "iban": "DE83 2905 0101 0082 7073 40",
+    "bic": "SBREDE22XXX",
+    "bank": "Sparkasse Bremen",
+    "website": "https://afd-bremen.de/spenden"
+  },
+  {
+    "id": "hh",
+    "name": "Hamburg",
+    "recipient": "AfD Landesverband Hamburg",
+    "iban": "DE74 2005 0550 1229 1329 39",
+    "bic": "HASPDEHHXXX",
+    "bank": "Hamburger Sparkasse",
+    "website": "https://afd-hamburg.de/geld-spenden/"
+  },
+  {
+    "id": "he",
+    "name": "Hessen",
+    "recipient": "Alternative für Deutschland Landesverband Hessen",
+    "iban": "DE19 5007 0024 0807 3090 05",
+    "bic": "DEUTDEDBFRA",
+    "bank": "Deutsche Bank",
+    "website": "https://afd-hessen.de/spenden/"
+  },
+  {
+    "id": "mv",
+    "name": "Mecklenburg-Vorpommern",
+    "recipient": "AfD MV",
+    "iban": "DE13 1405 2000 1713 8222 17",
+    "bic": "NOLADE21LWL",
+    "bank": "Sparkasse Mecklenburg-Schwerin",
+    "website": "https://afd-mv.de/spenden-4/"
+  },
+  {
+    "id": "ni",
+    "name": "Niedersachsen",
+    "recipient": "Alternative für Deutschland Niedersachsen",
+    "iban": "DE57 2505 0180 0910 4083 86",
+    "bic": "SPKHDE2HXXX",
+    "bank": "Sparkasse Hannover",
+    "website": "https://afd-niedersachsen.de/spenden"
+  },
+  {
+    "id": "nw",
+    "name": "Nordrhein-Westfalen",
+    "recipient": "Alternative für Deutschland, Landesverband NRW",
+    "iban": "DE42 3015 0200 0002 1864 27",
+    "bic": "WELADED1KSD",
+    "bank": "Kreissparkasse Düsseldorf",
+    "website": "https://afd.nrw/spenden/"
+  },
+  {
+    "id": "rp",
+    "name": "Rheinland-Pfalz",
+    "recipient": "Alternative für Deutschland Landesverband Rheinland-Pfalz",
+    "iban": "DE31 5535 0010 0022 6222 04",
+    "bic": "",
+    "bank": "Rheinhessen-Sparkasse",
+    "website": "https://alternative-rlp.de/spenden/"
+  },
+  {
+    "id": "sl",
+    "name": "Saarland",
+    "recipient": "Alternative für Deutschland Landesverband Saarland",
+    "iban": "DE55 5905 0101 0067 0539 67",
+    "bic": "SAKSDE55XXX",
+    "bank": "Sparkasse Saarbrücken",
+    "website": "https://afd.saarland/mitwirken/spenden/"
+  },
+  {
+    "id": "sn",
+    "name": "Sachsen",
+    "recipient": "AfD Landesverband Sachsen",
+    "iban": "DE45 8505 0300 0225 7351 72",
+    "bic": "OSDDDE81XXX",
+    "bank": "Ostsächsische Sparkasse",
+    "website": "https://afdsachsen.de/spenden/"
+  },
+  {
+    "id": "st",
+    "name": "Sachsen-Anhalt",
+    "recipient": "Alternative für Deutschland Landesverband Sachsen-Anhalt",
+    "iban": "DE43 8105 3272 0641 0404 40",
+    "bic": "NOLADE21MDG",
+    "bank": "Stadtsparkasse Magdeburg",
+    "website": "https://afd-lsa.de/index.php/spenden/"
+  },
+  {
+    "id": "sh",
+    "name": "Schleswig-Holstein",
+    "recipient": "AfD Landesverband Schleswig-Holstein",
+    "iban": "DE37 2105 0170 1004 8655 62",
+    "bic": "NOLADE21KIE",
+    "bank": "Förde Sparkasse Kiel",
+    "website": "https://afd-sh.de/spende/"
+  },
+  {
+    "id": "th",
+    "name": "Thüringen",
+    "recipient": "Alternative für Deutschland Landesverband Thüringen",
+    "iban": "DE51 8405 1010 1010 0693 02",
+    "bic": "HELADEF1ILK",
+    "bank": "Sparkasse Arnstadt-Ilmenau",
+    "website": "https://afd-thueringen.de/mitwirken/spenden/"
+  }
+]

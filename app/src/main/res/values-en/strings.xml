@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AfD</string>
+    <string name="splash_slogan">Wir lieben Deutschland.</string>
+
+    <string name="privacy_title">Privacy</string>
+    <string name="privacy_intro">Please read and accept the privacy notice before using the app.</string>
+    <string name="privacy_intro_review">Privacy notice for this app.</string>
+    <string name="privacy_body">This app is a private, unofficial information service for party supporters and not an official offering of the AfD or its subdivisions.
+
+DATA COLLECTED
+The app only processes data required for its operation and stores it locally on your device only:
+• Settings (e.g. language, design, enabled news sources)
+• Cached news content
+• The privacy status you accepted
+
+NO SHARING WITH THIRD PARTIES
+No personal data is transmitted to us or to third parties. There is no user account, no advertising, no tracking and no analytics.
+
+NETWORK ACCESS
+When loading news, events and maps, the public content of the linked sources is fetched directly from their servers. As with any website visit, technically necessary connection data (e.g. IP address) is transmitted to the respective providers. Their privacy policies apply.
+
+BANKING APPS
+The "Donate with your banking app" feature detects installed banking apps locally on your device only, in order to open them. No data about installed apps is stored or transmitted. Transfer data is never transmitted automatically.
+
+EXTERNAL LINKS
+When opening external links you leave the app; the privacy policies of the respective providers apply.
+
+YOUR CONTROL
+You can remove all local data at any time via "Settings → Clear cache" or by uninstalling the app.
+
+By tapping "Accept" you confirm that you have read and understood this notice. Consent is stored locally only and can be revoked by clearing the app data.</string>
+    <string name="privacy_accept">Accept</string>
+    <string name="privacy_close">Close</string>
+    <string name="privacy_decline">Decline</string>
+    <string name="privacy_decline_title">Consent required</string>
+    <string name="privacy_decline_text">The app cannot be used without your consent. You can close it or grant consent.</string>
+    <string name="privacy_decline_close">Close app</string>
+    <string name="privacy_decline_back">Back</string>
+    <string name="privacy_footer">The privacy policy at afd.de/datenschutz applies.</string>
+
+    <string name="nav_news">News</string>
+    <string name="nav_events">Events</string>
+    <string name="nav_donate">Donate</string>
+    <string name="nav_contacts">Contacts</string>
+    <string name="nav_more">More</string>
+
+    <string name="news_title">News</string>
+    <string name="news_all">All sources</string>
+    <string name="news_refresh">Refresh</string>
+    <string name="news_empty">No articles found.</string>
+    <string name="news_empty_hint">Pull to refresh or check sources under “More”.</string>
+    <string name="news_source_error">Source unavailable.</string>
+    <string name="news_sources_error">%1$d sources unavailable.</string>
+    <string name="news_updated">Updated: %1$s</string>
+    <string name="news_now">just now</string>
+    <string name="news_minutes">%1$d min ago</string>
+    <string name="news_hours">%1$d h ago</string>
+    <string name="news_days">%1$d days ago</string>
+    <string name="news_read">Read</string>
+    <string name="news_to_top">Back to top</string>
+
+    <string name="reader_loading">Loading article…</string>
+    <string name="reader_error">The article text could not be loaded. Open the original in your browser.</string>
+    <string name="reader_open_original">Open original</string>
+    <string name="reader_preview_note">Text automatically extracted from the source.</string>
+    <string name="reader_share">Share</string>
+    <string name="reader_source">Source: %1$s</string>
+
+    <string name="contacts_title">Contacts</string>
+    <string name="contacts_tab_bundestag">Bundestag</string>
+    <string name="contacts_tab_land">State associations</string>
+    <string name="contacts_tab_mein_land">My state</string>
+    <string name="landtag_pick_title">Choose your state</string>
+    <string name="landtag_pick_note">Choose your state to see all AfD members of the state parliament. Your choice is saved.</string>
+    <string name="landtag_change_state">Change state</string>
+    <string name="landtag_members">%1$d state parliament members</string>
+    <string name="landtag_empty">There are currently no AfD members in this state parliament.</string>
+    <string name="landtag_source">Source: %1$s</string>
+    <string name="landtag_parliament">%1$s</string>
+    <string name="landtag_website">Website</string>
+    <string name="landtag_no_contact">No email addresses are centrally published for this state parliament.</string>
+    <string name="landtag_source_live">Live updated %1$s</string>
+    <string name="landtag_status_refreshing">Updating…</string>
+    <string name="contacts_search">Search name, constituency or state</string>
+    <string name="contacts_all_lands">All states</string>
+    <string name="contacts_email_note">Email addresses follow the Bundestag scheme (firstname.lastname@bundestag.de). If in doubt, please contact via bundestag.de.</string>
+    <string name="contacts_email_note_short">Email uses the Bundestag scheme; if in doubt use bundestag.de.</string>
+    <string name="contacts_copy">Copy</string>
+    <string name="contacts_copied">Copied</string>
+    <string name="contacts_email">Email</string>
+    <string name="contacts_bundestag">bundestag.de</string>
+    <string name="contacts_mandate_direct">Direct mandate</string>
+    <string name="contacts_mandate_list">State list</string>
+    <string name="contacts_members">%1$d members</string>
+    <string name="contacts_source">Data source: German Bundestag (open data), as of %1$s</string>
+    <string name="contacts_land_overview">All state associations on afd.de</string>
+    <string name="contacts_land_overview_note">For further state associations the official overview on afd.de will open.</string>
+    <string name="contacts_website">Website</string>
+    <string name="contacts_land_association">State association</string>
+    <string name="contacts_land_group">State parliamentary group</string>
+    <string name="contacts_fraktion_label">AfD parliamentary group in the German Bundestag</string>
+
+    <string name="donate_title">Donate</string>
+    <string name="donate_hero_title">Support the AfD</string>
+    <string name="donate_hero_text">Every donation helps fund campaigns, information material and local presence.</string>
+    <string name="donate_official">Official donation page</string>
+    <string name="donate_bank">Bank transfer</string>
+    <string name="donate_choose">Choose state association</string>
+    <string name="donate_recipient">Recipient</string>
+    <string name="donate_iban">IBAN</string>
+    <string name="donate_bic">BIC</string>
+    <string name="donate_bank_name">Bank</string>
+    <string name="donate_purpose">Reference</string>
+    <string name="donate_purpose_value">Donation – full name, street, postal code, city</string>
+    <string name="donate_tax_title">Tax privileged</string>
+    <string name="donate_tax_text">Donations and membership fees to the AfD are privileged under §34g EStG: up to €1,650 (single) / €3,300 (married). For the donation receipt please include your full address in the payment reference.</string>
+    <string name="donate_legal_title">Legal notes</string>
+    <string name="donate_legal_text">Donations of €10,000+ per year are published in the annual report; single donations of €50,000+ are reported to the Bundestag President without delay. Cash donations above €1,000 are not permitted.</string>
+    <string name="donate_join">Become a member</string>
+    <string name="donate_disclaimer">Without guarantee. Please verify the bank details on the respective state association’s website before every transfer.</string>
+    <string name="donate_paypal">PayPal</string>
+    <string name="donate_paypal_sub">Official AfD PayPal account</string>
+    <string name="donate_qr_title">Quick transfer via QR code (GiroCode)</string>
+    <string name="donate_qr_note">Scan with your banking app, or save as a screenshot and import it there. Enter the amount in the app.</string>
+    <string name="donate_account_for">Account for %1$s</string>
+    <string name="donate_app_bank_title">Donate with your banking app</string>
+    <string name="donate_app_bank_text">These banking apps are installed on your device. Open your app and use the account details above.</string>
+    <string name="donate_app_bank_open">Open</string>
+    <string name="donate_app_bank_none">No known banking app found. Open your banking app and scan the GiroCode above or copy the details.</string>
+    <string name="donate_app_bank_note">Note: for security reasons the app cannot start a transfer automatically. The details are only shown and can be copied.</string>
+
+    <string name="events_title">Events</string>
+    <string name="events_intro">Events are maintained by the associations and the parliamentary group. Here are the official calendars.</string>
+    <string name="wahlkampf_events_all">Open event calendar</string>
+    <string name="events_live">Live from afdbundestag.de · updated %1$s</string>
+    <string name="events_offline">Offline – source: afdbundestag.de</string>
+    <string name="events_fraktion">AfD group in the Bundestag</string>
+    <string name="events_fraktion_sub">Press releases and news</string>
+    <string name="events_land">State associations</string>
+    <string name="events_land_sub">Events of the state associations</string>
+
+    <string name="more_title">More</string>
+    <string name="more_language">Language</string>
+    <string name="more_language_note">Applies immediately to the whole app.</string>
+    <string name="more_settings">Settings</string>
+    <string name="more_glass_nav">Liquid Glass</string>
+    <string name="more_glass_nav_note">Floating navigation bar with a glass effect (iOS style). Turn off for the classic bar.</string>
+    <string name="more_sources">News sources</string>
+    <string name="more_sources_note">Disabled sources are not fetched.</string>
+    <string name="more_feeds_block_note">Note: afd.de may block automated fetching. If a source stays empty, disable it here.</string>
+    <string name="more_links">Links</string>
+    <string name="more_program">Party platform</string>
+    <string name="program_title">Election programme</string>
+    <string name="program_search_hint">Search the programme…</string>
+    <string name="program_source">Source: %1$s</string>
+    <string name="program_loading">Updating from the web…</string>
+    <string name="program_intro">Full election programme. Type a keyword or pick a topic.</string>
+    <string name="program_no_results">No matches for “%1$s”.</string>
+    <string name="program_page">Page %1$d</string>
+    <string name="program_results">%1$d matches for “%2$s”</string>
+    <string name="program_page_failed">Page could not be loaded.</string>
+    <string name="more_join">Become a member</string>
+    <string name="more_donate_link">Donate</string>
+    <string name="more_about">About the app</string>
+    <string name="more_about_text">Private, unofficial information app. Content comes from the linked sources. Not an official product of the AfD or its subdivisions.</string>
+    <string name="more_privacy">Privacy</string>
+    <string name="more_privacy_note">View privacy notice</string>
+    <string name="more_version">Version %1$s</string>
+    <string name="more_stats">%1$d sources · %2$d contacts</string>
+    <string name="more_clear_cache">Clear cache</string>
+    <string name="more_cache_cleared">Cache cleared</string>
+
+    <string name="lang_de">German</string>
+    <string name="lang_en">English</string>
+
+    <string name="action_open">Open</string>
+    <string name="action_back">Back</string>
+    <string name="common_retry">Retry</string>
+    <string name="common_close">Close</string>
+    <string name="error_generic">Something went wrong.</string>
+
+    <string name="splash_skip">Tap to skip</string>
+
+    <string name="nav_wahlkampf">Campaign</string>
+    <string name="wahlkampf_title">Campaign</string>
+    <string name="wahlkampf_next">Next election</string>
+    <string name="wahlkampf_today">today</string>
+    <string name="wahlkampf_tomorrow">tomorrow</string>
+    <string name="wahlkampf_in_days">in %1$d days</string>
+    <string name="wahlkampf_dates">Election dates</string>
+    <string name="wahlkampf_expected">expected</string>
+    <string name="wahlkampf_support">Support the campaign</string>
+    <string name="wahlkampf_support_text">Get active: become a member, donate or attend an event.</string>
+    <string name="wahlkampf_events">Events</string>
+    <string name="wahlkampf_source">Source: wahlrecht.de</string>
+    <string name="wahlkampf_all_dates">All election dates on wahlrecht.de</string>
+    <string name="common_show_more">Show more</string>
+    <string name="common_show_less">Show less</string>
+    <string name="wahlkampf_polls">Polls</string>
+    <string name="wahlkampf_polls_all">All polls on wahlrecht.de</string>
+    <string name="polls_title">State election polls</string>
+    <string name="polls_bundestag">Federal</string>
+    <string name="polls_landtag">State</string>
+    <string name="polls_open">Polls by state</string>
+    <string name="polls_afd">AfD</string>
+    <string name="polls_meta">Poll of %1$s · next election: %2$s</string>
+    <string name="polls_meta_election">State election on %1$s</string>
+    <string name="polls_tag_election">Result</string>
+    <string name="polls_tag_poll">Poll</string>
+    <string name="polls_all_title">All states</string>
+    <string name="polls_source">Source: %1$s</string>
+    <string name="wahlkampf_polls_line">%1$s poll · %2$s</string>
+    <string name="wahlkampf_polls_sample">%1$s eligible voters</string>
+    <string name="wahlkampf_seats_title">Bundestag seat projection</string>
+    <string name="wahlkampf_seats_count">%1$d seats</string>
+    <string name="wahlkampf_seats_others">Others</string>
+    <string name="wahlkampf_map_button">Map</string>
+    <string name="wahlkampf_map_title">Event map</string>
+    <string name="wahlkampf_map_plz_hint">Enter postal code</string>
+    <string name="wahlkampf_map_search">Search</string>
+    <string name="wahlkampf_map_searching">Searching…</string>
+    <string name="wahlkampf_map_nearest">Nearest event: %1$s</string>
+    <string name="wahlkampf_map_distance">approx. %1$s km away</string>
+    <string name="wahlkampf_map_plz_invalid">No event found</string>
+    <string name="wahlkampf_map_open_google">Google Maps</string>
+    <string name="wahlkampf_map_open_apple">Apple Maps</string>
+    <string name="wahlkampf_map_zoom_in">Zoom in</string>
+    <string name="wahlkampf_map_zoom_out">Zoom out</string>
+    <string name="wahlkampf_map_load_failed">Could not load map</string>
+    <string name="more_map_provider">Map provider</string>
+    <string name="more_map_provider_note">Choose the style of the event map.</string>
+    <string name="map_provider_esri">Esri</string>
+    <string name="map_provider_osm">OpenStreetMap</string>
+    <string name="map_provider_wikimedia">Wikimedia</string>
+    <string name="map_provider_apple">Apple</string>
+    <string name="map_provider_google">Google</string>
+    <string name="map_provider_apple_open">Apple Maps will open in your browser (Brave/Chrome recommended).</string>
+    <string name="map_provider_google_open">Google Maps will open in your browser (Brave/Chrome recommended).</string>
+    <string name="wahlkampf_type_bund">Federal</string>
+    <string name="wahlkampf_type_land">State</string>
+    <string name="wahlkampf_type_europa">Europe</string>
+    <string name="wahlkampf_type_kommunal">Local</string>
+
+    <string name="support_title">Support</string>
+    <string name="support_tab_donate">Donate</string>
+    <string name="support_tab_shop">Shop</string>
+
+    <string name="shop_hero_title">AfD-Fanshop</string>
+    <string name="shop_hero_text">Merch, fan articles and campaign material – textiles, equipment, flyers, books and more.</string>
+    <string name="shop_open">Open shop</string>
+    <string name="shop_external_note">Opens the shop in your browser. Prices, sizes and ordering are handled there.</string>
+    <string name="shop_highlights">Popular sections</string>
+    <string name="shop_highlight_1">Clothing &amp; accessories</string>
+    <string name="shop_highlight_2">Flags &amp; banners</string>
+    <string name="shop_highlight_3">Stickers &amp; posters</string>
+    <string name="shop_highlight_4">Mugs &amp; gifts</string>
+    <string name="shop_disclaimer">Sales are handled by the “Wir lieben Deutschland” shop. This app only links to it.</string>
+
+    <string name="more_shop">Merch shop</string>
+    <string name="more_social">Social media</string>
+
+    <string name="common_stale">Update failed – showing last known data.</string>
+    <string name="wahlkampf_live">Live from wahlrecht.de · updated %1$s</string>
+    <string name="wahlkampf_offline">Offline – source: wahlrecht.de</string>
+    <string name="contacts_refresh">Refresh contacts</string>
+    <string name="contacts_source_live">Live: Bundestag open data · updated %1$s</string>
+    <string name="contacts_source_offline">Offline – data as of %1$s</string>
+    <string name="shop_products">Product highlights</string>
+    <string name="shop_live">Live from the shop · updated %1$s</string>
+    <string name="shop_offline">Shop excerpt</string>
+</resources>

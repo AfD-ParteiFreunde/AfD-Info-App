@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<link rel="stylesheet" href="leaflet/leaflet.css">
+<style>
+  html, body { height: 100%; margin: 0; padding: 0; background: #061A2B; }
+  #map { position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: #061A2B; }
+  .leaflet-container { font-family: sans-serif; background: #061A2B; }
+  .ev-pin {
+    width: 16px; height: 16px; border-radius: 50%;
+    background: #009EE0; border: 2.5px solid #ffffff; box-sizing: border-box;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.45);
+    transition: transform 0.15s ease;
+  }
+  .ev-pin.sel { transform: scale(1.45); background: #E2001A; }
+  .plz-pin {
+    width: 14px; height: 14px; border-radius: 50%;
+    background: #FFD400; border: 2.5px solid #111111; box-sizing: border-box;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.45);
+  }
+  .dark .leaflet-popup-content-wrapper, .dark .leaflet-popup-tip {
+    background: #0B2438; color: #E8F0F7;
+  }
+  .dark .leaflet-popup-content { margin: 10px 12px; }
+  .dark .leaflet-bar a {
+    background: #0B2438; color: #E8F0F7; border-color: #1E3A52;
+  }
+  .dark .leaflet-bar a:hover { background: #123350; }
+  .dark .leaflet-control-attribution {
+    background: rgba(6, 26, 43, 0.75); color: #9DB2C4;
+  }
+  .dark .leaflet-control-attribution a { color: #3CC3F5; }
+</style>
+</head>
+<body>
+<div id="map"></div>
+<script src="leaflet/leaflet.js"></script>
+<script>
+window.onerror = function (m, s, l) { console.error('JSERROR ' + m + ' @' + l); };
+var params = new URLSearchParams(location.search);
+var dark = params.get('dark') === '1';
+var provider = params.get('provider') || 'esri';
+if (dark) { document.body.className = 'dark'; }
+
+var OSM_ATTR = '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors';
+var TILES = {
+  esri: dark
+    ? 'https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Dark_Gray_Base/MapServer/tile/{z}/{y}/{x}'
+    : 'https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}',
+  osm: 'https://tile.openstreetmap.org/{z}/{x}/{y}.png',
+  wikimedia: 'https://maps.wikimedia.org/osm-intl/{z}/{x}/{y}{r}.png'
+};
+var ATTR = {
+  esri: OSM_ATTR + ' &copy; <a href="https://www.esri.com/">Esri</a>',
+  osm: OSM_ATTR,
+  wikimedia: OSM_ATTR + ' &copy; <a href="https://wikimediafoundation.org/">Wikimedia</a>'
+};
+var MAXNATIVE = { esri: 16, osm: 19, wikimedia: 19 };
+var MAXZOOM = { esri: 19, osm: 19, wikimedia: 19 };
+var MINZOOM = { esri: 3, osm: 3, wikimedia: 3 };
+
+var map = L.map('map', {
+  zoomControl: true,
+  attributionControl: true,
+  minZoom: MINZOOM[provider] || 3,
+  zoomSnap: 0.5,
+  zoomDelta: 0.5,
+  wheelPxPerZoomLevel: 90,
+  preferCanvas: true
+});
+
+var tileUrl = TILES[provider] || TILES.esri;
+
+var tileLayer = L.tileLayer(tileUrl, {
+  subdomains: 'abcd',
+  maxZoom: MAXZOOM[provider] || 19,
+  maxNativeZoom: MAXNATIVE[provider] || 16,
+  keepBuffer: 2,
+  updateWhenZooming: false,
+  updateWhenIdle: true,
+  attribution: ATTR[provider] || ATTR.esri
+});
+
+var failCount = 0;
+tileLayer.on('tileerror', function () {
+  failCount++;
+  if (failCount === 4) { console.error('tiles failing: ' + tileUrl); }
+});
+tileLayer.on('tileload', function () { failCount = 0; });
+
+tileLayer.addTo(map);
+map.setView([51.163, 10.447], 6);
+
+var markers = {};
+var plzMarker = null;
+var selected = null;
+var focusedInitial = false;
+
+function esc(s) {
+  var d = document.createElement('div');
+  d.textContent = s || '';
+  return d.innerHTML;
+}
+
+function icon(cls, size) {
+  return L.divIcon({ className: '', html: '<div class="' + cls + '"></div>', iconSize: [size, size], iconAnchor: [size / 2, size / 2] });
+}
+
+function popupHtml(e) {
+  return '<b>' + esc(e.t) + '</b>' + (e.d ? '<br>' + esc(e.d) : '') + (e.v ? '<br><span style="opacity:.7">' + esc(e.v) + '</span>' : '');
+}
+
+function select(m) {
+  if (selected) {
+    var old = selected.getElement();
+    if (old && old.firstChild) { old.firstChild.className = 'ev-pin'; }
+  }
+  selected = m;
+  var el = m.getElement();
+  if (el && el.firstChild) { el.firstChild.className = 'ev-pin sel'; }
+}
+
+function setEvents(json, initialKey, done) {
+  var list = (typeof json === 'string') ? JSON.parse(json) : json;
+  var group = [];
+  list.forEach(function (e) {
+    var m = markers[e.k];
+    if (!m) {
+      m = L.marker([e.lat, e.lon], { icon: icon('ev-pin', 16) }).addTo(map);
+      m.bindPopup(popupHtml(e));
+      m.on('click', function () { select(m); });
+      markers[e.k] = m;
+    } else {
+      m.setLatLng([e.lat, e.lon]);
+      m.setPopupContent(popupHtml(e));
+    }
+    group.push(m);
+  });
+  if (!focusedInitial) {
+    var init = initialKey ? markers[initialKey] : null;
+    if (init) {
+      focusedInitial = true;
+      map.setView(init.getLatLng(), 13);
+      select(init);
+      init.openPopup();
+    } else if (done && group.length) {
+      focusedInitial = true;
+      map.fitBounds(L.featureGroup(group).getBounds().pad(0.25));
+    }
+  }
+}
+
+function selectNearest(lat, lon, label, key) {
+  if (plzMarker) { map.removeLayer(plzMarker); }
+  plzMarker = L.marker([lat, lon], { icon: icon('plz-pin', 14) }).addTo(map).bindPopup(esc(label));
+  var m = markers[key];
+  if (m) {
+    select(m);
+    map.fitBounds(L.latLngBounds([[lat, lon], m.getLatLng()]), { padding: [40, 40], maxZoom: 14 });
+    m.openPopup();
+  } else {
+    map.setView([lat, lon], 11);
+  }
+}
+</script>
+</body>
+</html>

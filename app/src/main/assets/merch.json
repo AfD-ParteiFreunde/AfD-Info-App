@@ -1,0 +1,11 @@
+{
+  "updated": "26.09.2026",
+  "source": "afd-fanshop.de",
+  "categories": ["Fanartikel", "Textilien", "Broschüren", "Bücher", "Kampagnen", "Ausrüstung Außenbereich", "Flyer & Faltblätter", "Streuartikel"],
+  "products": [
+    { "name": "Fußball \"AfD\"", "price": "ab 12,00 €", "url": "", "imageUrl": "" },
+    { "name": "Trikot \"Zusammen für Deutschland\"", "price": "ab 15,00 €", "url": "", "imageUrl": "" },
+    { "name": "Heimreise-Kalender 2026", "price": "15,00 € (ab 10,00 €)", "url": "", "imageUrl": "" },
+    { "name": "Tisch-Querkalender 2026", "price": "4,50 € (ab 2,50 €)", "url": "", "imageUrl": "" }
+  ]
+}

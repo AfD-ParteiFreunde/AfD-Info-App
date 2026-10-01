@@ -1,0 +1,22 @@
+{
+  "updated": "2026-10-01",
+  "source": "Landeswahlleiter (Ergebnisse) & dawum.de (Umfragen)",
+  "polls": [
+    { "land": "Baden-Württemberg", "afd": 22.0, "type": "poll", "date": "10.04.2026", "next": "2031" },
+    { "land": "Bayern", "afd": 20.0, "type": "poll", "date": "14.08.2026", "next": "2028" },
+    { "land": "Berlin", "afd": 16.3, "type": "election", "date": "20.09.2026", "next": "2031" },
+    { "land": "Brandenburg", "afd": 37.0, "type": "poll", "date": "24.06.2026", "next": "2029" },
+    { "land": "Bremen", "afd": 17.0, "type": "poll", "date": "19.08.2026", "next": "30. Mai 2027" },
+    { "land": "Hamburg", "afd": 12.0, "type": "poll", "date": "20.06.2026", "next": "2030" },
+    { "land": "Hessen", "afd": 22.0, "type": "poll", "date": "29.04.2026", "next": "2028" },
+    { "land": "Mecklenburg-Vorpommern", "afd": 38.2, "type": "election", "date": "20.09.2026", "next": "2031" },
+    { "land": "Niedersachsen", "afd": 20.0, "type": "poll", "date": "22.04.2026", "next": "2027" },
+    { "land": "Nordrhein-Westfalen", "afd": 17.0, "type": "poll", "date": "28.06.2026", "next": "25. April 2027" },
+    { "land": "Rheinland-Pfalz", "afd": 24.0, "type": "poll", "date": "20.08.2026", "next": "2031" },
+    { "land": "Saarland", "afd": 23.0, "type": "poll", "date": "03.12.2025", "next": "18. April 2027" },
+    { "land": "Sachsen", "afd": 42.0, "type": "poll", "date": "21.05.2026", "next": "2029" },
+    { "land": "Sachsen-Anhalt", "afd": 43.8, "type": "election", "date": "06.09.2026", "next": "2031" },
+    { "land": "Schleswig-Holstein", "afd": 18.0, "type": "poll", "date": "14.07.2026", "next": "18. April 2027" },
+    { "land": "Thüringen", "afd": 40.0, "type": "poll", "date": "02.07.2026", "next": "2029" }
+  ]
+}

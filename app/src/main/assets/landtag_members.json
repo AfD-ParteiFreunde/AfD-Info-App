@@ -1,0 +1,3713 @@
+{
+  "updated": "30.09.2026",
+  "source": "AfD-Landtagsfraktionen & Landtage der Länder (Stand 30.09.2026)",
+  "states": [
+    {
+      "name": "Baden-Württemberg",
+      "parliament": "18. Landtag von Baden-Württemberg",
+      "source": "https://afd-fraktion-bw.de/abgeordnete/",
+      "count": 35,
+      "members": [
+        {
+          "name": "Andreas Auer",
+          "firstName": "Andreas",
+          "lastName": "Auer",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Baden-Württemberg",
+          "photo": "https://afd-fraktion-bw.de/wp-content/uploads/2026/06/Andreas-Auer-1200.jpg"
+        },
+        {
+          "name": "Anton Baron",
+          "firstName": "Anton",
+          "lastName": "Baron",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Baden-Württemberg",
+          "photo": "https://afd-fraktion-bw.de/wp-content/uploads/2023/05/Baron-1-1200px.jpg"
+        },
+        {
+          "name": "Hans-Peter Baur",
+          "firstName": "Hans-Peter",
+          "lastName": "Baur",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Baden-Württemberg",
+          "photo": "https://afd-fraktion-bw.de/wp-content/uploads/2026/06/Hans-Peter-Baur-1200.jpg"
+        },
+        {
+          "name": "Nikolaos Boutakoglou",
+          "firstName": "Nikolaos",
+          "lastName": "Boutakoglou",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Baden-Württemberg",
+          "photo": "https://afd-fraktion-bw.de/wp-content/uploads/2026/06/Nikolaos-Boutakoglou-1200.jpg"
+        },
+        {
+          "name": "Bernhard Eisenhut",
+          "firstName": "Bernhard",
+          "lastName": "Eisenhut",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Baden-Württemberg",
+          "photo": "https://afd-fraktion-bw.de/wp-content/uploads/2026/04/Bernhard-Eisenhut-1200.jpg"
+        },
+        {
+          "name": "Rüdiger Ernst",
+          "firstName": "Rüdiger",
+          "lastName": "Ernst",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Baden-Württemberg",
+          "photo": "https://afd-fraktion-bw.de/wp-content/uploads/2026/04/Ruediger-Ernst-1200.jpg"
+        },
+        {
+          "name": "Maximilian Gerner",
+          "firstName": "Maximilian",
+          "lastName": "Gerner",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Baden-Württemberg",
+          "photo": "https://afd-fraktion-bw.de/wp-content/uploads/2026/04/Maximilian-Gerner-1200.jpg"
+        },
+        {
+          "name": "Andreas Grammel",
+          "firstName": "Andreas",
+          "lastName": "Grammel",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Baden-Württemberg",
+          "photo": "https://afd-fraktion-bw.de/wp-content/uploads/2026/04/Andreas-Grammel-1200.jpg"
+        },
+        {
+          "name": "Carmen Haug",
+          "firstName": "Carmen",
+          "lastName": "Haug",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Baden-Württemberg",
+          "photo": "https://afd-fraktion-bw.de/wp-content/uploads/2026/06/Carmen-Haug-01.jpg"
+        },
+        {
+          "name": "Chris Hegel",
+          "firstName": "Chris",
+          "lastName": "Hegel",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Baden-Württemberg",
+          "photo": "https://afd-fraktion-bw.de/wp-content/uploads/2026/06/Chris-Hegel-1200.jpg"
+        },
+        {
+          "name": "Kurt Hermann",
+          "firstName": "Kurt",
+          "lastName": "Hermann",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Baden-Württemberg",
+          "photo": "https://afd-fraktion-bw.de/wp-content/uploads/2026/06/Kurt-Hermann-1200.jpg"
+        },
+        {
+          "name": "Hans-Peter Hörner",
+          "firstName": "Hans-Peter",
+          "lastName": "Hörner",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Baden-Württemberg",
+          "photo": "https://afd-fraktion-bw.de/wp-content/uploads/2023/05/Hoerner-1-1200px.jpg"
+        },
+        {
+          "name": "Miguel Klauß",
+          "firstName": "Miguel",
+          "lastName": "Klauß",
+          "role": "Parlamentarischer Geschäftsführer",
+          "email": "",
+          "website": "",
+          "land": "Baden-Württemberg",
+          "photo": "https://afd-fraktion-bw.de/wp-content/uploads/2026/05/Miguel-Klauss-1200.jpg"
+        },
+        {
+          "name": "Dennis Klecker",
+          "firstName": "Dennis",
+          "lastName": "Klecker",
+          "role": "Fraktionsvorstand",
+          "email": "",
+          "website": "",
+          "land": "Baden-Württemberg",
+          "photo": "https://afd-fraktion-bw.de/wp-content/uploads/2026/05/Dennis-Klecker-1200.jpg"
+        },
+        {
+          "name": "Emely Knorr",
+          "firstName": "Emely",
+          "lastName": "Knorr",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Baden-Württemberg",
+          "photo": "https://afd-fraktion-bw.de/wp-content/uploads/2026/04/Emely-Knorr-1200.jpg"
+        },
+        {
+          "name": "Christian Köhler",
+          "firstName": "Christian",
+          "lastName": "Köhler",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Baden-Württemberg",
+          "photo": "https://afd-fraktion-bw.de/wp-content/uploads/2026/06/Christian-Koehler-1200.jpg"
+        },
+        {
+          "name": "Stephan Köthe",
+          "firstName": "Stephan",
+          "lastName": "Köthe",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Baden-Württemberg",
+          "photo": "https://afd-fraktion-bw.de/wp-content/uploads/2026/04/Stephan-Koethe-1200.jpg"
+        },
+        {
+          "name": "Karlheinz Kolb",
+          "firstName": "Karlheinz",
+          "lastName": "Kolb",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Baden-Württemberg",
+          "photo": "https://afd-fraktion-bw.de/wp-content/uploads/2026/05/Karlheinz-Kolb-1200.jpg"
+        },
+        {
+          "name": "Joachim Kuhs",
+          "firstName": "Joachim",
+          "lastName": "Kuhs",
+          "role": "Fraktionsvorstand",
+          "email": "",
+          "website": "",
+          "land": "Baden-Württemberg",
+          "photo": "https://afd-fraktion-bw.de/wp-content/uploads/2026/04/Joachim-Kuhs-1200.jpg"
+        },
+        {
+          "name": "Daniel Lindenschmid",
+          "firstName": "Daniel",
+          "lastName": "Lindenschmid",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Baden-Württemberg",
+          "photo": "https://afd-fraktion-bw.de/wp-content/uploads/2026/05/Daniel-Lindenschmid-1200.jpg"
+        },
+        {
+          "name": "Bernhard Pepperl",
+          "firstName": "Bernhard",
+          "lastName": "Pepperl",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Baden-Württemberg",
+          "photo": "https://afd-fraktion-bw.de/wp-content/uploads/2026/04/Dr-Bernhard-Pepperl-1200.jpg"
+        },
+        {
+          "name": "Kay Rittweg",
+          "firstName": "Kay",
+          "lastName": "Rittweg",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Baden-Württemberg",
+          "photo": "https://afd-fraktion-bw.de/wp-content/uploads/2026/05/Kay-Rittweg-1200.jpg"
+        },
+        {
+          "name": "Martin Rothweiler",
+          "firstName": "Martin",
+          "lastName": "Rothweiler",
+          "role": "Fraktionsvorsitzender",
+          "email": "",
+          "website": "",
+          "land": "Baden-Württemberg",
+          "photo": "https://afd-fraktion-bw.de/wp-content/uploads/2026/04/Martin-Rothweiler-1200.jpg"
+        },
+        {
+          "name": "Daniel Rottmann",
+          "firstName": "Daniel",
+          "lastName": "Rottmann",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Baden-Württemberg",
+          "photo": "https://afd-fraktion-bw.de/wp-content/uploads/2026/04/Daniel-Rottmann-1200.jpg"
+        },
+        {
+          "name": "Sebastian van Ryt",
+          "firstName": "Sebastian",
+          "lastName": "Ryt",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Baden-Württemberg",
+          "photo": "https://afd-fraktion-bw.de/wp-content/uploads/2026/05/Sebastian-van-Ryt-1200.jpg"
+        },
+        {
+          "name": "Emil Sänze",
+          "firstName": "Emil",
+          "lastName": "Sänze",
+          "role": "Fraktionsvorstand",
+          "email": "",
+          "website": "",
+          "land": "Baden-Württemberg",
+          "photo": "https://afd-fraktion-bw.de/wp-content/uploads/2026/05/Emil-Saenze-1200.jpg"
+        },
+        {
+          "name": "Christine Schäfer",
+          "firstName": "Christine",
+          "lastName": "Schäfer",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Baden-Württemberg",
+          "photo": "https://afd-fraktion-bw.de/wp-content/uploads/2026/06/Christine-Schaefer-1200.jpg"
+        },
+        {
+          "name": "Christian Schäfer",
+          "firstName": "Christian",
+          "lastName": "Schäfer",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Baden-Württemberg",
+          "photo": "https://afd-fraktion-bw.de/wp-content/uploads/2026/04/Christian-Schaefer-1200.jpg"
+        },
+        {
+          "name": "Sandro Scheer",
+          "firstName": "Sandro",
+          "lastName": "Scheer",
+          "role": "Fraktionsvorstand",
+          "email": "",
+          "website": "",
+          "land": "Baden-Württemberg",
+          "photo": "https://afd-fraktion-bw.de/wp-content/uploads/2026/05/Sandro-Scheer-1200.jpg"
+        },
+        {
+          "name": "Stephan Schwarz",
+          "firstName": "Stephan",
+          "lastName": "Schwarz",
+          "role": "Fraktionsvorstand",
+          "email": "",
+          "website": "",
+          "land": "Baden-Württemberg",
+          "photo": "https://afd-fraktion-bw.de/wp-content/uploads/2026/05/Stephan-Schwarz-1200.jpg"
+        },
+        {
+          "name": "Udo Stein",
+          "firstName": "Udo",
+          "lastName": "Stein",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Baden-Württemberg",
+          "photo": "https://afd-fraktion-bw.de/wp-content/uploads/2023/05/Stein-1-1200px.jpg"
+        },
+        {
+          "name": "Christoforos Tsoulopoulos",
+          "firstName": "Christoforos",
+          "lastName": "Tsoulopoulos",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Baden-Württemberg",
+          "photo": "https://afd-fraktion-bw.de/wp-content/uploads/2026/05/Christoforos-Tsoulopoulos-1200.jpg"
+        },
+        {
+          "name": "Uwe von Wangenheim",
+          "firstName": "Uwe",
+          "lastName": "Wangenheim",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Baden-Württemberg",
+          "photo": "https://afd-fraktion-bw.de/wp-content/uploads/2026/05/Uwe-von-Wangenheim-1200.jpg"
+        },
+        {
+          "name": "Carola Wolle",
+          "firstName": "Carola",
+          "lastName": "Wolle",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Baden-Württemberg",
+          "photo": "https://afd-fraktion-bw.de/wp-content/uploads/2022/11/Wolle-Carola-R1.jpg"
+        },
+        {
+          "name": "Alexsei Zimmer",
+          "firstName": "Alexsei",
+          "lastName": "Zimmer",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Baden-Württemberg",
+          "photo": "https://afd-fraktion-bw.de/wp-content/uploads/2026/06/Alexei-Zimmer-1200.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Bayern",
+      "parliament": "19. Bayerischer Landtag",
+      "source": "https://www.afd-landtag.bayern/fraktion/",
+      "count": 32,
+      "members": [
+        {
+          "name": "Dieter Arnold",
+          "firstName": "Dieter",
+          "lastName": "Arnold",
+          "role": "",
+          "email": "dieter.arnold@afd-landtag.bayern",
+          "website": "",
+          "land": "Bayern",
+          "photo": "https://www.afd-landtag.bayern/wp-content/uploads/2024/01/Profilbild_Arnold_Dieter.png"
+        },
+        {
+          "name": "Oskar Atzinger",
+          "firstName": "Oskar",
+          "lastName": "Atzinger",
+          "role": "",
+          "email": "oskar.atzinger@afd-landtag.bayern",
+          "website": "",
+          "land": "Bayern",
+          "photo": "https://www.afd-landtag.bayern/wp-content/uploads/2024/01/Profilbild_Atzinger_Oskar.png"
+        },
+        {
+          "name": "Jörg Baumann",
+          "firstName": "Jörg",
+          "lastName": "Baumann",
+          "role": "",
+          "email": "joerg.baumann@afd-landtag.bayern",
+          "website": "",
+          "land": "Bayern",
+          "photo": "https://www.afd-landtag.bayern/wp-content/uploads/2024/02/joerg-baumann.jpg"
+        },
+        {
+          "name": "Franz Bergmüller",
+          "firstName": "Franz",
+          "lastName": "Bergmüller",
+          "role": "",
+          "email": "franz.bergmueller@afd-landtag.bayern",
+          "website": "",
+          "land": "Bayern",
+          "photo": "https://www.afd-landtag.bayern/wp-content/uploads/2024/01/Profilbild_Bergmueller_Franz.png"
+        },
+        {
+          "name": "Martin Böhm",
+          "firstName": "Martin",
+          "lastName": "Böhm",
+          "role": "",
+          "email": "martin.boehm@afd-landtag.bayern",
+          "website": "",
+          "land": "Bayern",
+          "photo": "https://www.afd-landtag.bayern/wp-content/uploads/2024/01/Profilbild_Boehm_Martin.png"
+        },
+        {
+          "name": "Rene Dierkes",
+          "firstName": "Rene",
+          "lastName": "Dierkes",
+          "role": "",
+          "email": "rene.dierkes@afd-landtag.bayern",
+          "website": "",
+          "land": "Bayern",
+          "photo": "https://www.afd-landtag.bayern/wp-content/uploads/2024/01/Profilbild_Dierkes_Rene.png"
+        },
+        {
+          "name": "Katrin Ebner-Steiner",
+          "firstName": "Katrin",
+          "lastName": "Ebner-Steiner",
+          "role": "Fraktionsvorsitzende",
+          "email": "katrin.ebner-steiner@afd-landtag.bayern",
+          "website": "",
+          "land": "Bayern",
+          "photo": "https://www.afd-landtag.bayern/wp-content/uploads/2024/01/Profilbild_Ebner-Steiner-Katrin.png"
+        },
+        {
+          "name": "Christin Gmelch",
+          "firstName": "Christin",
+          "lastName": "Gmelch",
+          "role": "",
+          "email": "christin.gmelch@afd-landtag.bayern",
+          "website": "",
+          "land": "Bayern",
+          "photo": "https://www.afd-landtag.bayern/wp-content/uploads/2025/04/Profilbild_Christin_Gmelch.png"
+        },
+        {
+          "name": "Richard Graupner",
+          "firstName": "Richard",
+          "lastName": "Graupner",
+          "role": "Stellv. Fraktionsvorsitzender",
+          "email": "richard.graupner@afd-landtag.bayern",
+          "website": "",
+          "land": "Bayern",
+          "photo": "https://www.afd-landtag.bayern/wp-content/uploads/2024/01/Profilbild_Graupner_Richard.png"
+        },
+        {
+          "name": "Daniel Halemba",
+          "firstName": "Daniel",
+          "lastName": "Halemba",
+          "role": "",
+          "email": "daniel.halemba@afd-landtag.bayern",
+          "website": "",
+          "land": "Bayern",
+          "photo": "https://www.afd-landtag.bayern/wp-content/uploads/2024/01/Profilbild_Halemba_Daniel.png"
+        },
+        {
+          "name": "Martin Huber",
+          "firstName": "Martin",
+          "lastName": "Huber",
+          "role": "",
+          "email": "martin.huber@afd-landtag.bayern",
+          "website": "http://martin-huber-afd.de/",
+          "land": "Bayern",
+          "photo": "https://www.afd-landtag.bayern/wp-content/uploads/2024/01/Profilbild_Huber_Martin.png"
+        },
+        {
+          "name": "Andreas Jurca",
+          "firstName": "Andreas",
+          "lastName": "Jurca",
+          "role": "",
+          "email": "andreas.jurca@afd-landtag.bayern",
+          "website": "",
+          "land": "Bayern",
+          "photo": "https://www.afd-landtag.bayern/wp-content/uploads/2024/01/Profilbild_Jurca_Andreas.png"
+        },
+        {
+          "name": "Florian Köhler",
+          "firstName": "Florian",
+          "lastName": "Köhler",
+          "role": "",
+          "email": "florian.koehler@afd-landtag.bayern",
+          "website": "",
+          "land": "Bayern",
+          "photo": "https://www.afd-landtag.bayern/wp-content/uploads/2024/01/Profilbild_Koehler_Florian.png"
+        },
+        {
+          "name": "Oskar Lipp",
+          "firstName": "Oskar",
+          "lastName": "Lipp",
+          "role": "",
+          "email": "oskar.lipp@afd-landtag.bayern",
+          "website": "",
+          "land": "Bayern",
+          "photo": "https://www.afd-landtag.bayern/wp-content/uploads/2024/01/Profilbild_Lipp_Oskar.png"
+        },
+        {
+          "name": "Stefan Löw",
+          "firstName": "Stefan",
+          "lastName": "Löw",
+          "role": "",
+          "email": "teamoberpfalz@afd-landtag.bayern",
+          "website": "",
+          "land": "Bayern",
+          "photo": "https://www.afd-landtag.bayern/wp-content/uploads/2024/01/Profilbild_Loew_Stefan.png"
+        },
+        {
+          "name": "Roland Magerl",
+          "firstName": "Roland",
+          "lastName": "Magerl",
+          "role": "",
+          "email": "teamoberpfalz@afd-landtag.bayern",
+          "website": "",
+          "land": "Bayern",
+          "photo": "https://www.afd-landtag.bayern/wp-content/uploads/2024/01/Profilbild_Magerl_Roland.png"
+        },
+        {
+          "name": "Christoph Maier",
+          "firstName": "Christoph",
+          "lastName": "Maier",
+          "role": "Parlamentarischer Geschäftsführer",
+          "email": "christoph.maier@afd-landtag.bayern",
+          "website": "",
+          "land": "Bayern",
+          "photo": "https://www.afd-landtag.bayern/wp-content/uploads/2024/01/Profilbild_Maier_Christoph.png"
+        },
+        {
+          "name": "Ferdinand Mang",
+          "firstName": "Ferdinand",
+          "lastName": "Mang",
+          "role": "",
+          "email": "ferdinand.mang@afd-landtag.bayern",
+          "website": "",
+          "land": "Bayern",
+          "photo": "https://www.afd-landtag.bayern/wp-content/uploads/2024/01/Profilbild_Mang_Ferdinand.png"
+        },
+        {
+          "name": "Gerd Mannes",
+          "firstName": "Gerd",
+          "lastName": "Mannes",
+          "role": "Stellv. Fraktionsvorsitzender",
+          "email": "gerd.mannes@afd-landtag.bayern",
+          "website": "https://gerd-mannes.de/",
+          "land": "Bayern",
+          "photo": "https://www.afd-landtag.bayern/wp-content/uploads/2024/01/Profilbild_Mannes_Gerd.png"
+        },
+        {
+          "name": "Johannes Meier",
+          "firstName": "Johannes",
+          "lastName": "Meier",
+          "role": "Stellv. Fraktionsvorsitzender",
+          "email": "johannes.meier@afd-landtag.bayern",
+          "website": "",
+          "land": "Bayern",
+          "photo": "https://www.afd-landtag.bayern/wp-content/uploads/2024/01/Profilbild_Meier_Johannes.png"
+        },
+        {
+          "name": "Harald Meußgeier",
+          "firstName": "Harald",
+          "lastName": "Meußgeier",
+          "role": "",
+          "email": "harald.meussgeier@afd-landtag.bayern",
+          "website": "",
+          "land": "Bayern",
+          "photo": "https://www.afd-landtag.bayern/wp-content/uploads/2024/01/Profilbild_Meussgeier_Harald.png"
+        },
+        {
+          "name": "Johann Müller",
+          "firstName": "Johann",
+          "lastName": "Müller",
+          "role": "",
+          "email": "johann.mueller@afd-landtag.bayern",
+          "website": "",
+          "land": "Bayern",
+          "photo": "https://www.afd-landtag.bayern/wp-content/uploads/2024/01/Profilbild_Mueller_Johann.png"
+        },
+        {
+          "name": "Benjamin Nolte",
+          "firstName": "Benjamin",
+          "lastName": "Nolte",
+          "role": "Stellv. Fraktionsvorsitzender",
+          "email": "benjamin.nolte@afd-landtag.bayern",
+          "website": "",
+          "land": "Bayern",
+          "photo": "https://www.afd-landtag.bayern/wp-content/uploads/2024/01/Profilbild_Nolte_Benjamin.png"
+        },
+        {
+          "name": "Elena Roon",
+          "firstName": "Elena",
+          "lastName": "Roon",
+          "role": "",
+          "email": "elena.roon@afd-landtag.bayern",
+          "website": "",
+          "land": "Bayern",
+          "photo": "https://www.afd-landtag.bayern/wp-content/uploads/2024/01/Profilbild_Roon_Elena.png"
+        },
+        {
+          "name": "Franz Schmid",
+          "firstName": "Franz",
+          "lastName": "Schmid",
+          "role": "",
+          "email": "franz.schmid@afd-landtag.bayern",
+          "website": "",
+          "land": "Bayern",
+          "photo": "https://www.afd-landtag.bayern/wp-content/uploads/2025/01/Profilbild_Schmid_Franz.png"
+        },
+        {
+          "name": "Ulrich Singer",
+          "firstName": "Ulrich",
+          "lastName": "Singer",
+          "role": "Fraktionsvorsitzender",
+          "email": "ulrich.singer@afd-landtag.bayern",
+          "website": "",
+          "land": "Bayern",
+          "photo": "https://www.afd-landtag.bayern/wp-content/uploads/2024/01/Profilbild_Singer_Ulrich.png"
+        },
+        {
+          "name": "Ralf Stadler",
+          "firstName": "Ralf",
+          "lastName": "Stadler",
+          "role": "",
+          "email": "ralf.stadler@afd-landtag.bayern",
+          "website": "",
+          "land": "Bayern",
+          "photo": "https://www.afd-landtag.bayern/wp-content/uploads/2025/01/Profilbild_Stadler_Ralf.png"
+        },
+        {
+          "name": "Ramona Storm",
+          "firstName": "Ramona",
+          "lastName": "Storm",
+          "role": "",
+          "email": "ramona.storm@afd-landtag.bayern",
+          "website": "",
+          "land": "Bayern",
+          "photo": "https://www.afd-landtag.bayern/wp-content/uploads/2025/01/Profilbild_Storm_Ramona.png"
+        },
+        {
+          "name": "Markus Striedl",
+          "firstName": "Markus",
+          "lastName": "Striedl",
+          "role": "",
+          "email": "markus.striedl@afd-landtag.bayern",
+          "website": "",
+          "land": "Bayern",
+          "photo": "https://www.afd-landtag.bayern/wp-content/uploads/2024/01/Profilbild_Striedl_Markus.png"
+        },
+        {
+          "name": "Matthias Vogler",
+          "firstName": "Matthias",
+          "lastName": "Vogler",
+          "role": "",
+          "email": "matthias.vogler@afd-landtag.bayern",
+          "website": "https://www.matthias-vogler.info/",
+          "land": "Bayern",
+          "photo": "https://www.afd-landtag.bayern/wp-content/uploads/2024/01/Profilbild_Vogler_Matthias.png"
+        },
+        {
+          "name": "Markus Walbrunn",
+          "firstName": "Markus",
+          "lastName": "Walbrunn",
+          "role": "Stellv. Parlamentarischer Geschäftsführer",
+          "email": "markus.walbrunn@afd-landtag.bayern",
+          "website": "",
+          "land": "Bayern",
+          "photo": "https://www.afd-landtag.bayern/wp-content/uploads/2024/01/Profilbild_Walbrunn_Markus.png"
+        },
+        {
+          "name": "Andreas Winhart",
+          "firstName": "Andreas",
+          "lastName": "Winhart",
+          "role": "Stellv. Fraktionsvorsitzender",
+          "email": "andreas.winhart@afd-landtag.bayern",
+          "website": "",
+          "land": "Bayern",
+          "photo": "https://www.afd-landtag.bayern/wp-content/uploads/2025/01/Profilbild_Winhart_Andreas.png"
+        }
+      ]
+    },
+    {
+      "name": "Berlin",
+      "parliament": "Abgeordnetenhaus von Berlin",
+      "source": "https://afd-fraktion.berlin/unsere-abgeordneten/",
+      "count": 29,
+      "members": [
+        {
+          "name": "Julian Adrat",
+          "firstName": "Julian",
+          "lastName": "Adrat",
+          "role": "",
+          "email": "adrat@afd-fraktion.berlin",
+          "website": "",
+          "land": "Berlin",
+          "photo": "https://afd-fraktion.berlin/wp-content/uploads/2026/09/Adrat-b.jpg"
+        },
+        {
+          "name": "Jeannette Auricht",
+          "firstName": "Jeannette",
+          "lastName": "Auricht",
+          "role": "",
+          "email": "auricht@afd-fraktion.berlin",
+          "website": "",
+          "land": "Berlin",
+          "photo": "https://afd-fraktion.berlin/wp-content/uploads/2025/07/Auricht-frei-BG_ICEBLUE-RGB-web.jpg"
+        },
+        {
+          "name": "Marc-Philipp Bernicke",
+          "firstName": "Marc-Philipp",
+          "lastName": "Bernicke",
+          "role": "",
+          "email": "bernicke@afd-fraktion.berlin",
+          "website": "",
+          "land": "Berlin",
+          "photo": "https://afd-fraktion.berlin/wp-content/uploads/2026/09/Bernicke-b.jpg"
+        },
+        {
+          "name": "Alexander Bertram",
+          "firstName": "Alexander",
+          "lastName": "Bertram",
+          "role": "Stellv. Fraktionsvorsitzender",
+          "email": "bertram@afd-fraktion.berlin",
+          "website": "https://alexander-bertram.berlin/",
+          "land": "Berlin",
+          "photo": "https://afd-fraktion.berlin/wp-content/uploads/2025/07/Bertram-frei-BG_ICEBLUE-RGB-web.jpg"
+        },
+        {
+          "name": "Kristin Brinker",
+          "firstName": "Kristin",
+          "lastName": "Brinker",
+          "role": "Fraktionsvorsitzende",
+          "email": "brinker@afd-fraktion.berlin",
+          "website": "https://kristin-brinker.de/",
+          "land": "Berlin",
+          "photo": "https://afd-fraktion.berlin/wp-content/uploads/2025/07/Brinker-frei-BG_ICEBLUE-RGB-web.jpg"
+        },
+        {
+          "name": "Hugh Bronson",
+          "firstName": "Hugh",
+          "lastName": "Bronson",
+          "role": "",
+          "email": "bronson@afd-fraktion.berlin",
+          "website": "https://www.hughbronson.de",
+          "land": "Berlin",
+          "photo": "https://afd-fraktion.berlin/wp-content/uploads/2025/07/Bronson-frei-BG_ICEBLUE-RGB-web.jpg"
+        },
+        {
+          "name": "Ralf-Günther Conradi",
+          "firstName": "Ralf-Günther",
+          "lastName": "Conradi",
+          "role": "",
+          "email": "conradi@afd-fraktion.berlin",
+          "website": "",
+          "land": "Berlin",
+          "photo": "https://afd-fraktion.berlin/wp-content/uploads/2026/09/Conradi-b.jpg"
+        },
+        {
+          "name": "Anneliese Dummer",
+          "firstName": "Anneliese",
+          "lastName": "Dummer",
+          "role": "",
+          "email": "dummer@afd-fraktion.berlin",
+          "website": "",
+          "land": "Berlin",
+          "photo": "https://afd-fraktion.berlin/wp-content/uploads/2026/09/Dummer-b.jpg"
+        },
+        {
+          "name": "David Eckert",
+          "firstName": "David",
+          "lastName": "Eckert",
+          "role": "",
+          "email": "eckert@afd-fraktion.berlin",
+          "website": "",
+          "land": "Berlin",
+          "photo": "https://afd-fraktion.berlin/wp-content/uploads/2026/09/Eckert-b.jpg"
+        },
+        {
+          "name": "Robert Eschricht",
+          "firstName": "Robert",
+          "lastName": "Eschricht",
+          "role": "",
+          "email": "eschricht@afd-fraktion.berlin",
+          "website": "",
+          "land": "Berlin",
+          "photo": "https://afd-fraktion.berlin/wp-content/uploads/2025/07/Eschricht-frei-BG_ICEBLUE-RGB-web.jpg"
+        },
+        {
+          "name": "Jörn Geißler",
+          "firstName": "Jörn",
+          "lastName": "Geißler",
+          "role": "",
+          "email": "geissler@afd-fraktion.berlin",
+          "website": "",
+          "land": "Berlin",
+          "photo": "https://afd-fraktion.berlin/wp-content/uploads/2026/09/Geissler-b.jpg"
+        },
+        {
+          "name": "Sarah-Emanuela Gröber",
+          "firstName": "Sarah-Emanuela",
+          "lastName": "Gröber",
+          "role": "",
+          "email": "groeber@afd-fraktion.berlin",
+          "website": "",
+          "land": "Berlin",
+          "photo": "https://afd-fraktion.berlin/wp-content/uploads/2026/09/Groeber-b.jpg"
+        },
+        {
+          "name": "Frank-Christian Hansel",
+          "firstName": "Frank-Christian",
+          "lastName": "Hansel",
+          "role": "",
+          "email": "hansel@afd-fraktion.berlin",
+          "website": "http://www.frank-hansel.de",
+          "land": "Berlin",
+          "photo": "https://afd-fraktion.berlin/wp-content/uploads/2022/12/Hansel-NEU-frei-BG_ICEBLUE-RGB-web.jpg"
+        },
+        {
+          "name": "Denis Henkel",
+          "firstName": "Denis",
+          "lastName": "Henkel",
+          "role": "",
+          "email": "henkel@afd-fraktion.berlin",
+          "website": "",
+          "land": "Berlin",
+          "photo": "https://afd-fraktion.berlin/wp-content/uploads/2026/09/Henkel-b.jpg"
+        },
+        {
+          "name": "Stephan Knaute",
+          "firstName": "Stephan",
+          "lastName": "Knaute",
+          "role": "",
+          "email": "knaute@afd-fraktion.berlin",
+          "website": "",
+          "land": "Berlin",
+          "photo": "https://afd-fraktion.berlin/wp-content/uploads/2026/09/Knaute-b.jpg"
+        },
+        {
+          "name": "Martin Koblischke",
+          "firstName": "Martin",
+          "lastName": "Koblischke",
+          "role": "",
+          "email": "koblischke@afd-fraktion.berlin",
+          "website": "",
+          "land": "Berlin",
+          "photo": "https://afd-fraktion.berlin/wp-content/uploads/2026/09/Koblischke-b.jpg"
+        },
+        {
+          "name": "Martin Kohler",
+          "firstName": "Martin",
+          "lastName": "Kohler",
+          "role": "Stellv. Fraktionsvorsitzender",
+          "email": "kohler@afd-fraktion.berlin",
+          "website": "",
+          "land": "Berlin",
+          "photo": "https://afd-fraktion.berlin/wp-content/uploads/2026/09/Kohler-c.jpg"
+        },
+        {
+          "name": "Daniel Krüger",
+          "firstName": "Daniel",
+          "lastName": "Krüger",
+          "role": "",
+          "email": "krueger@afd-fraktion.berlin",
+          "website": "",
+          "land": "Berlin",
+          "photo": "https://afd-fraktion.berlin/wp-content/uploads/2026/09/Krueger-b.jpg"
+        },
+        {
+          "name": "Gunnar Lindemann",
+          "firstName": "Gunnar",
+          "lastName": "Lindemann",
+          "role": "",
+          "email": "afd.buero.lindemann@gmail.com",
+          "website": "http://www.gunnar-lindemann.de",
+          "land": "Berlin",
+          "photo": "https://afd-fraktion.berlin/wp-content/uploads/2025/07/Lindemann-frei-BG_ICEBLUE-RGB-web.jpg"
+        },
+        {
+          "name": "Herbert Mohr",
+          "firstName": "Herbert",
+          "lastName": "Mohr",
+          "role": "",
+          "email": "mohr@afd-fraktion.berlin",
+          "website": "",
+          "land": "Berlin",
+          "photo": "https://afd-fraktion.berlin/wp-content/uploads/2026/09/Mohr-b.jpg"
+        },
+        {
+          "name": "Andreas Otti",
+          "firstName": "Andreas",
+          "lastName": "Otti",
+          "role": "",
+          "email": "otti@afd-fraktion.berlin",
+          "website": "",
+          "land": "Berlin",
+          "photo": "https://afd-fraktion.berlin/wp-content/uploads/2026/09/Otti-b.jpg"
+        },
+        {
+          "name": "Hendrik Pauli",
+          "firstName": "Hendrik",
+          "lastName": "Pauli",
+          "role": "",
+          "email": "pauli@afd-fraktion.berlin",
+          "website": "",
+          "land": "Berlin",
+          "photo": "https://afd-fraktion.berlin/wp-content/uploads/2026/09/Pauli-b.jpg"
+        },
+        {
+          "name": "Frank Scheermesser",
+          "firstName": "Frank",
+          "lastName": "Scheermesser",
+          "role": "",
+          "email": "scheermesser@afd-fraktion.berlin",
+          "website": "",
+          "land": "Berlin",
+          "photo": "https://afd-fraktion.berlin/wp-content/uploads/2025/07/Scheermesser-frei-BG_ICEBLUE-RGB-web.jpg"
+        },
+        {
+          "name": "Jan Streeck",
+          "firstName": "Jan",
+          "lastName": "Streeck",
+          "role": "Stellv. Fraktionsvorsitzender",
+          "email": "streeck@afd-fraktion.berlin",
+          "website": "",
+          "land": "Berlin",
+          "photo": "https://afd-fraktion.berlin/wp-content/uploads/2026/09/Streeck-b.jpg"
+        },
+        {
+          "name": "Tommy Tabor",
+          "firstName": "Tommy",
+          "lastName": "Tabor",
+          "role": "Stellv. Fraktionsvorsitzender",
+          "email": "tabor@afd-fraktion.berlin",
+          "website": "",
+          "land": "Berlin",
+          "photo": "https://afd-fraktion.berlin/wp-content/uploads/2025/07/Tabor-frei-BG_ICEBLUE-RGB-web.jpg"
+        },
+        {
+          "name": "Martin Trefzer",
+          "firstName": "Martin",
+          "lastName": "Trefzer",
+          "role": "Stellv. Fraktionsvorsitzender",
+          "email": "trefzer@afd-fraktion.berlin",
+          "website": "",
+          "land": "Berlin",
+          "photo": "https://afd-fraktion.berlin/wp-content/uploads/2025/07/Trefzer-frei-BG_ICEBLUE-RGB-web.jpg"
+        },
+        {
+          "name": "Carsten Ubbelohde",
+          "firstName": "Carsten",
+          "lastName": "Ubbelohde",
+          "role": "",
+          "email": "ubbelohde@afd-fraktion.berlin",
+          "website": "",
+          "land": "Berlin",
+          "photo": "https://afd-fraktion.berlin/wp-content/uploads/2025/07/Ubbelohde-frei-BG_ICEBLUE-RGB-web.jpg"
+        },
+        {
+          "name": "Marc Vallendar",
+          "firstName": "Marc",
+          "lastName": "Vallendar",
+          "role": "",
+          "email": "vallendar@afd-fraktion.berlin",
+          "website": "https://www.marc-vallendar.de/",
+          "land": "Berlin",
+          "photo": "https://afd-fraktion.berlin/wp-content/uploads/2025/07/Vallendar-frei-BG_ICEBLUE-RGB-web.jpg"
+        },
+        {
+          "name": "Rolf Wiedenhaupt",
+          "firstName": "Rolf",
+          "lastName": "Wiedenhaupt",
+          "role": "Parlamentarischer Geschäftsführer",
+          "email": "wiedenhaupt@afd-fraktion.berlin",
+          "website": "",
+          "land": "Berlin",
+          "photo": "https://afd-fraktion.berlin/wp-content/uploads/2025/07/Wiedenhaupt-frei-BG_ICEBLUE-RGB-web.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Brandenburg",
+      "parliament": "7. Landtag Brandenburg",
+      "source": "https://www.landtag.brandenburg.de/de/abgeordnete_-_fraktionen/fraktionen/afd-fraktion/25206",
+      "count": 30,
+      "members": [
+        {
+          "name": "Jean-René Adam",
+          "firstName": "Jean-René",
+          "lastName": "Adam",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Brandenburg",
+          "photo": "https://www.landtag.brandenburg.de/media_fast/54/thumbnails/Jean-Rene%CC%81%20Adam_Gloede_Website_neu.jpg.371362.jpg"
+        },
+        {
+          "name": "Torsten Arndt",
+          "firstName": "Torsten",
+          "lastName": "Arndt",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Brandenburg",
+          "photo": "https://www.landtag.brandenburg.de/media_fast/54/thumbnails/Arndt_Torsten_Gloede_Website_neu.jpg.371394.jpg"
+        },
+        {
+          "name": "Kai Berger",
+          "firstName": "Kai",
+          "lastName": "Berger",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Brandenburg",
+          "photo": "https://www.landtag.brandenburg.de/media_fast/54/thumbnails/Berger_Kai_AfD-Gloede%20neu.jpg.372104.jpg"
+        },
+        {
+          "name": "Hans-Christoph Berndt",
+          "firstName": "Hans-Christoph",
+          "lastName": "Berndt",
+          "role": "Fraktionsvorsitzender",
+          "email": "",
+          "website": "",
+          "land": "Brandenburg",
+          "photo": "https://www.landtag.brandenburg.de/media_fast/54/thumbnails/Berndt-Christoph-AfD-Okt-2019.jpg.289013.jpg"
+        },
+        {
+          "name": "Marlon Deter",
+          "firstName": "Marlon",
+          "lastName": "Deter",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Brandenburg",
+          "photo": "https://www.landtag.brandenburg.de/media_fast/54/thumbnails/Marlon%20Deter_Website.jpg.376906.jpg"
+        },
+        {
+          "name": "Peter Drenske",
+          "firstName": "Peter",
+          "lastName": "Drenske",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Brandenburg",
+          "photo": "https://www.landtag.brandenburg.de/media_fast/54/thumbnails/Drenske-Peter-AfD-September-2019.jpg.289021.jpg"
+        },
+        {
+          "name": "Benjamin Filter",
+          "firstName": "Benjamin",
+          "lastName": "Filter",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Brandenburg",
+          "photo": "https://www.landtag.brandenburg.de/media_fast/54/thumbnails/Filter_Benjamin_AfD-Gloede%20neu.jpg.372112.jpg"
+        },
+        {
+          "name": "Andreas Galau",
+          "firstName": "Andreas",
+          "lastName": "Galau",
+          "role": "Stellv. Fraktionsvorsitzender",
+          "email": "",
+          "website": "",
+          "land": "Brandenburg",
+          "photo": "https://www.landtag.brandenburg.de/media_fast/54/thumbnails/Galau-Andreas-AfD-WP-6.jpg.386750.jpg"
+        },
+        {
+          "name": "Heiko Gehring",
+          "firstName": "Heiko",
+          "lastName": "Gehring",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Brandenburg",
+          "photo": "https://www.landtag.brandenburg.de/media_fast/54/thumbnails/Zuschnitt%20Web%20Gehring_Heiko.jpg.386742.jpg"
+        },
+        {
+          "name": "Lars Günther",
+          "firstName": "Lars",
+          "lastName": "Günther",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Brandenburg",
+          "photo": "https://www.landtag.brandenburg.de/media_fast/54/thumbnails/Guenther-Lars-AfD-September-2019.jpg.289029.jpg"
+        },
+        {
+          "name": "Michael Hanko",
+          "firstName": "Michael",
+          "lastName": "Hanko",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Brandenburg",
+          "photo": "https://www.landtag.brandenburg.de/media_fast/54/thumbnails/Hanko_Michael%2C%20afd%20Gloede%20neu.jpg.372128.jpg"
+        },
+        {
+          "name": "Dennis Hohloch",
+          "firstName": "Dennis",
+          "lastName": "Hohloch",
+          "role": "Parlamentarischer Geschäftsführer",
+          "email": "",
+          "website": "",
+          "land": "Brandenburg",
+          "photo": "https://www.landtag.brandenburg.de/media_fast/54/thumbnails/Hohloch-Dennis-AfD-Juli_2025_AfD-Fraktion.jpg.380488.jpg"
+        },
+        {
+          "name": "Jean-Pascal Hohm",
+          "firstName": "Jean-Pascal",
+          "lastName": "Hohm",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Brandenburg",
+          "photo": "https://www.landtag.brandenburg.de/media_fast/54/thumbnails/Holm_Jean-Pascal_AfD-Gloede%20neu.jpg.371966.jpg"
+        },
+        {
+          "name": "Lars Hünich",
+          "firstName": "Lars",
+          "lastName": "Hünich",
+          "role": "Stellv. Fraktionsvorsitzender",
+          "email": "",
+          "website": "",
+          "land": "Brandenburg",
+          "photo": "https://www.landtag.brandenburg.de/media_fast/54/thumbnails/Hu%CC%88nich%2C%20Lars_AFD_Gloede%20neu.jpg.371894.jpg"
+        },
+        {
+          "name": "Fabian Jank",
+          "firstName": "Fabian",
+          "lastName": "Jank",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Brandenburg",
+          "photo": "https://www.landtag.brandenburg.de/media_fast/54/thumbnails/Jank_Fabian%20AfD%20Gloede%20neu.jpg.372200.jpg"
+        },
+        {
+          "name": "Falk Janke",
+          "firstName": "Falk",
+          "lastName": "Janke",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Brandenburg",
+          "photo": "https://www.landtag.brandenburg.de/media_fast/54/thumbnails/Janke%2C%20Falk%20Gerd%20AfD-Gloede%20neu.jpg.371902.jpg"
+        },
+        {
+          "name": "Steffen John",
+          "firstName": "Steffen",
+          "lastName": "John",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Brandenburg",
+          "photo": "https://www.landtag.brandenburg.de/media_fast/54/thumbnails/John-Jan-Steffen-AfD-September-2019.jpg.289069.jpg"
+        },
+        {
+          "name": "Dominik Kaufner",
+          "firstName": "Dominik",
+          "lastName": "Kaufner",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Brandenburg",
+          "photo": "https://www.landtag.brandenburg.de/media_fast/54/thumbnails/Kaufner_Dominik_AfD-Gloede%20neu.jpg.371910.jpg"
+        },
+        {
+          "name": "Lena Kotré",
+          "firstName": "Lena",
+          "lastName": "Kotré",
+          "role": "Stellv. Fraktionsvorsitzende",
+          "email": "",
+          "website": "",
+          "land": "Brandenburg",
+          "photo": "https://www.landtag.brandenburg.de/media_fast/54/thumbnails/L.Duggen_AfD_Oktober_2019.jpg.289637.jpg"
+        },
+        {
+          "name": "Steffen Kubitzki",
+          "firstName": "Steffen",
+          "lastName": "Kubitzki",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Brandenburg",
+          "photo": "https://www.landtag.brandenburg.de/media_fast/54/thumbnails/Kubitzki_steffen%20Afd%20Gloede%20neu.jpg.371918.jpg"
+        },
+        {
+          "name": "Roman Kuffert",
+          "firstName": "Roman",
+          "lastName": "Kuffert",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Brandenburg",
+          "photo": "https://www.landtag.brandenburg.de/media_fast/54/thumbnails/Kuffert_Roman_AfD-Gloede%20neu.jpg.371926.jpg"
+        },
+        {
+          "name": "Daniel Freiherr von Lützow",
+          "firstName": "Daniel",
+          "lastName": "Lützow",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Brandenburg",
+          "photo": "https://www.landtag.brandenburg.de/media_fast/54/thumbnails/Freiherr%20von%20Lu%CC%88tzow%2C%20Daniel_AFD%20Gloede%20neu.jpg.372120.jpg"
+        },
+        {
+          "name": "Wilko Möller",
+          "firstName": "Wilko",
+          "lastName": "Möller",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Brandenburg",
+          "photo": "https://www.landtag.brandenburg.de/media_fast/54/thumbnails/Mo%CC%88ller_Wilko%20AFD%20Gloede%20neu.jpg.371934.jpg"
+        },
+        {
+          "name": "Daniel Münschke",
+          "firstName": "Daniel",
+          "lastName": "Münschke",
+          "role": "Vizepräsident des Landtags",
+          "email": "",
+          "website": "",
+          "land": "Brandenburg",
+          "photo": "https://www.landtag.brandenburg.de/media_fast/54/thumbnails/Muenschke-Daniel-AfD-September-2019.jpg.289093.jpg"
+        },
+        {
+          "name": "Volker Nothing",
+          "firstName": "Volker",
+          "lastName": "Nothing",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Brandenburg",
+          "photo": "https://www.landtag.brandenburg.de/media_fast/54/thumbnails/Nothing-Volker-AfD-September-2019.jpg.289109.jpg"
+        },
+        {
+          "name": "Daniela Oeynhausen",
+          "firstName": "Daniela",
+          "lastName": "Oeynhausen",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Brandenburg",
+          "photo": "https://www.landtag.brandenburg.de/media_fast/54/thumbnails/Oeynhausen%2C%20Daniela%20%28Dr.%29-Internet_2.jpg.333958.jpg"
+        },
+        {
+          "name": "Erik Pardeik",
+          "firstName": "Erik",
+          "lastName": "Pardeik",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Brandenburg",
+          "photo": "https://www.landtag.brandenburg.de/media_fast/54/thumbnails/Pardeik_Erik_AfD-Gloede%20neu.jpg.372088.jpg"
+        },
+        {
+          "name": "Norbert Rescher",
+          "firstName": "Norbert",
+          "lastName": "Rescher",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Brandenburg",
+          "photo": "https://www.landtag.brandenburg.de/media_fast/54/thumbnails/Rescher_Norbert_AfD-Gloede%20neu.jpg.372096.jpg"
+        },
+        {
+          "name": "Felix Teichner",
+          "firstName": "Felix",
+          "lastName": "Teichner",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Brandenburg",
+          "photo": "https://www.landtag.brandenburg.de/media_fast/54/thumbnails/Teichner-Felix-Horst-AfD-September-2019.jpg.289133.jpg"
+        },
+        {
+          "name": "Tim Zimmermann",
+          "firstName": "Tim",
+          "lastName": "Zimmermann",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Brandenburg",
+          "photo": "https://www.landtag.brandenburg.de/media_fast/54/thumbnails/Zimmermann_Tim_AfD-Gloede%20neu.jpg.371950.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Bremen",
+      "parliament": "Bremische Bürgerschaft",
+      "source": "https://www.bremische-buergerschaft.de",
+      "count": 1,
+      "members": [
+        {
+          "name": "Sven Lichtenfeld",
+          "firstName": "Sven",
+          "lastName": "Lichtenfeld",
+          "role": "Mitglied der Bürgerschaft",
+          "email": "",
+          "website": "",
+          "land": "Bremen",
+          "photo": "https://www.bremische-buergerschaft.de/abgdb/fotos/14528_100px.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Hamburg",
+      "parliament": "Hamburgische Bürgerschaft",
+      "source": "https://www.hamburgische-buergerschaft.de/ueber-uns/abgeordneten-uebersicht",
+      "count": 9,
+      "members": [
+        {
+          "name": "Antje Hebel",
+          "firstName": "Antje",
+          "lastName": "Hebel",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Hamburg",
+          "photo": "https://www.hamburgische-buergerschaft.de/resource/image/1068908/portrait_ratio2x3/200/300/746460087fc10c650beedddd7aba1967/0CC51EE6B1F9B1E8233DFF9619C0E75F/hebel-antje-bild.webp"
+        },
+        {
+          "name": "Peggy Heitmann",
+          "firstName": "Peggy",
+          "lastName": "Heitmann",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Hamburg",
+          "photo": "https://www.hamburgische-buergerschaft.de/resource/image/1038452/portrait_ratio2x3/200/300/efbe5dd075440c2b669c5ef526a39a7b/9EB3D455F84C27570D236DC682789101/heitmann-peggy-bild.webp"
+        },
+        {
+          "name": "Joachim Körner",
+          "firstName": "Joachim",
+          "lastName": "Körner",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Hamburg",
+          "photo": "https://www.hamburgische-buergerschaft.de/resource/image/1038490/portrait_ratio2x3/200/300/c5f882a47265d3cdc3c285afc922ec3/8EBE9401A1D444FA9D53AC3ABA310428/koerner-joachim-bild.webp"
+        },
+        {
+          "name": "Benjamin Mennerich",
+          "firstName": "Benjamin",
+          "lastName": "Mennerich",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Hamburg",
+          "photo": "https://www.hamburgische-buergerschaft.de/resource/image/1038532/portrait_ratio2x3/200/300/ba4f7e2d5a5a2c0ab267f5918784619/8B9FE805D68F8222BFFAF500D333432F/mennerich-benjamin-bild.webp"
+        },
+        {
+          "name": "Dirk Nockemann",
+          "firstName": "Dirk",
+          "lastName": "Nockemann",
+          "role": "Fraktionsvorsitzender",
+          "email": "",
+          "website": "",
+          "land": "Hamburg",
+          "photo": "https://www.hamburgische-buergerschaft.de/resource/image/1033568/portrait_ratio2x3/200/300/5c722d4ecf988c1a3b9d25636b91d230/AB102BF6A5142C8F9484D930032CFBF4/nockemann-dirk-bild.webp"
+        },
+        {
+          "name": "Thomas Reich",
+          "firstName": "Thomas",
+          "lastName": "Reich",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Hamburg",
+          "photo": "https://www.hamburgische-buergerschaft.de/resource/image/1035724/portrait_ratio2x3/200/300/5098573b83be41c0d3ca8f8a5fecaedc/A6314E81552925F34E43345E3CD18388/reich-thomas-bild.webp"
+        },
+        {
+          "name": "Marco Schulz",
+          "firstName": "Marco",
+          "lastName": "Schulz",
+          "role": "Stellv. Parlamentarischer Geschäftsführer",
+          "email": "",
+          "website": "",
+          "land": "Hamburg",
+          "photo": "https://www.hamburgische-buergerschaft.de/resource/image/1033588/portrait_ratio2x3/200/300/88a2691585fb00bbf837d55ac7a871fb/5AD7D9AC7E3D8D0AC9268628C190C4AC/schulz-marco-bild.webp"
+        },
+        {
+          "name": "Eugen Seiler",
+          "firstName": "Eugen",
+          "lastName": "Seiler",
+          "role": "Fraktionsvorstand",
+          "email": "",
+          "website": "",
+          "land": "Hamburg",
+          "photo": "https://www.hamburgische-buergerschaft.de/resource/image/1035764/portrait_ratio2x3/200/300/7778feac0d214a820cb9eb36e240dbc3/3B77554633B5B7368F133D8987CA5EB5/seiler-eugen-bild.webp"
+        },
+        {
+          "name": "Krzysztof Walczak",
+          "firstName": "Krzysztof",
+          "lastName": "Walczak",
+          "role": "Parlamentarischer Geschäftsführer",
+          "email": "",
+          "website": "",
+          "land": "Hamburg",
+          "photo": "https://www.hamburgische-buergerschaft.de/resource/image/1033618/portrait_ratio2x3/200/300/d5b0044f1f023c2ebc17ec0adad2d4c6/F2F1E4052DA0099316B8499025023A0C/walczak-krzysztof-bild.webp"
+        }
+      ]
+    },
+    {
+      "name": "Hessen",
+      "parliament": "21. Hessischer Landtag",
+      "source": "https://hessischer-landtag.de/fraktion/afd",
+      "count": 25,
+      "members": [
+        {
+          "name": "Gerhard Schenk (Bebra)",
+          "firstName": "Gerhard",
+          "lastName": "(Bebra)",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Hessen",
+          "photo": "https://hessischer-landtag.de/sites/default/files/styles/4_5_abgeordnete_kacheln_xs/public/bilder/2024-01/Schenk%2C%20Gerhard%20%28AfD%29%2C%20%C2%A9%20Hessischer%20Landtag.jpg?h=5e4df613&itok=CjLXp0jp"
+        },
+        {
+          "name": "Patrick Schenk (Frankfurt)",
+          "firstName": "Patrick",
+          "lastName": "(Frankfurt)",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Hessen",
+          "photo": "https://hessischer-landtag.de/sites/default/files/styles/4_5_abgeordnete_kacheln_xs/public/bilder/2024-01/Schenk%2C%20Patrick%20%28AfD%29%2C%20%C2%A9%20Hessischer%20Landtag.jpg?h=ea9e7e22&itok=3YWqgLkM"
+        },
+        {
+          "name": "Gerhard Bärsch",
+          "firstName": "Gerhard",
+          "lastName": "Bärsch",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Hessen",
+          "photo": "https://hessischer-landtag.de/sites/default/files/styles/4_5_abgeordnete_kacheln_xs/public/bilder/2024-01/B%C3%A4rsch%2C%20Gerhard%20%28AfD%29%2C%20%C2%A9%20Hessischer%20Landtag.jpg?h=a0bcd60c&itok=RXtqmcmD"
+        },
+        {
+          "name": "Roman Bausch",
+          "firstName": "Roman",
+          "lastName": "Bausch",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Hessen",
+          "photo": "https://hessischer-landtag.de/sites/default/files/styles/4_5_abgeordnete_kacheln_xs/public/bilder/2024-01/Bausch%2C%20Roman%20%28AfD%29%2C%20%C2%A9%20Hessischer%20Landtag.jpg?h=ea9e7e22&itok=Q3oO7XwS"
+        },
+        {
+          "name": "Karsten Bletzer",
+          "firstName": "Karsten",
+          "lastName": "Bletzer",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Hessen",
+          "photo": "https://hessischer-landtag.de/sites/default/files/styles/4_5_abgeordnete_kacheln_xs/public/bilder/2024-01/Bletzer%2C%20Karsten%20%28AfD%29%2C%20%C2%A9%20Hessischer%20Landtag.jpg?h=385e4ce1&itok=m49i7Wm9"
+        },
+        {
+          "name": "Arno Enners",
+          "firstName": "Arno",
+          "lastName": "Enners",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Hessen",
+          "photo": "https://hessischer-landtag.de/sites/default/files/styles/4_5_abgeordnete_kacheln_xs/public/bilder/2024-01/Enners%2C%20Arno%20%28AfD%29%2C%20%C2%A9%20Hessischer%20Landtag.jpg?h=5740962b&itok=Y666vQmI"
+        },
+        {
+          "name": "Markus Fuchs",
+          "firstName": "Markus",
+          "lastName": "Fuchs",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Hessen",
+          "photo": "https://hessischer-landtag.de/sites/default/files/styles/4_5_abgeordnete_kacheln_xs/public/bilder/2024-01/Fuchs%2C%20Markus%20%28AfD%29%2C%20%C2%A9%20Hessischer%20Landtag.jpg?h=7f10f14d&itok=rKK8RYRK"
+        },
+        {
+          "name": "Klaus Gagel",
+          "firstName": "Klaus",
+          "lastName": "Gagel",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Hessen",
+          "photo": "https://hessischer-landtag.de/sites/default/files/styles/4_5_abgeordnete_kacheln_xs/public/bilder/2024-01/Gagel%2C%20Klaus%20%28AfD%29%2C%20%C2%A9%20Hessischer%20Landtag.jpg?h=29466ca1&itok=6FwlPlWG"
+        },
+        {
+          "name": "Frank Grobe",
+          "firstName": "Frank",
+          "lastName": "Grobe",
+          "role": "Parlamentarischer Geschäftsführer",
+          "email": "",
+          "website": "",
+          "land": "Hessen",
+          "photo": "https://hessischer-landtag.de/sites/default/files/styles/4_5_abgeordnete_kacheln_xs/public/bilder/2024-01/Grobe%2C%20Frank%2C%20Dr.%20%28AfD%29%2C%20%C2%A9%20Hessischer%20Landtag.jpg?h=ea9e7e22&itok=95mHb5tr"
+        },
+        {
+          "name": "Robert Lambrou",
+          "firstName": "Robert",
+          "lastName": "Lambrou",
+          "role": "Fraktionsvorsitzender",
+          "email": "",
+          "website": "",
+          "land": "Hessen",
+          "photo": "https://hessischer-landtag.de/sites/default/files/styles/4_5_abgeordnete_kacheln_xs/public/bilder/2024-01/Lambrou%2C%20Robert%20%28AfD%29%2C%20%C2%A9%20Hessischer%20Landtag.jpg?h=dc734efb&itok=nQ5vg-OM"
+        },
+        {
+          "name": "Andreas Lichert",
+          "firstName": "Andreas",
+          "lastName": "Lichert",
+          "role": "Stellv. Fraktionsvorsitzender",
+          "email": "",
+          "website": "",
+          "land": "Hessen",
+          "photo": "https://hessischer-landtag.de/sites/default/files/styles/4_5_abgeordnete_kacheln_xs/public/bilder/2024-01/Lichert%2C%20Andreas%20%28AfD%29%2C%20%C2%A9%20Hessischer%20Landtag.jpg?h=a0bcd60c&itok=4MyL5GVK"
+        },
+        {
+          "name": "Andreas Lobenstein",
+          "firstName": "Andreas",
+          "lastName": "Lobenstein",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Hessen",
+          "photo": "https://hessischer-landtag.de/sites/default/files/styles/4_5_abgeordnete_kacheln_xs/public/bilder/2024-01/Lobenstein%2C%20Andreas%20%28AfD%29%2C%20%C2%A9%20Hessischer%20Landtag.jpg?h=a0bcd60c&itok=g8edl88P"
+        },
+        {
+          "name": "Johannes Marxen",
+          "firstName": "Johannes",
+          "lastName": "Marxen",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Hessen",
+          "photo": "https://hessischer-landtag.de/sites/default/files/styles/4_5_abgeordnete_kacheln_xs/public/bilder/2024-01/Marxen%2C%20Johannes%20%28AfD%29%2C%20%C2%A9%20Hessischer%20Landtag.jpg?h=dc734efb&itok=RMQdz9fQ"
+        },
+        {
+          "name": "Lothar Mulch",
+          "firstName": "Lothar",
+          "lastName": "Mulch",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Hessen",
+          "photo": "https://hessischer-landtag.de/sites/default/files/styles/4_5_abgeordnete_kacheln_xs/public/bilder/2024-01/Mulch%2C%20Lothar%20%28AfD%29%2C%20%C2%A9%20Hessischer%20Landtag.jpg?h=385e4ce1&itok=c1a8p5ym"
+        },
+        {
+          "name": "Anna Nguyen",
+          "firstName": "Anna",
+          "lastName": "Nguyen",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Hessen",
+          "photo": "https://hessischer-landtag.de/sites/default/files/styles/4_5_abgeordnete_kacheln_xs/public/bilder/2024-01/Nguyen%2C%20Anna%20%28AfD%29%2C%20%C2%A9%20Hessischer%20Landtag.jpg?h=ba6824f0&itok=lAB-KLCz"
+        },
+        {
+          "name": "Marcus Resch",
+          "firstName": "Marcus",
+          "lastName": "Resch",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Hessen",
+          "photo": "https://hessischer-landtag.de/sites/default/files/styles/4_5_abgeordnete_kacheln_xs/public/bilder/2024-01/Resch%2C%20Marcus%20%28AfD%29%2C%20%C2%A9%20Hessischer%20Landtag.jpg?h=ba6824f0&itok=18X6vGns"
+        },
+        {
+          "name": "Volker Richter",
+          "firstName": "Volker",
+          "lastName": "Richter",
+          "role": "Stellv. Fraktionsvorsitzender",
+          "email": "",
+          "website": "",
+          "land": "Hessen",
+          "photo": "https://hessischer-landtag.de/sites/default/files/styles/4_5_abgeordnete_kacheln_xs/public/bilder/2024-01/Richter%2C%20Volker%20%28AfD%29%2C%20%C2%A9%20Hessischer%20Landtag.jpg?h=ba6824f0&itok=YJxiE18f"
+        },
+        {
+          "name": "Christian Rohde",
+          "firstName": "Christian",
+          "lastName": "Rohde",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Hessen",
+          "photo": "https://hessischer-landtag.de/sites/default/files/styles/4_5_abgeordnete_kacheln_xs/public/bilder/2024-01/Rohde%2C%20Christian%20%28AfD%29%2C%20%C2%A9%20Hessischer%20Landtag.jpg?h=7b1d21d9&itok=Rx9lBcIx"
+        },
+        {
+          "name": "Jochen K. Roos",
+          "firstName": "Jochen",
+          "lastName": "Roos",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Hessen",
+          "photo": "https://hessischer-landtag.de/sites/default/files/styles/4_5_abgeordnete_kacheln_xs/public/bilder/2024-01/Roos%2C%20Jochen%20%28AfD%29%2C%20%C2%A9%20Hessischer%20Landtag.jpg?h=7b1d21d9&itok=jihYpk7b"
+        },
+        {
+          "name": "Pascal Schleich",
+          "firstName": "Pascal",
+          "lastName": "Schleich",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Hessen",
+          "photo": "https://hessischer-landtag.de/sites/default/files/styles/4_5_abgeordnete_kacheln_xs/public/bilder/2024-01/Schleich%2C%20Pascal%20%28AfD%29%2C%20%C2%A9%20Hessischer%20Landtag.jpg?h=aefe0dc2&itok=-zGadt2B"
+        },
+        {
+          "name": "Heiko Scholz",
+          "firstName": "Heiko",
+          "lastName": "Scholz",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Hessen",
+          "photo": "https://hessischer-landtag.de/sites/default/files/styles/4_5_abgeordnete_kacheln_xs/public/bilder/2024-01/Scholz%2C%20Heiko%20%28AfD%29%2C%20%C2%A9%20Hessischer%20Landtag.jpg?h=5e4df613&itok=x2YYysvZ"
+        },
+        {
+          "name": "Dimitri Schulz",
+          "firstName": "Dimitri",
+          "lastName": "Schulz",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Hessen",
+          "photo": "https://hessischer-landtag.de/sites/default/files/styles/4_5_abgeordnete_kacheln_xs/public/bilder/2024-01/Schulz%2C%20Dimitri%20%28AfD%29%2C%20%C2%A9%20Hessischer%20Landtag.jpg?h=5867f274&itok=XIulslbz"
+        },
+        {
+          "name": "Olaf Schwaier",
+          "firstName": "Olaf",
+          "lastName": "Schwaier",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Hessen",
+          "photo": "https://hessischer-landtag.de/sites/default/files/styles/4_5_abgeordnete_kacheln_xs/public/bilder/2024-01/Schwaier%2C%20Olaf%20%28AfD%29%2C%20%C2%A9%20Hessischer%20Landtag.jpg?h=ba6824f0&itok=1PSklFbu"
+        },
+        {
+          "name": "Bernd Erich Vohl",
+          "firstName": "Bernd",
+          "lastName": "Vohl",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Hessen",
+          "photo": "https://hessischer-landtag.de/sites/default/files/styles/4_5_abgeordnete_kacheln_xs/public/bilder/2024-01/Vohl%2C%20Bernd%20%28AfD%29%2C%20%C2%A9%20Hessischer%20Landtag.jpg?h=fb52a460&itok=xah_A2SI"
+        },
+        {
+          "name": "Sandra Weegels",
+          "firstName": "Sandra",
+          "lastName": "Weegels",
+          "role": "Stellv. Fraktionsvorsitzende",
+          "email": "",
+          "website": "",
+          "land": "Hessen",
+          "photo": "https://hessischer-landtag.de/sites/default/files/styles/4_5_abgeordnete_kacheln_xs/public/bilder/2024-01/Weegels%2C%20Sandra%20%28AfD%29%2C%20%C2%A9%20Hessischer%20Landtag.jpg?h=a0bcd60c&itok=UedoOEYF"
+        }
+      ]
+    },
+    {
+      "name": "Mecklenburg-Vorpommern",
+      "parliament": "9. Landtag Mecklenburg-Vorpommern",
+      "source": "https://afd-fraktion-mv.de/",
+      "count": 32,
+      "members": [
+        {
+          "name": "Inken Arndt",
+          "firstName": "Inken",
+          "lastName": "Arndt",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Mecklenburg-Vorpommern",
+          "photo": "https://afd-fraktion-mv.de/wp-content/uploads/2026/09/Inken-Arndt-717x1024.png"
+        },
+        {
+          "name": "Steffi Burmeister",
+          "firstName": "Steffi",
+          "lastName": "Burmeister",
+          "role": "Stellv. Fraktionsvorsitzende",
+          "email": "",
+          "website": "",
+          "land": "Mecklenburg-Vorpommern",
+          "photo": "https://afd-fraktion-mv.de/wp-content/uploads/2026/09/Steffi-Burmeister-717x1024.png"
+        },
+        {
+          "name": "Nicole Ehlers",
+          "firstName": "Nicole",
+          "lastName": "Ehlers",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Mecklenburg-Vorpommern",
+          "photo": "https://afd-fraktion-mv.de/wp-content/uploads/2026/09/Nicole-Ehlers-717x1024.png"
+        },
+        {
+          "name": "Petra Federau",
+          "firstName": "Petra",
+          "lastName": "Federau",
+          "role": "",
+          "email": "petra.federau@afd-fraktion-mv.de",
+          "website": "https://petrafederau.com/",
+          "land": "Mecklenburg-Vorpommern",
+          "photo": "https://afd-fraktion-mv.de/wp-content/uploads/2026/09/Petra-Federau-717x1024.png"
+        },
+        {
+          "name": "Sandra Graf",
+          "firstName": "Sandra",
+          "lastName": "Graf",
+          "role": "Stellv. Fraktionsvorsitzende",
+          "email": "",
+          "website": "https://sandra-graf-afd.de/",
+          "land": "Mecklenburg-Vorpommern",
+          "photo": "https://afd-fraktion-mv.de/wp-content/uploads/2026/09/Sandra-Graf-Vorstand-717x1024.png"
+        },
+        {
+          "name": "Sarah Hoge",
+          "firstName": "Sarah",
+          "lastName": "Hoge",
+          "role": "Stellv. Fraktionsvorsitzende",
+          "email": "",
+          "website": "https://sarahhoge.com/",
+          "land": "Mecklenburg-Vorpommern",
+          "photo": "https://afd-fraktion-mv.de/wp-content/uploads/2026/09/Sarah-Hoge-717x1024.png"
+        },
+        {
+          "name": "David Jenniches",
+          "firstName": "David",
+          "lastName": "Jenniches",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Mecklenburg-Vorpommern",
+          "photo": "https://afd-fraktion-mv.de/wp-content/uploads/2026/09/David-Jenniches-717x1024.png"
+        },
+        {
+          "name": "Michael Kasch",
+          "firstName": "Michael",
+          "lastName": "Kasch",
+          "role": "",
+          "email": "",
+          "website": "https://michael-kasch-afd.de/",
+          "land": "Mecklenburg-Vorpommern",
+          "photo": "https://afd-fraktion-mv.de/wp-content/uploads/2026/09/Michael-Kasch-717x1024.png"
+        },
+        {
+          "name": "Nikolaus Kramer",
+          "firstName": "Nikolaus",
+          "lastName": "Kramer",
+          "role": "",
+          "email": "nikolaus.kramer@afd-fraktion-mv.de",
+          "website": "https://nikolauskramer.de/",
+          "land": "Mecklenburg-Vorpommern",
+          "photo": "https://afd-fraktion-mv.de/wp-content/uploads/2026/09/Nikolaus-Kramer-717x1024.png"
+        },
+        {
+          "name": "Kevin Kurtze",
+          "firstName": "Kevin",
+          "lastName": "Kurtze",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Mecklenburg-Vorpommern",
+          "photo": "https://afd-fraktion-mv.de/wp-content/uploads/2026/09/Kevin-Kurtze-717x1024.png"
+        },
+        {
+          "name": "Jan-Michael Martin",
+          "firstName": "Jan-Michael",
+          "lastName": "Martin",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Mecklenburg-Vorpommern",
+          "photo": "https://afd-fraktion-mv.de/wp-content/uploads/2026/09/Jan-Michael-Martin-717x1024.png"
+        },
+        {
+          "name": "Hans-Werner Moltzen",
+          "firstName": "Hans-Werner",
+          "lastName": "Moltzen",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Mecklenburg-Vorpommern",
+          "photo": "https://afd-fraktion-mv.de/wp-content/uploads/2026/09/Werner-Moltzen-717x1024.png"
+        },
+        {
+          "name": "Frank Müller",
+          "firstName": "Frank",
+          "lastName": "Müller",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Mecklenburg-Vorpommern",
+          "photo": "https://afd-fraktion-mv.de/wp-content/uploads/2026/09/Frank-Mueller-717x1024.png"
+        },
+        {
+          "name": "Thomas Naulin",
+          "firstName": "Thomas",
+          "lastName": "Naulin",
+          "role": "Stellv. Fraktionsvorsitzender",
+          "email": "",
+          "website": "",
+          "land": "Mecklenburg-Vorpommern",
+          "photo": "https://afd-fraktion-mv.de/wp-content/uploads/2026/09/Thohmas-Naulin-717x1024.png"
+        },
+        {
+          "name": "Peter Reizlein",
+          "firstName": "Peter",
+          "lastName": "Reizlein",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Mecklenburg-Vorpommern",
+          "photo": "https://afd-fraktion-mv.de/wp-content/uploads/2026/09/Peter-Reizlein-717x1024.png"
+        },
+        {
+          "name": "Stephan J. Reuken",
+          "firstName": "Stephan",
+          "lastName": "Reuken",
+          "role": "",
+          "email": "stephan.reuken@afd-fraktion-mv.de",
+          "website": "",
+          "land": "Mecklenburg-Vorpommern",
+          "photo": "https://afd-fraktion-mv.de/wp-content/uploads/2026/09/Stephan-Reuken-717x1024.png"
+        },
+        {
+          "name": "Carlos Dias Rodrigues",
+          "firstName": "Carlos",
+          "lastName": "Rodrigues",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Mecklenburg-Vorpommern",
+          "photo": "https://afd-fraktion-mv.de/wp-content/uploads/2026/09/Carlos-Rodrigues-717x1024.png"
+        },
+        {
+          "name": "Stephan Scheel",
+          "firstName": "Stephan",
+          "lastName": "Scheel",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Mecklenburg-Vorpommern",
+          "photo": "https://afd-fraktion-mv.de/wp-content/uploads/2026/09/Stephan-Scheel-717x1024.png"
+        },
+        {
+          "name": "Jarod Schilke",
+          "firstName": "Jarod",
+          "lastName": "Schilke",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Mecklenburg-Vorpommern",
+          "photo": "https://afd-fraktion-mv.de/wp-content/uploads/2026/09/Jarod-Schilke-717x1024.png"
+        },
+        {
+          "name": "Martin Schmidt",
+          "firstName": "Martin",
+          "lastName": "Schmidt",
+          "role": "Finanzvorstand",
+          "email": "kontakt@martin-schmidt.net",
+          "website": "",
+          "land": "Mecklenburg-Vorpommern",
+          "photo": "https://afd-fraktion-mv.de/wp-content/uploads/2026/09/Martin-Schmidt-Finanzvorstand-717x1024.png"
+        },
+        {
+          "name": "Robert Schnell",
+          "firstName": "Robert",
+          "lastName": "Schnell",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Mecklenburg-Vorpommern",
+          "photo": "https://afd-fraktion-mv.de/wp-content/uploads/2026/09/Robert-Schnell-717x1024.png"
+        },
+        {
+          "name": "Jannik Schreiber",
+          "firstName": "Jannik",
+          "lastName": "Schreiber",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Mecklenburg-Vorpommern",
+          "photo": "https://afd-fraktion-mv.de/wp-content/uploads/2026/09/Jannik-Schreiber-717x1024.png"
+        },
+        {
+          "name": "Enrico Schult",
+          "firstName": "Enrico",
+          "lastName": "Schult",
+          "role": "Fraktionsvorsitzender",
+          "email": "enrico.schult@afd-fraktion-mv.de",
+          "website": "https://enrico-schult.net/",
+          "land": "Mecklenburg-Vorpommern",
+          "photo": "https://afd-fraktion-mv.de/wp-content/uploads/2026/09/Enrico-Schult-FraVo-717x1024.png"
+        },
+        {
+          "name": "Jens Schulze-Wiehenbrauk",
+          "firstName": "Jens",
+          "lastName": "Schulze-Wiehenbrauk",
+          "role": "",
+          "email": "jens.schulze-wiehenbrauk@afd-fraktion-mv.de",
+          "website": "",
+          "land": "Mecklenburg-Vorpommern",
+          "photo": "https://afd-fraktion-mv.de/wp-content/uploads/2026/09/Jens-Schulze-Wiehenbrauk-717x1024.png"
+        },
+        {
+          "name": "Christian Skotnik",
+          "firstName": "Christian",
+          "lastName": "Skotnik",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Mecklenburg-Vorpommern",
+          "photo": "https://afd-fraktion-mv.de/wp-content/uploads/2026/09/Christian-Skotnik-717x1024.png"
+        },
+        {
+          "name": "Thore Stein",
+          "firstName": "Thore",
+          "lastName": "Stein",
+          "role": "Parlamentarischer Geschäftsführer",
+          "email": "wahlkreisbuero@thore-stein.de",
+          "website": "https://thore-stein.de/",
+          "land": "Mecklenburg-Vorpommern",
+          "photo": "https://afd-fraktion-mv.de/wp-content/uploads/2026/09/Thore-Stein-PGF-717x1024.png"
+        },
+        {
+          "name": "Jan Steinfurth",
+          "firstName": "Jan",
+          "lastName": "Steinfurth",
+          "role": "",
+          "email": "",
+          "website": "https://jan-steinfurth.de/",
+          "land": "Mecklenburg-Vorpommern",
+          "photo": "https://afd-fraktion-mv.de/wp-content/uploads/2026/09/Jan-Steinfurth-717x1024.png"
+        },
+        {
+          "name": "Jan-Phillip Tadsen",
+          "firstName": "Jan-Phillip",
+          "lastName": "Tadsen",
+          "role": "",
+          "email": "jan.phillip.tadsen@afd-fraktion-mv.de",
+          "website": "https://jan-phillip-tadsen.de/",
+          "land": "Mecklenburg-Vorpommern",
+          "photo": "https://afd-fraktion-mv.de/wp-content/uploads/2026/09/Jan-Phillip-Tadsen-717x1024.png"
+        },
+        {
+          "name": "Tommy Thormann",
+          "firstName": "Tommy",
+          "lastName": "Thormann",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Mecklenburg-Vorpommern",
+          "photo": "https://afd-fraktion-mv.de/wp-content/uploads/2026/09/Tommy-Thormann-717x1024.png"
+        },
+        {
+          "name": "Paul-Joachim Timm",
+          "firstName": "Paul-Joachim",
+          "lastName": "Timm",
+          "role": "",
+          "email": "paul.timm@afd-fraktion-mv.de",
+          "website": "https://paultimm-afd.de/",
+          "land": "Mecklenburg-Vorpommern",
+          "photo": "https://afd-fraktion-mv.de/wp-content/uploads/2026/09/Paul-Timm-717x1024.png"
+        },
+        {
+          "name": "Alexander Tschich",
+          "firstName": "Alexander",
+          "lastName": "Tschich",
+          "role": "",
+          "email": "",
+          "website": "https://alexander-tschich.de/",
+          "land": "Mecklenburg-Vorpommern",
+          "photo": "https://afd-fraktion-mv.de/wp-content/uploads/2026/09/Alexander-Tschich-717x1024.png"
+        },
+        {
+          "name": "Christian Zorn",
+          "firstName": "Christian",
+          "lastName": "Zorn",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Mecklenburg-Vorpommern",
+          "photo": "https://afd-fraktion-mv.de/wp-content/uploads/2026/09/Christian-Zorn-717x1024.png"
+        }
+      ]
+    },
+    {
+      "name": "Niedersachsen",
+      "parliament": "19. Niedersächsischer Landtag",
+      "source": "https://www.landtag-niedersachsen.de/fraktion-der-afd",
+      "count": 16,
+      "members": [
+        {
+          "name": "Vanessa Behrendt",
+          "firstName": "Vanessa",
+          "lastName": "Behrendt",
+          "role": "",
+          "email": "vanessa.behrendt@lt.niedersachsen.de",
+          "website": "",
+          "land": "Niedersachsen",
+          "photo": "https://www.landtag-niedersachsen.de/typo3temp/assets/_processed_/e/a/csm_behrendt_vanessa_wp19-1694092566_590bf81977.jpg"
+        },
+        {
+          "name": "Stephan Bothe",
+          "firstName": "Stephan",
+          "lastName": "Bothe",
+          "role": "Stellv. Fraktionsvorsitzender",
+          "email": "stephan.bothe@lt.niedersachsen.de",
+          "website": "",
+          "land": "Niedersachsen",
+          "photo": "https://www.landtag-niedersachsen.de/typo3temp/assets/_processed_/d/b/csm_bothe_stephan_wp19-1683810964_2dc7b54a67.jpg"
+        },
+        {
+          "name": "Jens-Christoph Brockmann",
+          "firstName": "Jens-Christoph",
+          "lastName": "Brockmann",
+          "role": "Parlamentarischer Geschäftsführer",
+          "email": "jens-christoph.brockmann@lt.niedersachsen.de",
+          "website": "",
+          "land": "Niedersachsen",
+          "photo": "https://www.landtag-niedersachsen.de/typo3temp/assets/_processed_/3/5/csm_brockmann_jens-christoph_wp19_7e8a84e0c1.jpg"
+        },
+        {
+          "name": "Alfred Dannenberg",
+          "firstName": "Alfred",
+          "lastName": "Dannenberg",
+          "role": "",
+          "email": "a.dannenberg@afd-heidekreis.de",
+          "website": "https://www.alfred-dannenberg.de",
+          "land": "Niedersachsen",
+          "photo": "https://www.landtag-niedersachsen.de/typo3temp/assets/_processed_/f/8/csm_dannenberg_alfred_wp19-1684919765_4d725dcc99.jpg"
+        },
+        {
+          "name": "Dennis Jahn",
+          "firstName": "Dennis",
+          "lastName": "Jahn",
+          "role": "Vorsitzender des Unterausschusses Justizvollzug und Straffälligenhilfe",
+          "email": "dennis.jahn@lt.niedersachsen.de",
+          "website": "",
+          "land": "Niedersachsen",
+          "photo": "https://www.landtag-niedersachsen.de/typo3temp/assets/_processed_/f/c/csm_jahn_dennis_wp19_e872a41c6a.jpg"
+        },
+        {
+          "name": "Ingo Kerzel",
+          "firstName": "Ingo",
+          "lastName": "Kerzel",
+          "role": "Stellv. Vorsitzender des Ausschusses für Umwelt, Energie und Klimaschutz",
+          "email": "",
+          "website": "",
+          "land": "Niedersachsen",
+          "photo": "https://www.landtag-niedersachsen.de/typo3temp/assets/_processed_/2/2/csm_Kerzel_Ingo_wp19_907c210ed3.jpg"
+        },
+        {
+          "name": "Delia Klages",
+          "firstName": "Delia",
+          "lastName": "Klages",
+          "role": "Schriftführerin des Niedersächsischen Landtages",
+          "email": "deliasusanne.klages@lt.niedersachsen.de",
+          "website": "https://www.delia-klages.de",
+          "land": "Niedersachsen",
+          "photo": "https://www.landtag-niedersachsen.de/typo3temp/assets/_processed_/a/f/csm_klages_delia_wp19-1675692964_d2509f6e95.jpg"
+        },
+        {
+          "name": "Holger Kühnlenz",
+          "firstName": "Holger",
+          "lastName": "Kühnlenz",
+          "role": "",
+          "email": "holger@kuehnlenz-afd.de",
+          "website": "",
+          "land": "Niedersachsen",
+          "photo": "https://www.landtag-niedersachsen.de/typo3temp/assets/_processed_/3/b/csm_kuehnlenz_holger_wp19-1674209764_cb2cda1d04.jpg"
+        },
+        {
+          "name": "Peer Lilienthal",
+          "firstName": "Peer",
+          "lastName": "Lilienthal",
+          "role": "Schatzmeister",
+          "email": "peer.lilienthal@lt.niedersachsen.de",
+          "website": "",
+          "land": "Niedersachsen",
+          "photo": "https://www.landtag-niedersachsen.de/typo3temp/assets/_processed_/9/2/csm_lilienthal_peer_753cc4b2b1.jpg"
+        },
+        {
+          "name": "Thorsten Paul Moriße",
+          "firstName": "Thorsten",
+          "lastName": "Moriße",
+          "role": "",
+          "email": "thorsten-morisse@t-online.de",
+          "website": "https://www.afd-morisse.de",
+          "land": "Niedersachsen",
+          "photo": "https://www.landtag-niedersachsen.de/typo3temp/assets/_processed_/9/8/csm_morisse_thorsten_wp19-1674209766_237c21b6e0.jpg"
+        },
+        {
+          "name": "Omid Najafi",
+          "firstName": "Omid",
+          "lastName": "Najafi",
+          "role": "",
+          "email": "omid.najafi@lt.niedersachsen.de",
+          "website": "",
+          "land": "Niedersachsen",
+          "photo": "https://www.landtag-niedersachsen.de/typo3temp/assets/_processed_/6/5/csm_najafi_omid_wp19_6d472d5ea5.jpg"
+        },
+        {
+          "name": "Jürgen Pastewsky",
+          "firstName": "Jürgen",
+          "lastName": "Pastewsky",
+          "role": "Schriftführer des Niedersächsischen Landtages",
+          "email": "juergen.pastewsky@afd-wolfenbuettel.de",
+          "website": "https://www.jp-landtagniedersachsen.de",
+          "land": "Niedersachsen",
+          "photo": "https://www.landtag-niedersachsen.de/typo3temp/assets/_processed_/3/5/csm_pastewsky_juergen_wp19-1674209764_b47de58a3e.jpg"
+        },
+        {
+          "name": "Harm Rykena",
+          "firstName": "Harm",
+          "lastName": "Rykena",
+          "role": "",
+          "email": "rykena.mdl@gmx.de",
+          "website": "",
+          "land": "Niedersachsen",
+          "photo": "https://www.landtag-niedersachsen.de/typo3temp/assets/_processed_/6/8/csm_rykena_harm_wp19-1674209763_c3b2c53789.jpg"
+        },
+        {
+          "name": "Ansgar Georg Schledde",
+          "firstName": "Ansgar",
+          "lastName": "Schledde",
+          "role": "Stellv. Fraktionsvorsitzender",
+          "email": "ansgar.schledde@gmail.com",
+          "website": "",
+          "land": "Niedersachsen",
+          "photo": "https://www.landtag-niedersachsen.de/typo3temp/assets/_processed_/e/d/csm_schledde_ansgar_wp19_6f58f793cf.jpg"
+        },
+        {
+          "name": "Jessica Miriam Schülke",
+          "firstName": "Jessica",
+          "lastName": "Schülke",
+          "role": "Vorsitzende des Ausschusses für Wissenschaft und Kultur",
+          "email": "afd.schuelke@gmx.de",
+          "website": "",
+          "land": "Niedersachsen",
+          "photo": "https://www.landtag-niedersachsen.de/typo3temp/assets/_processed_/a/4/csm_schuelke_jessica_wp19_a4fadd6f17.jpg"
+        },
+        {
+          "name": "Klaus Wichmann",
+          "firstName": "Klaus",
+          "lastName": "Wichmann",
+          "role": "Fraktionsvorsitzender",
+          "email": "klaus.wichmann@lt.niedersachsen.de",
+          "website": "",
+          "land": "Niedersachsen",
+          "photo": "https://www.landtag-niedersachsen.de/typo3temp/assets/_processed_/d/a/csm_wichmann_klaus_5bdeba6eee.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Nordrhein-Westfalen",
+      "parliament": "18. Landtag Nordrhein-Westfalen",
+      "source": "https://www.landtag.nrw.de",
+      "count": 12,
+      "members": [
+        {
+          "name": "Hartmut Beucker",
+          "firstName": "Hartmut",
+          "lastName": "Beucker",
+          "role": "",
+          "email": "",
+          "website": "https://afd-fraktion.nrw/fraktion/hartmut-beucker/",
+          "land": "Nordrhein-Westfalen",
+          "photo": "https://afd-fraktion.nrw/wp-content/uploads/Beucker_Bild-Bio-1024x1024.png"
+        },
+        {
+          "name": "Christian Blex",
+          "firstName": "Christian",
+          "lastName": "Blex",
+          "role": "",
+          "email": "",
+          "website": "https://afd-fraktion.nrw/fraktion/christian-blex/",
+          "land": "Nordrhein-Westfalen",
+          "photo": "https://afd-fraktion.nrw/wp-content/uploads/Bild-Bio-Christian-Blex-1024x1024.webp"
+        },
+        {
+          "name": "Carlo Clemens",
+          "firstName": "Carlo",
+          "lastName": "Clemens",
+          "role": "",
+          "email": "",
+          "website": "https://afd-fraktion.nrw/fraktion/carlo-clemens/",
+          "land": "Nordrhein-Westfalen",
+          "photo": "https://afd-fraktion.nrw/wp-content/uploads/Clemens_Bild-Bio-1024x1024.png"
+        },
+        {
+          "name": "Klaus Esser",
+          "firstName": "Klaus",
+          "lastName": "Esser",
+          "role": "",
+          "email": "",
+          "website": "https://afd-fraktion.nrw/fraktion/klaus-esser/",
+          "land": "Nordrhein-Westfalen",
+          "photo": "https://afd-fraktion.nrw/wp-content/uploads/Esser_Bild-Bio-1024x1024.png"
+        },
+        {
+          "name": "Andreas Keith",
+          "firstName": "Andreas",
+          "lastName": "Keith",
+          "role": "",
+          "email": "",
+          "website": "https://afd-fraktion.nrw/fraktion/andreas-keith/",
+          "land": "Nordrhein-Westfalen",
+          "photo": "https://afd-fraktion.nrw/wp-content/uploads/Keith_Bild-Bio-1024x1024.png"
+        },
+        {
+          "name": "Christian Loose",
+          "firstName": "Christian",
+          "lastName": "Loose",
+          "role": "Parlamentarischer Geschäftsführer",
+          "email": "",
+          "website": "https://afd-fraktion.nrw/fraktion/christian-loose/",
+          "land": "Nordrhein-Westfalen",
+          "photo": "https://afd-fraktion.nrw/wp-content/uploads/Loose_Bild-Bio-1024x1024.png"
+        },
+        {
+          "name": "Thomas Röckemann",
+          "firstName": "Thomas",
+          "lastName": "Röckemann",
+          "role": "",
+          "email": "",
+          "website": "https://afd-fraktion.nrw/fraktion/thomas-roeckemann/",
+          "land": "Nordrhein-Westfalen",
+          "photo": "https://afd-fraktion.nrw/wp-content/uploads/Bild-Bio-Thomas-Roeckemann-1024x1024.webp"
+        },
+        {
+          "name": "Zacharias Schalley",
+          "firstName": "Zacharias",
+          "lastName": "Schalley",
+          "role": "",
+          "email": "",
+          "website": "https://afd-fraktion.nrw/fraktion/zacharias-schalley/",
+          "land": "Nordrhein-Westfalen",
+          "photo": "https://afd-fraktion.nrw/wp-content/uploads/Schalley_Bild-Bio_1-1024x1024.png"
+        },
+        {
+          "name": "Enxhi Seli-Zacharias",
+          "firstName": "Enxhi",
+          "lastName": "Seli-Zacharias",
+          "role": "Stellv. Fraktionsvorsitzende",
+          "email": "",
+          "website": "https://afd-fraktion.nrw/fraktion/enxhi-seli-zacharias/",
+          "land": "Nordrhein-Westfalen",
+          "photo": "https://afd-fraktion.nrw/wp-content/uploads/ESZ_Bild-Bio_02-1024x1024.png"
+        },
+        {
+          "name": "Sven W. Tritschler",
+          "firstName": "Sven",
+          "lastName": "Tritschler",
+          "role": "Stellv. Fraktionsvorsitzender",
+          "email": "",
+          "website": "https://afd-fraktion.nrw/fraktion/sven-tritschler/",
+          "land": "Nordrhein-Westfalen",
+          "photo": "https://afd-fraktion.nrw/wp-content/uploads/Tritschler_Bild-Bio_1-1024x1024.png"
+        },
+        {
+          "name": "Martin Vincentz",
+          "firstName": "Martin",
+          "lastName": "Vincentz",
+          "role": "Fraktionsvorsitzender",
+          "email": "martin.vincentz@landtag.nrw.de",
+          "website": "https://afd-fraktion.nrw/fraktion/martin-vincentz/",
+          "land": "Nordrhein-Westfalen",
+          "photo": "https://afd-fraktion.nrw/wp-content/uploads/Vincentz-Martin-AfD-2-Horizontal-1024x1024.jpg"
+        },
+        {
+          "name": "Markus Wagner",
+          "firstName": "Markus",
+          "lastName": "Wagner",
+          "role": "Stellv. Fraktionsvorsitzender",
+          "email": "",
+          "website": "https://afd-fraktion.nrw/fraktion/markus-wagner/",
+          "land": "Nordrhein-Westfalen",
+          "photo": "https://afd-fraktion.nrw/wp-content/uploads/Wagner_Bild-Bio-1024x1024.png"
+        }
+      ]
+    },
+    {
+      "name": "Rheinland-Pfalz",
+      "parliament": "19. Landtag Rheinland-Pfalz",
+      "source": "https://landtag-rlp.de/de/parlament/fraktionen/afd-fraktion.htm",
+      "count": 23,
+      "members": [
+        {
+          "name": "Ulrike Beckmann",
+          "firstName": "Ulrike",
+          "lastName": "Beckmann",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Rheinland-Pfalz",
+          "photo": "https://landtag-rlp.de/apps/mp-detail/data/png1/beckmann-ulrike-c-ulrike-beckmann_250x.png"
+        },
+        {
+          "name": "Dirk Bisanz",
+          "firstName": "Dirk",
+          "lastName": "Bisanz",
+          "role": "Stellv. Fraktionsvorsitzender",
+          "email": "",
+          "website": "",
+          "land": "Rheinland-Pfalz",
+          "photo": "https://afd-rlp-fraktion.de/wp-content/uploads/2026/05/Bisanz-Portrait-Web-2-400x600-1.jpg"
+        },
+        {
+          "name": "Claudia von Bohr",
+          "firstName": "Claudia",
+          "lastName": "Bohr",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Rheinland-Pfalz",
+          "photo": "https://landtag-rlp.de/apps/mp-detail/data/png1/bohr-claudia-von-c-claudia-v-bohr_250x.png"
+        },
+        {
+          "name": "Jan Bollinger",
+          "firstName": "Jan",
+          "lastName": "Bollinger",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Rheinland-Pfalz",
+          "photo": "https://landtag-rlp.de/apps/mp-detail/data/jpg1/afd-bollinger-jan.jpg"
+        },
+        {
+          "name": "Albert Breininger",
+          "firstName": "Albert",
+          "lastName": "Breininger",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Rheinland-Pfalz",
+          "photo": "https://landtag-rlp.de/apps/mp-detail/data/png1/breininger-albert-c-albert-breininger_250x.png"
+        },
+        {
+          "name": "Michael Büge",
+          "firstName": "Michael",
+          "lastName": "Büge",
+          "role": "Fraktionsvorsitzender",
+          "email": "",
+          "website": "",
+          "land": "Rheinland-Pfalz",
+          "photo": "https://landtag-rlp.de/apps/mp-detail/data/png1/buege-michael-c-cross-xxx-creation-tobias-adam_250x.png"
+        },
+        {
+          "name": "Robin Classen",
+          "firstName": "Robin",
+          "lastName": "Classen",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Rheinland-Pfalz",
+          "photo": "https://landtag-rlp.de/apps/mp-detail/data/png1/classen-robin-c-tobias-adam_250x.png"
+        },
+        {
+          "name": "Bernhard Cürten",
+          "firstName": "Bernhard",
+          "lastName": "Cürten",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Rheinland-Pfalz",
+          "photo": "https://landtag-rlp.de/apps/mp-detail/data/png1/cuerten-bernhard-bernhard-cuerten_250x.png"
+        },
+        {
+          "name": "Martin Kallweitt",
+          "firstName": "Martin",
+          "lastName": "Kallweitt",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Rheinland-Pfalz",
+          "photo": "https://afd-rlp-fraktion.de/wp-content/uploads/2026/05/Kallweit-Portrait-Web-2-400x600-1.jpg"
+        },
+        {
+          "name": "Ralf Kelch",
+          "firstName": "Ralf",
+          "lastName": "Kelch",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Rheinland-Pfalz",
+          "photo": "https://landtag-rlp.de/apps/mp-detail/data/png1/kelch-ralf-c-ralf-kelch_250x.png"
+        },
+        {
+          "name": "Jürgen Klein",
+          "firstName": "Jürgen",
+          "lastName": "Klein",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Rheinland-Pfalz",
+          "photo": "https://landtag-rlp.de/apps/mp-detail/data/jpg1/klein_juergen.jpg"
+        },
+        {
+          "name": "Tom Kotzian",
+          "firstName": "Tom",
+          "lastName": "Kotzian",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Rheinland-Pfalz",
+          "photo": "https://landtag-rlp.de/apps/mp-detail/data/jpg1/bild.jpg"
+        },
+        {
+          "name": "Damian Lohr",
+          "firstName": "Damian",
+          "lastName": "Lohr",
+          "role": "Parlamentarischer Geschäftsführer",
+          "email": "",
+          "website": "",
+          "land": "Rheinland-Pfalz",
+          "photo": "https://landtag-rlp.de/apps/mp-detail/data/jpg1/afd-lohr-damian.jpg"
+        },
+        {
+          "name": "Catalina Monzon",
+          "firstName": "Catalina",
+          "lastName": "Monzon",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Rheinland-Pfalz",
+          "photo": "https://afd-rlp-fraktion.de/wp-content/uploads/2026/05/Monzon-Portrait-Web-2-400x600-1.jpg"
+        },
+        {
+          "name": "Joachim Paul",
+          "firstName": "Joachim",
+          "lastName": "Paul",
+          "role": "Stellv. Fraktionsvorsitzender",
+          "email": "",
+          "website": "",
+          "land": "Rheinland-Pfalz",
+          "photo": "https://landtag-rlp.de/apps/mp-detail/data/png1/paul-joachim-c-joachim-paul_250.png"
+        },
+        {
+          "name": "Carsten Propp",
+          "firstName": "Carsten",
+          "lastName": "Propp",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Rheinland-Pfalz",
+          "photo": "https://landtag-rlp.de/apps/mp-detail/data/png1/propp_carsten-c-carsten-propp_250x.png"
+        },
+        {
+          "name": "Ralf Schönborn",
+          "firstName": "Ralf",
+          "lastName": "Schönborn",
+          "role": "Stellv. Fraktionsvorsitzender",
+          "email": "",
+          "website": "",
+          "land": "Rheinland-Pfalz",
+          "photo": "https://landtag-rlp.de/apps/mp-detail/data/png1/schoenborn_ralf-c-ralf-schoenborn_250x.png"
+        },
+        {
+          "name": "Frank Senger",
+          "firstName": "Frank",
+          "lastName": "Senger",
+          "role": "Stellv. Fraktionsvorsitzender",
+          "email": "",
+          "website": "",
+          "land": "Rheinland-Pfalz",
+          "photo": "https://landtag-rlp.de/apps/mp-detail/data/png1/senger-frank-c-frank-senger_250x.png"
+        },
+        {
+          "name": "Stephan Stritter",
+          "firstName": "Stephan",
+          "lastName": "Stritter",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Rheinland-Pfalz",
+          "photo": "https://landtag-rlp.de/apps/mp-detail/data/jpg1/afd_stephan-stritter_250x353.jpg"
+        },
+        {
+          "name": "Ferdinand Weber",
+          "firstName": "Ferdinand",
+          "lastName": "Weber",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Rheinland-Pfalz",
+          "photo": "https://landtag-rlp.de/apps/mp-detail/data/png1/ferdinandludwigweber.png"
+        },
+        {
+          "name": "Jürgen Wiedenhöfer",
+          "firstName": "Jürgen",
+          "lastName": "Wiedenhöfer",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Rheinland-Pfalz",
+          "photo": "https://landtag-rlp.de/apps/mp-detail/data/png1/portrait-jurgen-wiedenhofer-mdl-hochformat.png"
+        },
+        {
+          "name": "Bailey Wollenweber",
+          "firstName": "Bailey",
+          "lastName": "Wollenweber",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Rheinland-Pfalz",
+          "photo": "https://landtag-rlp.de/apps/mp-detail/data/png1/wollenweber-bailey-c-bailey-wollenweber_250x.png"
+        },
+        {
+          "name": "Eugen Ziegler",
+          "firstName": "Eugen",
+          "lastName": "Ziegler",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Rheinland-Pfalz",
+          "photo": "https://landtag-rlp.de/apps/mp-detail/data/jpg1/zieglereugen_250x350.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Saarland",
+      "parliament": "17. Landtag des Saarlandes",
+      "source": "https://www.landtag-saar.de/abgeordnete-und-fraktionen/fraktionen/afd",
+      "count": 3,
+      "members": [
+        {
+          "name": "Carsten Becker",
+          "firstName": "Carsten",
+          "lastName": "Becker",
+          "role": "Parlamentarischer Geschäftsführer",
+          "email": "c.becker@landtag-saar.de",
+          "website": "",
+          "land": "Saarland",
+          "photo": "https://www.landtag-saar.de/media/3lknc44e/becker-carsten-roland.jpg?width=150&height=150"
+        },
+        {
+          "name": "Friedrich Josef Dörr",
+          "firstName": "Friedrich",
+          "lastName": "Dörr",
+          "role": "Fraktionsvorsitzender",
+          "email": "J.Doerr@landtag-saar.de",
+          "website": "",
+          "land": "Saarland",
+          "photo": "https://www.landtag-saar.de/media/1018/afd_josef_doerr.jpg?width=150&height=150"
+        },
+        {
+          "name": "Christoph Rudolf Schaufert",
+          "firstName": "Christoph",
+          "lastName": "Schaufert",
+          "role": "Stellv. Fraktionsvorsitzender",
+          "email": "c.schaufert@landtag-saar.de",
+          "website": "",
+          "land": "Saarland",
+          "photo": "https://www.landtag-saar.de/media/mwzdl4n4/afd_christoph_rudolf_schaufert.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Sachsen",
+      "parliament": "8. Sächsischer Landtag",
+      "source": "https://afd-fraktion-sachsen.de/abgeordnete-seit-2024",
+      "count": 40,
+      "members": [
+        {
+          "name": "Peter Bachmann",
+          "firstName": "Peter",
+          "lastName": "Bachmann",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Sachsen",
+          "photo": "https://afd-fraktion-sachsen.de/wp-content/uploads/2024/10/13-AfD-Bachmann-Peter.jpg"
+        },
+        {
+          "name": "Mario Beger",
+          "firstName": "Mario",
+          "lastName": "Beger",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Sachsen",
+          "photo": "https://afd-fraktion-sachsen.de/wp-content/uploads/2024/10/37-AfD-Beger-Mario.jpg"
+        },
+        {
+          "name": "Martin Braukmann",
+          "firstName": "Martin",
+          "lastName": "Braukmann",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Sachsen",
+          "photo": "https://afd-fraktion-sachsen.de/wp-content/uploads/2024/10/51-AfD-Braukmann-Martin.jpg"
+        },
+        {
+          "name": "Katja Dietz",
+          "firstName": "Katja",
+          "lastName": "Dietz",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Sachsen",
+          "photo": "https://afd-fraktion-sachsen.de/wp-content/uploads/2024/10/12-AfD-Dietz-Katja.jpg"
+        },
+        {
+          "name": "Jörg Dornau",
+          "firstName": "Jörg",
+          "lastName": "Dornau",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Sachsen",
+          "photo": "https://afd-fraktion-sachsen.de/wp-content/uploads/2024/10/22-AfD-Dornau-Joerg.jpg"
+        },
+        {
+          "name": "Volker Dringenberg",
+          "firstName": "Volker",
+          "lastName": "Dringenberg",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Sachsen",
+          "photo": "https://afd-fraktion-sachsen.de/wp-content/uploads/2024/10/10-AfD-Volker-Dringenberg.jpg"
+        },
+        {
+          "name": "Jonas Dünzel",
+          "firstName": "Jonas",
+          "lastName": "Dünzel",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Sachsen",
+          "photo": "https://afd-fraktion-sachsen.de/wp-content/uploads/2024/10/06-AfD-Duenzel-Jonas.jpg"
+        },
+        {
+          "name": "Hajo Exner",
+          "firstName": "Hajo",
+          "lastName": "Exner",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Sachsen",
+          "photo": "https://afd-fraktion-sachsen.de/wp-content/uploads/2024/10/60-AfD-Exner-Hajo.jpg"
+        },
+        {
+          "name": "Torsten Gahler",
+          "firstName": "Torsten",
+          "lastName": "Gahler",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Sachsen",
+          "photo": "https://afd-fraktion-sachsen.de/wp-content/uploads/2024/10/gahler-1024x682.png"
+        },
+        {
+          "name": "Andreas Gerold",
+          "firstName": "Andreas",
+          "lastName": "Gerold",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Sachsen",
+          "photo": "https://afd-fraktion-sachsen.de/wp-content/uploads/2024/10/07-AfD-Gerold-Andreas.jpg"
+        },
+        {
+          "name": "Roman Golombek",
+          "firstName": "Roman",
+          "lastName": "Golombek",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Sachsen",
+          "photo": "https://afd-fraktion-sachsen.de/wp-content/uploads/2024/10/59-AfD-Golombeck-Roman.jpg"
+        },
+        {
+          "name": "Heiko Gumprecht",
+          "firstName": "Heiko",
+          "lastName": "Gumprecht",
+          "role": "Fraktionsvorstand",
+          "email": "",
+          "website": "",
+          "land": "Sachsen",
+          "photo": "https://afd-fraktion-sachsen.de/wp-content/uploads/2024/10/05-AfD-Gumprecht-Heiko.jpg"
+        },
+        {
+          "name": "Tobias Heller",
+          "firstName": "Tobias",
+          "lastName": "Heller",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Sachsen",
+          "photo": "https://afd-fraktion-sachsen.de/wp-content/uploads/2024/10/35-AfD-Heller-Tobias.jpg"
+        },
+        {
+          "name": "Holger Hentschel",
+          "firstName": "Holger",
+          "lastName": "Hentschel",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Sachsen",
+          "photo": "https://afd-fraktion-sachsen.de/wp-content/uploads/2024/10/32-AfD-Hentschel-Holger.jpg"
+        },
+        {
+          "name": "Carsten Hütter",
+          "firstName": "Carsten",
+          "lastName": "Hütter",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Sachsen",
+          "photo": "https://afd-fraktion-sachsen.de/wp-content/uploads/2024/10/36-AfD-Huetter-Carsten.jpg"
+        },
+        {
+          "name": "Martina Jost",
+          "firstName": "Martina",
+          "lastName": "Jost",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Sachsen",
+          "photo": "https://afd-fraktion-sachsen.de/wp-content/uploads/2024/10/44-AfD-Jost-Martina.jpg"
+        },
+        {
+          "name": "Joachim Keiler",
+          "firstName": "Joachim",
+          "lastName": "Keiler",
+          "role": "Zweiter stellv. Fraktionsvorsitzender",
+          "email": "",
+          "website": "",
+          "land": "Sachsen",
+          "photo": "https://afd-fraktion-sachsen.de/wp-content/uploads/2024/10/42-AfD-Keiler-Joachim.jpg"
+        },
+        {
+          "name": "Tobias Keller",
+          "firstName": "Tobias",
+          "lastName": "Keller",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Sachsen",
+          "photo": "https://afd-fraktion-sachsen.de/wp-content/uploads/2024/10/31-AfD-Keller-Tobias.jpg"
+        },
+        {
+          "name": "Thomas Kirste",
+          "firstName": "Thomas",
+          "lastName": "Kirste",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Sachsen",
+          "photo": "https://afd-fraktion-sachsen.de/wp-content/uploads/2024/10/38-AfD-Kirste-Thomas.jpg"
+        },
+        {
+          "name": "Jörg Kühne",
+          "firstName": "Jörg",
+          "lastName": "Kühne",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Sachsen",
+          "photo": "https://afd-fraktion-sachsen.de/wp-content/uploads/2026/06/Kuehne-1-1024x676.png"
+        },
+        {
+          "name": "Roberto Kuhnert",
+          "firstName": "Roberto",
+          "lastName": "Kuhnert",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Sachsen",
+          "photo": "https://afd-fraktion-sachsen.de/wp-content/uploads/2024/10/57-AfD-Roberto-Kuhnert.jpg"
+        },
+        {
+          "name": "Lars Kuppi",
+          "firstName": "Lars",
+          "lastName": "Kuppi",
+          "role": "Dritter stellv. Fraktionsvorsitzender",
+          "email": "",
+          "website": "",
+          "land": "Sachsen",
+          "photo": "https://afd-fraktion-sachsen.de/wp-content/uploads/2024/10/20-AfD-Kuppi-Lars.jpg"
+        },
+        {
+          "name": "Norbert Mayer",
+          "firstName": "Norbert",
+          "lastName": "Mayer",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Sachsen",
+          "photo": "https://afd-fraktion-sachsen.de/wp-content/uploads/2024/10/48-AfD-Mayer-Norbert.jpg"
+        },
+        {
+          "name": "Mike Moncsek",
+          "firstName": "Mike",
+          "lastName": "Moncsek",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Sachsen",
+          "photo": "https://afd-fraktion-sachsen.de/wp-content/uploads/2025/10/08-AfD-Moncsek-Mike.jpg"
+        },
+        {
+          "name": "Arthur Österle",
+          "firstName": "Arthur",
+          "lastName": "Österle",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Sachsen",
+          "photo": "https://afd-fraktion-sachsen.de/wp-content/uploads/2024/10/16-AfD-Oesterle-Arthur.jpg"
+        },
+        {
+          "name": "Romy Penz",
+          "firstName": "Romy",
+          "lastName": "Penz",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Sachsen",
+          "photo": "https://afd-fraktion-sachsen.de/wp-content/uploads/2024/10/18-AfD-Penz-Romy.jpg"
+        },
+        {
+          "name": "Frank Peschel",
+          "firstName": "Frank",
+          "lastName": "Peschel",
+          "role": "Fraktionsvorstand",
+          "email": "",
+          "website": "",
+          "land": "Sachsen",
+          "photo": "https://afd-fraktion-sachsen.de/wp-content/uploads/2024/10/52-AfD-Peschel-Frank.jpg"
+        },
+        {
+          "name": "Thomas Prantl",
+          "firstName": "Thomas",
+          "lastName": "Prantl",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Sachsen",
+          "photo": "https://afd-fraktion-sachsen.de/wp-content/uploads/2024/10/15-AfD-Prantl-Thomas.jpg"
+        },
+        {
+          "name": "Timo Schreyer",
+          "firstName": "Timo",
+          "lastName": "Schreyer",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Sachsen",
+          "photo": "https://afd-fraktion-sachsen.de/wp-content/uploads/2024/10/54-AfD-Schreyer-Timo.jpg"
+        },
+        {
+          "name": "Doreen Schwietzer",
+          "firstName": "Doreen",
+          "lastName": "Schwietzer",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Sachsen",
+          "photo": "https://afd-fraktion-sachsen.de/wp-content/uploads/2024/10/55-AfD-Schwietzer-Doreen.jpg"
+        },
+        {
+          "name": "René Standke",
+          "firstName": "René",
+          "lastName": "Standke",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Sachsen",
+          "photo": "https://afd-fraktion-sachsen.de/wp-content/uploads/2024/10/03-AfD-Standke-Rene.jpg"
+        },
+        {
+          "name": "Thomas Thumm",
+          "firstName": "Thomas",
+          "lastName": "Thumm",
+          "role": "Fraktionsvorstand",
+          "email": "",
+          "website": "",
+          "land": "Sachsen",
+          "photo": "https://afd-fraktion-sachsen.de/wp-content/uploads/2024/10/14-AfD-Thumm-Thomas.jpg"
+        },
+        {
+          "name": "Jörg Urban",
+          "firstName": "Jörg",
+          "lastName": "Urban",
+          "role": "Fraktionsvorsitzender",
+          "email": "",
+          "website": "",
+          "land": "Sachsen",
+          "photo": "https://afd-fraktion-sachsen.de/wp-content/uploads/2024/10/56-AfD-Urban-Joerg.jpg"
+        },
+        {
+          "name": "André Wendt",
+          "firstName": "André",
+          "lastName": "Wendt",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Sachsen",
+          "photo": "https://afd-fraktion-sachsen.de/wp-content/uploads/2024/10/43-AfD-Wendt-Andre.jpg"
+        },
+        {
+          "name": "Ferdinand Wiedeburg",
+          "firstName": "Ferdinand",
+          "lastName": "Wiedeburg",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Sachsen",
+          "photo": "https://afd-fraktion-sachsen.de/wp-content/uploads/2024/10/34-AfD-Ferdinand-Wiedeburg.jpg"
+        },
+        {
+          "name": "Alexander Wiesner",
+          "firstName": "Alexander",
+          "lastName": "Wiesner",
+          "role": "Fraktionsvorstand",
+          "email": "",
+          "website": "",
+          "land": "Sachsen",
+          "photo": "https://afd-fraktion-sachsen.de/wp-content/uploads/2024/10/28-AfD-Wiesner-Alexander.jpg"
+        },
+        {
+          "name": "Marko Winter",
+          "firstName": "Marko",
+          "lastName": "Winter",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Sachsen",
+          "photo": "https://afd-fraktion-sachsen.de/wp-content/uploads/2024/10/17-AfD-Winter-Marko.jpg"
+        },
+        {
+          "name": "Sebastian Wippel",
+          "firstName": "Sebastian",
+          "lastName": "Wippel",
+          "role": "Erster stellv. Fraktionsvorsitzender",
+          "email": "",
+          "website": "",
+          "land": "Sachsen",
+          "photo": "https://afd-fraktion-sachsen.de/wp-content/uploads/2024/10/58-AfD-Wippel-Sebastian.jpg"
+        },
+        {
+          "name": "Hans-Jürgen Zickler",
+          "firstName": "Hans-Jürgen",
+          "lastName": "Zickler",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Sachsen",
+          "photo": "https://afd-fraktion-sachsen.de/wp-content/uploads/2024/10/40-AfD-Zickler-Hans-Juergen.jpg"
+        },
+        {
+          "name": "Jan Zwerg",
+          "firstName": "Jan",
+          "lastName": "Zwerg",
+          "role": "Parlamentarischer Geschäftsführer",
+          "email": "",
+          "website": "",
+          "land": "Sachsen",
+          "photo": "https://afd-fraktion-sachsen.de/wp-content/uploads/2024/10/50-AfD-Jan-Zwerg.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Sachsen-Anhalt",
+      "parliament": "9. Landtag von Sachsen-Anhalt",
+      "source": "https://afdfraktion-lsa.de/abgeordnete",
+      "count": 39,
+      "members": [
+        {
+          "name": "Matthias Büttner (Staßfurt)",
+          "firstName": "Matthias",
+          "lastName": "(Staßfurt)",
+          "role": "Stellv. Fraktionsvorsitzender",
+          "email": "",
+          "website": "",
+          "land": "Sachsen-Anhalt",
+          "photo": "https://afdfraktion-lsa.de/wp-content/uploads/2026/09/Matthias-Buettner-SDL-Presse-768x922.jpg"
+        },
+        {
+          "name": "Matthias Büttner (Stendal)",
+          "firstName": "Matthias",
+          "lastName": "(Stendal)",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Sachsen-Anhalt",
+          "photo": "https://afdfraktion-lsa.de/wp-content/uploads/2026/09/Matthias-Buettner-SDL-Presse-768x922.jpg"
+        },
+        {
+          "name": "Paul Backmund",
+          "firstName": "Paul",
+          "lastName": "Backmund",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Sachsen-Anhalt",
+          "photo": "https://afdfraktion-lsa.de/wp-content/uploads/2026/09/Paul-Backmund-Presse-768x922.jpg"
+        },
+        {
+          "name": "Andreas Best",
+          "firstName": "Andreas",
+          "lastName": "Best",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Sachsen-Anhalt",
+          "photo": "https://afdfraktion-lsa.de/wp-content/uploads/2026/09/Andreas-Best-Presse-768x922.jpg"
+        },
+        {
+          "name": "Frank-Ronald Bischoff",
+          "firstName": "Frank-Ronald",
+          "lastName": "Bischoff",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Sachsen-Anhalt",
+          "photo": "https://afdfraktion-lsa.de/wp-content/uploads/2026/09/Frank-Ronald-Bischoff-Presse-768x922.jpg"
+        },
+        {
+          "name": "Armin Friese",
+          "firstName": "Armin",
+          "lastName": "Friese",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Sachsen-Anhalt",
+          "photo": "https://afdfraktion-lsa.de/wp-content/uploads/2026/09/Armin-Friese-Presse-768x922.jpg"
+        },
+        {
+          "name": "Andreas Gehlmann",
+          "firstName": "Andreas",
+          "lastName": "Gehlmann",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Sachsen-Anhalt",
+          "photo": "https://afdfraktion-lsa.de/wp-content/uploads/2026/09/Andreas-Gehlmann-Presse-768x922.jpg"
+        },
+        {
+          "name": "Christian Ulrich Hecht",
+          "firstName": "Christian",
+          "lastName": "Hecht",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Sachsen-Anhalt",
+          "photo": "https://afdfraktion-lsa.de/wp-content/uploads/2026/09/Christian-Ulrich-Hecht-Presse-768x922.jpg"
+        },
+        {
+          "name": "Dirk Jonas",
+          "firstName": "Dirk",
+          "lastName": "Jonas",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Sachsen-Anhalt",
+          "photo": "https://afdfraktion-lsa.de/wp-content/uploads/2026/09/Dirk-Jonas-Presse-768x922.jpg"
+        },
+        {
+          "name": "Sebastian Killinger",
+          "firstName": "Sebastian",
+          "lastName": "Killinger",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Sachsen-Anhalt",
+          "photo": "https://afdfraktion-lsa.de/wp-content/uploads/2026/09/Sebastian-Killinger-Presse-768x922.jpg"
+        },
+        {
+          "name": "Oliver Kirchner",
+          "firstName": "Oliver",
+          "lastName": "Kirchner",
+          "role": "Fraktionsvorsitzender",
+          "email": "",
+          "website": "",
+          "land": "Sachsen-Anhalt",
+          "photo": "https://afdfraktion-lsa.de/wp-content/uploads/2026/09/Oliver-Kirchner-Presse-1-768x922.jpg"
+        },
+        {
+          "name": "Sebastian Koch",
+          "firstName": "Sebastian",
+          "lastName": "Koch",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Sachsen-Anhalt",
+          "photo": "https://afdfraktion-lsa.de/wp-content/uploads/2026/09/Sebastian-Koch-Presse-768x922.jpg"
+        },
+        {
+          "name": "Gordon Köhler",
+          "firstName": "Gordon",
+          "lastName": "Köhler",
+          "role": "Stellv. Fraktionsvorsitzender",
+          "email": "",
+          "website": "",
+          "land": "Sachsen-Anhalt",
+          "photo": "https://afdfraktion-lsa.de/wp-content/uploads/2026/09/Gordon-Koehler-Presse-1-768x922.jpg"
+        },
+        {
+          "name": "Hagen Kohl",
+          "firstName": "Hagen",
+          "lastName": "Kohl",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Sachsen-Anhalt",
+          "photo": "https://afdfraktion-lsa.de/wp-content/uploads/2026/09/Hagen-Kohl-Presse-768x922.jpg"
+        },
+        {
+          "name": "Nadine Koppehel",
+          "firstName": "Nadine",
+          "lastName": "Koppehel",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Sachsen-Anhalt",
+          "photo": "https://afdfraktion-lsa.de/wp-content/uploads/2026/09/Nadine-Koppehel-Presse-768x922.jpg"
+        },
+        {
+          "name": "Reiner Kretschmann",
+          "firstName": "Reiner",
+          "lastName": "Kretschmann",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Sachsen-Anhalt",
+          "photo": "https://afdfraktion-lsa.de/wp-content/uploads/2026/09/Reiner-Kretschmann-Presse-768x922.jpg"
+        },
+        {
+          "name": "Ronny Kumpf",
+          "firstName": "Ronny",
+          "lastName": "Kumpf",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Sachsen-Anhalt",
+          "photo": "https://afdfraktion-lsa.de/wp-content/uploads/2026/09/Ronny-Kumpf-Presse-768x922.jpg"
+        },
+        {
+          "name": "Simon Lansmann",
+          "firstName": "Simon",
+          "lastName": "Lansmann",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Sachsen-Anhalt",
+          "photo": "https://afdfraktion-lsa.de/wp-content/uploads/2026/09/Simon-Lansmann-Presse-768x922.jpg"
+        },
+        {
+          "name": "Dirk Lassowski",
+          "firstName": "Dirk",
+          "lastName": "Lassowski",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Sachsen-Anhalt",
+          "photo": "https://afdfraktion-lsa.de/wp-content/uploads/2026/09/Dirk-Lassowski-Presse-768x922.jpg"
+        },
+        {
+          "name": "Matthias Lieschke",
+          "firstName": "Matthias",
+          "lastName": "Lieschke",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Sachsen-Anhalt",
+          "photo": "https://afdfraktion-lsa.de/wp-content/uploads/2026/09/Matthias-Lieschke-Presse-768x922.jpg"
+        },
+        {
+          "name": "Christian Mertens",
+          "firstName": "Christian",
+          "lastName": "Mertens",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Sachsen-Anhalt",
+          "photo": "https://afdfraktion-lsa.de/wp-content/uploads/2026/09/Christian-Mertens-Presse-768x922.jpg"
+        },
+        {
+          "name": "Dennis Möhring",
+          "firstName": "Dennis",
+          "lastName": "Möhring",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Sachsen-Anhalt",
+          "photo": "https://afdfraktion-lsa.de/wp-content/uploads/2026/09/Dennis-Moehring-Presse-768x922.jpg"
+        },
+        {
+          "name": "Jan Moldenhauer",
+          "firstName": "Jan",
+          "lastName": "Moldenhauer",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Sachsen-Anhalt",
+          "photo": "https://afdfraktion-lsa.de/wp-content/uploads/2026/09/Dr-Jan-Moldenhauer-Presse-768x922.jpg"
+        },
+        {
+          "name": "Volker Olenicak",
+          "firstName": "Volker",
+          "lastName": "Olenicak",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Sachsen-Anhalt",
+          "photo": "https://afdfraktion-lsa.de/wp-content/uploads/2026/09/Volker-Olenicak-Presse-768x922.jpg"
+        },
+        {
+          "name": "Burkhardt Ratzmann",
+          "firstName": "Burkhardt",
+          "lastName": "Ratzmann",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Sachsen-Anhalt",
+          "photo": "https://afdfraktion-lsa.de/wp-content/uploads/2026/09/Burkhardt-Ratzmann-Presse-768x922.jpg"
+        },
+        {
+          "name": "Phillipp-Anders Rau",
+          "firstName": "Phillipp-Anders",
+          "lastName": "Rau",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Sachsen-Anhalt",
+          "photo": "https://afdfraktion-lsa.de/wp-content/uploads/2026/09/Phillipp-Anders-Rau-Presse-768x922.jpg"
+        },
+        {
+          "name": "Alexander Raue",
+          "firstName": "Alexander",
+          "lastName": "Raue",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Sachsen-Anhalt",
+          "photo": "https://afdfraktion-lsa.de/wp-content/uploads/2026/09/Alexander-Raue-Presse-768x922.jpg"
+        },
+        {
+          "name": "Daniel Rausch",
+          "firstName": "Daniel",
+          "lastName": "Rausch",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Sachsen-Anhalt",
+          "photo": "https://afdfraktion-lsa.de/wp-content/uploads/2026/09/Daniel-Rausch-Presse-768x922.jpg"
+        },
+        {
+          "name": "Tobias Rausch",
+          "firstName": "Tobias",
+          "lastName": "Rausch",
+          "role": "Parlamentarischer Geschäftsführer",
+          "email": "",
+          "website": "",
+          "land": "Sachsen-Anhalt",
+          "photo": "https://afdfraktion-lsa.de/wp-content/uploads/2026/09/Tobias-Rausch-Presse-1-768x922.jpg"
+        },
+        {
+          "name": "Daniel Roi",
+          "firstName": "Daniel",
+          "lastName": "Roi",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Sachsen-Anhalt",
+          "photo": "https://afdfraktion-lsa.de/wp-content/uploads/2026/09/Daniel-Roi-Presse-768x922.jpg"
+        },
+        {
+          "name": "Jan Scharfenort",
+          "firstName": "Jan",
+          "lastName": "Scharfenort",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Sachsen-Anhalt",
+          "photo": "https://afdfraktion-lsa.de/wp-content/uploads/2026/09/Jan-Scharfenort-Presse-768x922.jpg"
+        },
+        {
+          "name": "Thomas Schmirander",
+          "firstName": "Thomas",
+          "lastName": "Schmirander",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Sachsen-Anhalt",
+          "photo": "https://afdfraktion-lsa.de/wp-content/uploads/2026/09/Thomas-Schmirander-Presse-768x922.jpg"
+        },
+        {
+          "name": "Florian Schröder",
+          "firstName": "Florian",
+          "lastName": "Schröder",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Sachsen-Anhalt",
+          "photo": "https://afdfraktion-lsa.de/wp-content/uploads/2026/09/Florian-Schroeder-Presse-768x922.jpg"
+        },
+        {
+          "name": "Ulrich Siegmund",
+          "firstName": "Ulrich",
+          "lastName": "Siegmund",
+          "role": "Fraktionsvorsitzender",
+          "email": "",
+          "website": "",
+          "land": "Sachsen-Anhalt",
+          "photo": "https://afdfraktion-lsa.de/wp-content/uploads/2026/09/Ulrich-Siegmund-Presse-1-768x922.jpg"
+        },
+        {
+          "name": "Hans-Thomas Tillschneider",
+          "firstName": "Hans-Thomas",
+          "lastName": "Tillschneider",
+          "role": "Stellv. Fraktionsvorsitzender",
+          "email": "",
+          "website": "",
+          "land": "Sachsen-Anhalt",
+          "photo": "https://afdfraktion-lsa.de/wp-content/uploads/2026/09/Presse-1-768x922.jpg"
+        },
+        {
+          "name": "Juliane Waehler",
+          "firstName": "Juliane",
+          "lastName": "Waehler",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Sachsen-Anhalt",
+          "photo": "https://afdfraktion-lsa.de/wp-content/uploads/2026/09/Juliane-Waehler-Presse-768x922.jpg"
+        },
+        {
+          "name": "Lothar Waehler",
+          "firstName": "Lothar",
+          "lastName": "Waehler",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Sachsen-Anhalt",
+          "photo": "https://afdfraktion-lsa.de/wp-content/uploads/2026/09/Lothar-Waehler-Presse-768x922.jpg"
+        },
+        {
+          "name": "Daniel Wald",
+          "firstName": "Daniel",
+          "lastName": "Wald",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Sachsen-Anhalt",
+          "photo": "https://afdfraktion-lsa.de/wp-content/uploads/2026/09/Daniel-Wald-Presse-768x922.jpg"
+        },
+        {
+          "name": "Felix Zietmann",
+          "firstName": "Felix",
+          "lastName": "Zietmann",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Sachsen-Anhalt",
+          "photo": "https://afdfraktion-lsa.de/wp-content/uploads/2026/09/Felix-Zietmann-Presse-768x922.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Schleswig-Holstein",
+      "parliament": "20. Schleswig-Holsteinischer Landtag",
+      "source": "https://www.landtag.ltsh.de",
+      "count": 0,
+      "members": []
+    },
+    {
+      "name": "Thüringen",
+      "parliament": "8. Thüringer Landtag",
+      "source": "https://www.thueringer-landtag.de/abgeordnete/abgeordnete-fraktionen-sitzordnung",
+      "count": 32,
+      "members": [
+        {
+          "name": "Jan Abicht",
+          "firstName": "Jan",
+          "lastName": "Abicht",
+          "role": "Tourismuspolitischer Sprecher",
+          "email": "",
+          "website": "",
+          "land": "Thüringen",
+          "photo": "https://www.thueringer-landtag.de/fileadmin/_processed_/7/4/csm_902_64c39c0693.jpg"
+        },
+        {
+          "name": "Thomas Benninghaus",
+          "firstName": "Thomas",
+          "lastName": "Benninghaus",
+          "role": "Kulturpolitischer Sprecher",
+          "email": "",
+          "website": "",
+          "land": "Thüringen",
+          "photo": "https://www.thueringer-landtag.de/fileadmin/_processed_/b/1/csm_908_047836a5e8.jpg"
+        },
+        {
+          "name": "Melanie Berger",
+          "firstName": "Melanie",
+          "lastName": "Berger",
+          "role": "Landwirtschaftspolitische Sprecherin",
+          "email": "",
+          "website": "",
+          "land": "Thüringen",
+          "photo": "https://www.thueringer-landtag.de/fileadmin/_processed_/8/a/csm_910_fcf705f01e.jpg"
+        },
+        {
+          "name": "Jens Cotta",
+          "firstName": "Jens",
+          "lastName": "Cotta",
+          "role": "Stellv. Fraktionsvorsitzender",
+          "email": "",
+          "website": "",
+          "land": "Thüringen",
+          "photo": "https://www.thueringer-landtag.de/fileadmin/_processed_/9/2/csm_647_d8510e7398.jpg"
+        },
+        {
+          "name": "Torsten Czuppon",
+          "firstName": "Torsten",
+          "lastName": "Czuppon",
+          "role": "Sprecher für Petitionen und Bürgerbeteiligung",
+          "email": "",
+          "website": "",
+          "land": "Thüringen",
+          "photo": "https://www.thueringer-landtag.de/fileadmin/_processed_/9/4/csm_662_16cb9be541.jpg"
+        },
+        {
+          "name": "Jens Dietrich",
+          "firstName": "Jens",
+          "lastName": "Dietrich",
+          "role": "Sprecher für Wissenschafts- und Hochschulpolitik",
+          "email": "",
+          "website": "",
+          "land": "Thüringen",
+          "photo": "https://www.thueringer-landtag.de/fileadmin/_processed_/5/d/csm_887_4a5e333e0e.jpg"
+        },
+        {
+          "name": "Kerstin Düben-Schaumann",
+          "firstName": "Kerstin",
+          "lastName": "Düben-Schaumann",
+          "role": "Sprecherin für Sucht- und Drogenprävention",
+          "email": "",
+          "website": "",
+          "land": "Thüringen",
+          "photo": "https://www.thueringer-landtag.de/fileadmin/_processed_/5/f/csm_919_7e4c498dcd.jpg"
+        },
+        {
+          "name": "Marek Erfurth",
+          "firstName": "Marek",
+          "lastName": "Erfurth",
+          "role": "Sprecher für Justizvollzug",
+          "email": "",
+          "website": "",
+          "land": "Thüringen",
+          "photo": "https://www.thueringer-landtag.de/fileadmin/_processed_/d/5/csm_921_044f75b95f.jpg"
+        },
+        {
+          "name": "Peter Gerhardt",
+          "firstName": "Peter",
+          "lastName": "Gerhardt",
+          "role": "Sprecher für Europa- und Energiepolitik",
+          "email": "",
+          "website": "",
+          "land": "Thüringen",
+          "photo": "https://www.thueringer-landtag.de/fileadmin/_processed_/b/1/csm_927_758c0ada92.jpg"
+        },
+        {
+          "name": "Denis Häußer",
+          "firstName": "Denis",
+          "lastName": "Häußer",
+          "role": "Sprecher für Digitalisierung",
+          "email": "",
+          "website": "",
+          "land": "Thüringen",
+          "photo": "https://www.thueringer-landtag.de/fileadmin/_processed_/b/4/csm_935_2a1a5a22b1.jpg"
+        },
+        {
+          "name": "Daniel Haseloff",
+          "firstName": "Daniel",
+          "lastName": "Haseloff",
+          "role": "Stellv. Fraktionsvorsitzender",
+          "email": "",
+          "website": "",
+          "land": "Thüringen",
+          "photo": "https://www.thueringer-landtag.de/fileadmin/_processed_/6/f/csm_933_64782a77ee.jpg"
+        },
+        {
+          "name": "Björn Höcke",
+          "firstName": "Björn",
+          "lastName": "Höcke",
+          "role": "Fraktionsvorsitzender",
+          "email": "",
+          "website": "",
+          "land": "Thüringen",
+          "photo": "https://www.thueringer-landtag.de/fileadmin/_processed_/6/e/csm_626_81eec6f734.jpg"
+        },
+        {
+          "name": "Nadine Hoffmann",
+          "firstName": "Nadine",
+          "lastName": "Hoffmann",
+          "role": "Sprecherin für Umweltpolitik",
+          "email": "",
+          "website": "",
+          "land": "Thüringen",
+          "photo": "https://www.thueringer-landtag.de/fileadmin/_processed_/3/7/csm_844_cb9067b768.jpg"
+        },
+        {
+          "name": "Thomas Hoffmann",
+          "firstName": "Thomas",
+          "lastName": "Hoffmann",
+          "role": "Handwerkspolitischer Sprecher",
+          "email": "",
+          "website": "",
+          "land": "Thüringen",
+          "photo": "https://www.thueringer-landtag.de/fileadmin/_processed_/2/8/csm_945_6d19068d31.jpg"
+        },
+        {
+          "name": "Denny Jankowski",
+          "firstName": "Denny",
+          "lastName": "Jankowski",
+          "role": "Bildungspolitischer Sprecher",
+          "email": "",
+          "website": "",
+          "land": "Thüringen",
+          "photo": "https://www.thueringer-landtag.de/fileadmin/_processed_/e/0/csm_632_541de43a82.jpg"
+        },
+        {
+          "name": "Olaf Kießling",
+          "firstName": "Olaf",
+          "lastName": "Kießling",
+          "role": "Sprecher für Direkte Demokratie",
+          "email": "",
+          "website": "",
+          "land": "Thüringen",
+          "photo": "https://www.thueringer-landtag.de/fileadmin/_processed_/2/c/csm_650_1e2affdd05.jpg"
+        },
+        {
+          "name": "Marcel Kramer",
+          "firstName": "Marcel",
+          "lastName": "Kramer",
+          "role": "Verkehrspolitischer Sprecher",
+          "email": "",
+          "website": "",
+          "land": "Thüringen",
+          "photo": "https://www.thueringer-landtag.de/fileadmin/_processed_/2/b/csm_961_5092328275.jpg"
+        },
+        {
+          "name": "Uwe Krell",
+          "firstName": "Uwe",
+          "lastName": "Krell",
+          "role": "Sprecher für Wohnungsbau/-wirtschaft",
+          "email": "",
+          "website": "",
+          "land": "Thüringen",
+          "photo": "https://www.thueringer-landtag.de/fileadmin/_processed_/d/f/csm_963_a99d34adee.jpg"
+        },
+        {
+          "name": "Dieter Laudenbach",
+          "firstName": "Dieter",
+          "lastName": "Laudenbach",
+          "role": "Sprecher für Seniorenpolitik",
+          "email": "",
+          "website": "",
+          "land": "Thüringen",
+          "photo": "https://www.thueringer-landtag.de/fileadmin/_processed_/f/0/csm_659_66e7db49fb.jpg"
+        },
+        {
+          "name": "Wolfgang Lauerwald",
+          "firstName": "Wolfgang",
+          "lastName": "Lauerwald",
+          "role": "Gesundheitspolitischer Sprecher",
+          "email": "",
+          "website": "",
+          "land": "Thüringen",
+          "photo": "https://www.thueringer-landtag.de/fileadmin/_processed_/a/8/csm_674_29bbc83efa.jpg"
+        },
+        {
+          "name": "Thomas Luhn",
+          "firstName": "Thomas",
+          "lastName": "Luhn",
+          "role": "Sprecher für Pflege",
+          "email": "",
+          "website": "",
+          "land": "Thüringen",
+          "photo": "https://www.thueringer-landtag.de/fileadmin/_processed_/2/9/csm_971_27d36547e6.jpg"
+        },
+        {
+          "name": "Elisabeth Mengel-Stähle",
+          "firstName": "Elisabeth",
+          "lastName": "Mengel-Stähle",
+          "role": "Sprecherin für berufliche Bildung",
+          "email": "",
+          "website": "",
+          "land": "Thüringen",
+          "photo": "https://www.thueringer-landtag.de/fileadmin/_processed_/f/2/csm_1065_9595bf01b2.jpg"
+        },
+        {
+          "name": "Ringo Mühlmann",
+          "firstName": "Ringo",
+          "lastName": "Mühlmann",
+          "role": "Innenpolitischer Sprecher",
+          "email": "",
+          "website": "",
+          "land": "Thüringen",
+          "photo": "https://www.thueringer-landtag.de/fileadmin/_processed_/3/f/csm_665_042f2f0b41.jpg"
+        },
+        {
+          "name": "Wiebke Muhsal",
+          "firstName": "Wiebke",
+          "lastName": "Muhsal",
+          "role": "Parlamentarische Geschäftsführerin",
+          "email": "",
+          "website": "",
+          "land": "Thüringen",
+          "photo": "https://www.thueringer-landtag.de/fileadmin/_processed_/8/1/csm_58_46216d1023.jpg"
+        },
+        {
+          "name": "Brunhilde Nauer",
+          "firstName": "Brunhilde",
+          "lastName": "Nauer",
+          "role": "Haushaltspolitische Sprecherin",
+          "email": "",
+          "website": "",
+          "land": "Thüringen",
+          "photo": "https://www.thueringer-landtag.de/fileadmin/_processed_/4/f/csm_983_ebd2d36c63.jpg"
+        },
+        {
+          "name": "Jörg Prophet",
+          "firstName": "Jörg",
+          "lastName": "Prophet",
+          "role": "Stellv. Fraktionsvorsitzender",
+          "email": "",
+          "website": "",
+          "land": "Thüringen",
+          "photo": "https://www.thueringer-landtag.de/fileadmin/_processed_/6/2/csm_985_1945a1ee7e.jpg"
+        },
+        {
+          "name": "Vivien Rottstedt",
+          "firstName": "Vivien",
+          "lastName": "Rottstedt",
+          "role": "Sprecherin für Kommunal- und Jugendpolitik",
+          "email": "",
+          "website": "",
+          "land": "Thüringen",
+          "photo": "https://www.thueringer-landtag.de/fileadmin/_processed_/2/2/csm_991_ad34122dfb.jpg"
+        },
+        {
+          "name": "Sascha Schlösser",
+          "firstName": "Sascha",
+          "lastName": "Schlösser",
+          "role": "Justizpolitischer Sprecher",
+          "email": "",
+          "website": "",
+          "land": "Thüringen",
+          "photo": "https://www.thueringer-landtag.de/fileadmin/_processed_/3/2/csm_996_67ae48ebe6.jpg"
+        },
+        {
+          "name": "Stephan Steinbrück",
+          "firstName": "Stephan",
+          "lastName": "Steinbrück",
+          "role": "Sprecher für Soziales und Familie",
+          "email": "",
+          "website": "",
+          "land": "Thüringen",
+          "photo": "https://www.thueringer-landtag.de/fileadmin/_processed_/e/7/csm_1005_d649aeb80d.jpg"
+        },
+        {
+          "name": "Uwe Thrum",
+          "firstName": "Uwe",
+          "lastName": "Thrum",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Thüringen",
+          "photo": "https://www.thueringer-landtag.de/fileadmin/_processed_/0/d/csm_689_596f095db4.jpg"
+        },
+        {
+          "name": "Jürgen Treutler",
+          "firstName": "Jürgen",
+          "lastName": "Treutler",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Thüringen",
+          "photo": "https://www.thueringer-landtag.de/fileadmin/_processed_/d/a/csm_1013_92e46175c9.jpg"
+        },
+        {
+          "name": "Pascal Wloch",
+          "firstName": "Pascal",
+          "lastName": "Wloch",
+          "role": "",
+          "email": "",
+          "website": "",
+          "land": "Thüringen",
+          "photo": "https://www.thueringer-landtag.de/fileadmin/_processed_/e/e/csm_1067_07b021c712.jpg"
+        }
+      ]
+    }
+  ]
+}

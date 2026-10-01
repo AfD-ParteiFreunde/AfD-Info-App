@@ -1,0 +1,40 @@
+MIT License
+
+Copyright (c) 2026 The AfD-App contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+NOTE ON THIRD-PARTY CONTENT
+
+The MIT license above applies to the application source code only. It does NOT
+apply to the following bundled assets, which remain the property of their
+respective rights holders and are included for informational/private use only:
+
+- Party logos, word marks and corporate-design assets (e.g. the AfD logo,
+  state-association logos) — trademarks of AfD and its associations.
+- Bundled fonts under app/src/main/res/font/ — each font keeps its own license
+  (OFL / Apache-2.0, Google Fonts). See README for details.
+- Scraped or third-party content displayed at runtime (RSS articles, election
+  polls, contact data, the party programme PDF) — owned by the respective
+  publishers/parties and subject to their terms.
+
+Before any public or commercial redistribution, verify that you have the right
+to use these assets and content.

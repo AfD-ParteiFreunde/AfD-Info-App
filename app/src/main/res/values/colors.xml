@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="afd_blue">#009EE0</color>
+    <color name="afd_navy">#0A2A43</color>
+    <color name="afd_red">#E2001A</color>
+    <color name="splash_bg">#071C2C</color>
+    <color name="app_bg">#DCEDFB</color>
+    <color name="ic_launcher_background">#0A2A43</color>
+</resources>

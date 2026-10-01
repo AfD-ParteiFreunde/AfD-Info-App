@@ -1,0 +1,23 @@
+{
+  "updated": "2026-09-26",
+  "source": "wahlrecht.de",
+  "elections": [
+    { "id": "bpw-2027", "name": "Wahl des Bundespräsidenten (18. Bundesversammlung)", "type": "bund", "region": "Deutschland", "date": "2027-01-30", "period": "", "confirmed": true },
+    { "id": "ltw-sl-2027", "name": "Landtagswahl Saarland", "type": "land", "region": "Saarland", "date": "2027-04-18", "period": "", "confirmed": true },
+    { "id": "ltw-sh-2027", "name": "Landtagswahl Schleswig-Holstein", "type": "land", "region": "Schleswig-Holstein", "date": "2027-04-18", "period": "", "confirmed": true },
+    { "id": "ltw-nw-2027", "name": "Landtagswahl Nordrhein-Westfalen", "type": "land", "region": "Nordrhein-Westfalen", "date": "2027-04-25", "period": "", "confirmed": true },
+    { "id": "ltw-hb-2027", "name": "Bürgerschaftswahl Bremen", "type": "land", "region": "Bremen", "date": "2027-05-30", "period": "", "confirmed": true },
+    { "id": "ltw-ni-2027", "name": "Landtagswahl Niedersachsen", "type": "land", "region": "Niedersachsen", "date": "2027-09-26", "period": "", "confirmed": true },
+    { "id": "kw-sh-2028", "name": "Kommunalwahlen Schleswig-Holstein", "type": "kommunal", "region": "Schleswig-Holstein", "date": "", "period": "Frühjahr 2028", "confirmed": false },
+    { "id": "ltw-by-2028", "name": "Landtagswahl Bayern", "type": "land", "region": "Bayern", "date": "", "period": "Herbst 2028", "confirmed": false },
+    { "id": "ltw-he-2028", "name": "Landtagswahl Hessen", "type": "land", "region": "Hessen", "date": "", "period": "Herbst 2028", "confirmed": false },
+    { "id": "btw-2029", "name": "Bundestagswahl", "type": "bund", "region": "Deutschland", "date": "", "period": "Winter 2029", "confirmed": false },
+    { "id": "euw-2029", "name": "Europawahl", "type": "europa", "region": "Deutschland", "date": "", "period": "Frühjahr 2029", "confirmed": false },
+    { "id": "kw-2029", "name": "Kommunalwahlen in mehreren Bundesländern", "type": "kommunal", "region": "BW, BB, HH, MV, RP, SL, SN, ST, TH", "date": "", "period": "Frühjahr 2029", "confirmed": false },
+    { "id": "ltw-sn-2029", "name": "Landtagswahl Sachsen", "type": "land", "region": "Sachsen", "date": "", "period": "Herbst 2029", "confirmed": false },
+    { "id": "ltw-th-2029", "name": "Landtagswahl Thüringen", "type": "land", "region": "Thüringen", "date": "", "period": "Herbst 2029", "confirmed": false },
+    { "id": "ltw-bb-2029", "name": "Landtagswahl Brandenburg", "type": "land", "region": "Brandenburg", "date": "", "period": "Herbst 2029", "confirmed": false },
+    { "id": "ltw-hh-2030", "name": "Bürgerschaftswahl Hamburg", "type": "land", "region": "Hamburg", "date": "", "period": "Winter 2030", "confirmed": false },
+    { "id": "kw-nw-2030", "name": "Kommunalwahlen Nordrhein-Westfalen", "type": "kommunal", "region": "Nordrhein-Westfalen", "date": "", "period": "Herbst 2030", "confirmed": false }
+  ]
+}

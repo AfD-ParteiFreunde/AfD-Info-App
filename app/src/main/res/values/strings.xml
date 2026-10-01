@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AfD</string>
+    <string name="splash_slogan">Wir lieben Deutschland.</string>
+
+    <string name="privacy_title">Datenschutz</string>
+    <string name="privacy_intro">Bitte lies und akzeptiere die Datenschutzhinweise, bevor du die App nutzt.</string>
+    <string name="privacy_intro_review">Datenschutzhinweise dieser App.</string>
+    <string name="privacy_body">Diese App ist ein privates, inoffizielles Informationsangebot für Parteifreunde und kein offizielles Angebot der AfD oder ihrer Gliederungen.
+
+ERHOBENE DATEN
+Die App verarbeitet ausschließlich Daten, die für ihren Betrieb erforderlich sind, und speichert diese nur lokal auf deinem Gerät:
+• Einstellungen (z. B. Sprache, Design, aktivierte Nachrichtenquellen)
+• Zwischengespeicherte Nachrichteninhalte
+• Der von dir akzeptierte Datenschutz-Status
+
+KEINE WEITERGABE AN DRITTE
+Es werden keine personenbezogenen Daten an uns oder an Dritte übermittelt. Es gibt kein Nutzerkonto, keine Werbung, kein Tracking und keine Analyse.
+
+NETZWERKZUGRIFF
+Beim Laden von Nachrichten, Terminen und Karten werden die öffentlichen Inhalte der verlinkten Quellen direkt von deren Servern abgerufen. Dabei werden – wie bei jedem Webseitenaufruf – technisch notwendige Verbindungsdaten (z. B. IP-Adresse) an die jeweiligen Anbieter übertragen. Es gelten deren Datenschutzbestimmungen.
+
+BANKING-APPS
+Die Funktion „Mit deiner Banking-App spenden“ erkennt installierte Banking-Apps ausschließlich lokal auf deinem Gerät, um sie öffnen zu können. Es werden keine Daten über installierte Apps gespeichert oder übertragen. Überweisungsdaten werden nicht automatisch übermittelt.
+
+EXTERNE LINKS
+Beim Öffnen externer Links verlässt du die App; es gelten die Datenschutzbestimmungen der jeweiligen Anbieter.
+
+DEINE KONTROLLE
+Du kannst alle lokalen Daten jederzeit über „Einstellungen → Cache leeren“ bzw. durch Deinstallation der App entfernen.
+
+Mit dem Antippen von „Akzeptieren“ bestätigst du, dass du diese Hinweise gelesen und verstanden hast. Die Zustimmung wird nur lokal gespeichert und kann durch Löschen der App-Daten widerrufen werden.</string>
+    <string name="privacy_accept">Akzeptieren</string>
+    <string name="privacy_close">Schließen</string>
+    <string name="privacy_decline">Ablehnen</string>
+    <string name="privacy_decline_title">Zustimmung erforderlich</string>
+    <string name="privacy_decline_text">Ohne deine Zustimmung kann die App nicht genutzt werden. Du kannst sie schließen oder die Zustimmung erteilen.</string>
+    <string name="privacy_decline_close">App schließen</string>
+    <string name="privacy_decline_back">Zurück</string>
+    <string name="privacy_footer">Es gilt die Datenschutzerklärung unter afd.de/datenschutz.</string>
+
+    <string name="nav_news">Nachrichten</string>
+    <string name="nav_events">Termine</string>
+    <string name="nav_donate">Spenden</string>
+    <string name="nav_contacts">Kontakte</string>
+    <string name="nav_more">Mehr</string>
+
+    <string name="news_title">Nachrichten</string>
+    <string name="news_all">Alle Quellen</string>
+    <string name="news_refresh">Aktualisieren</string>
+    <string name="news_empty">Keine Artikel gefunden.</string>
+    <string name="news_empty_hint">Ziehen zum Aktualisieren oder Quellen unter „Mehr“ prüfen.</string>
+    <string name="news_source_error">Quelle nicht erreichbar.</string>
+    <string name="news_sources_error">%1$d Quellen nicht erreichbar.</string>
+    <string name="news_updated">Aktualisiert: %1$s</string>
+    <string name="news_now">gerade eben</string>
+    <string name="news_minutes">vor %1$d Min.</string>
+    <string name="news_hours">vor %1$d Std.</string>
+    <string name="news_days">vor %1$d Tagen</string>
+    <string name="news_read">Lesen</string>
+    <string name="news_to_top">Nach oben</string>
+
+    <string name="reader_loading">Artikel wird geladen…</string>
+    <string name="reader_error">Der Artikeltext konnte nicht geladen werden. Öffnen Sie das Original in Ihrem Browser.</string>
+    <string name="reader_open_original">Original öffnen</string>
+    <string name="reader_preview_note">Automatisch aus der Quelle extrahierter Text.</string>
+    <string name="reader_share">Teilen</string>
+    <string name="reader_source">Quelle: %1$s</string>
+
+    <string name="contacts_title">Kontakte</string>
+    <string name="contacts_tab_bundestag">Bundestag</string>
+    <string name="contacts_tab_land">Landesverbände</string>
+    <string name="contacts_tab_mein_land">Mein Bundesland</string>
+    <string name="landtag_pick_title">Wähle dein Bundesland</string>
+    <string name="landtag_pick_note">Wähle dein Bundesland, um alle AfD-Abgeordneten im Landesparlament zu sehen. Deine Auswahl wird gespeichert.</string>
+    <string name="landtag_change_state">Bundesland wechseln</string>
+    <string name="landtag_members">%1$d Landtagsabgeordnete</string>
+    <string name="landtag_empty">In diesem Landesparlament sitzen derzeit keine AfD-Abgeordneten.</string>
+    <string name="landtag_source">Quelle: %1$s</string>
+    <string name="landtag_parliament">%1$s</string>
+    <string name="landtag_website">Website</string>
+    <string name="landtag_no_contact">Für dieses Landesparlament sind keine E-Mail-Adressen zentral veröffentlicht.</string>
+    <string name="landtag_source_live">Live aktualisiert %1$s</string>
+    <string name="landtag_status_refreshing">Wird aktualisiert…</string>
+    <string name="contacts_search">Name, Wahlkreis oder Land suchen</string>
+    <string name="contacts_all_lands">Alle Länder</string>
+    <string name="contacts_email_note">E-Mail-Adressen folgen dem Bundestag-Schema (vorname.nachname@bundestag.de). Im Zweifel bitte über bundestag.de kontaktieren.</string>
+    <string name="contacts_email_note_short">E-Mail nach Bundestag-Schema; im Zweifel über bundestag.de.</string>
+    <string name="contacts_copy">Kopieren</string>
+    <string name="contacts_copied">Kopiert</string>
+    <string name="contacts_email">E-Mail</string>
+    <string name="contacts_bundestag">bundestag.de</string>
+    <string name="contacts_mandate_direct">Direktmandat</string>
+    <string name="contacts_mandate_list">Landesliste</string>
+    <string name="contacts_members">%1$d Abgeordnete</string>
+    <string name="contacts_source">Quelle: Deutscher Bundestag (Open Data), Stand %1$s</string>
+    <string name="contacts_land_overview">Alle Landesverbände auf afd.de</string>
+    <string name="contacts_land_overview_note">Für weitere Landesverbände öffnet sich die offizielle Übersicht auf afd.de.</string>
+    <string name="contacts_website">Website</string>
+    <string name="contacts_land_association">Landesverband</string>
+    <string name="contacts_land_group">Landtagsfraktion</string>
+    <string name="contacts_fraktion_label">AfD-Fraktion im Deutschen Bundestag</string>
+
+    <string name="donate_title">Spenden</string>
+    <string name="donate_hero_title">Unterstützen Sie die AfD</string>
+    <string name="donate_hero_text">Jede Spende hilft, Wahlkämpfe, Informationsmaterial und Präsenz vor Ort zu finanzieren.</string>
+    <string name="donate_official">Offizielle Spendenseite</string>
+    <string name="donate_bank">Banküberweisung</string>
+    <string name="donate_choose">Landesverband wählen</string>
+    <string name="donate_recipient">Empfänger</string>
+    <string name="donate_iban">IBAN</string>
+    <string name="donate_bic">BIC</string>
+    <string name="donate_bank_name">Bank</string>
+    <string name="donate_purpose">Verwendungszweck</string>
+    <string name="donate_purpose_value">Spende – Vor- und Nachname, Straße, PLZ, Ort</string>
+    <string name="donate_tax_title">Steuerlich begünstigt</string>
+    <string name="donate_tax_text">Spenden und Mitgliedsbeiträge an die AfD sind nach §34g EStG begünstigt: bis 1.650 € (Alleinstehende) bzw. 3.300 € (Verheiratete). Für die Zuwendungsbescheinigung bitte die vollständige Adresse im Verwendungszweck angeben.</string>
+    <string name="donate_legal_title">Gesetzliche Hinweise</string>
+    <string name="donate_legal_text">Spenden ab 10.000 € im Jahr werden im Rechenschaftsbericht veröffentlicht, Einzelspenden ab 50.000 € unverzüglich dem Bundestagspräsidenten angezeigt. Barspenden über 1.000 € sind unzulässig.</string>
+    <string name="donate_join">Mitglied werden</string>
+    <string name="donate_disclaimer">Angaben ohne Gewähr. Bitte prüfen Sie die Bankverbindung vor jeder Überweisung auf der Website des jeweiligen Landesverbands.</string>
+    <string name="donate_paypal">PayPal</string>
+    <string name="donate_paypal_sub">Offizielles PayPal-Konto der AfD</string>
+    <string name="donate_qr_title">Schnell überweisen per QR-Code (GiroCode)</string>
+    <string name="donate_qr_note">In der Banking-App scannen oder als Screenshot speichern und dort importieren. Den Betrag trägst du in der App ein.</string>
+    <string name="donate_account_for">Konto für %1$s</string>
+    <string name="donate_app_bank_title">Mit deiner Banking-App spenden</string>
+    <string name="donate_app_bank_text">Diese Banking-Apps sind auf deinem Gerät installiert. Öffne deine App und übernimm die Bankverbindung oben.</string>
+    <string name="donate_app_bank_open">Öffnen</string>
+    <string name="donate_app_bank_none">Keine bekannte Banking-App gefunden. Öffne deine Banking-App und scanne den GiroCode oben oder übernimm die Daten per Kopieren.</string>
+    <string name="donate_app_bank_note">Hinweis: Aus Sicherheitsgründen kann die App keine Überweisung automatisch starten. Die Daten werden nur angezeigt und können kopiert werden.</string>
+
+    <string name="events_title">Termine</string>
+    <string name="events_intro">Veranstaltungen werden von den Verbänden und der Fraktion gepflegt. Hier finden Sie die offiziellen Kalender.</string>
+    <string name="wahlkampf_events_all">Zum Veranstaltungskalender</string>
+    <string name="events_live">Live von afdbundestag.de · aktualisiert %1$s</string>
+    <string name="events_offline">Offline – Quelle: afdbundestag.de</string>
+    <string name="events_fraktion">AfD-Fraktion im Bundestag</string>
+    <string name="events_fraktion_sub">Pressemitteilungen und Aktuelles</string>
+    <string name="events_land">Landesverbände</string>
+    <string name="events_land_sub">Termine der Landesverbände</string>
+
+    <string name="more_title">Mehr</string>
+    <string name="more_language">Sprache</string>
+    <string name="more_language_note">Gilt sofort für die gesamte App.</string>
+    <string name="more_settings">Einstellungen</string>
+    <string name="more_glass_nav">Liquid Glass</string>
+    <string name="more_glass_nav_note">Schwebende Navigationsleiste mit Glaseffekt (iOS-Stil). Ausschalten für die klassische Leiste.</string>
+    <string name="more_sources">Nachrichtenquellen</string>
+    <string name="more_sources_note">Deaktivierte Quellen werden nicht geladen.</string>
+    <string name="more_feeds_block_note">Hinweis: afd.de kann automatische Abrufe blockieren. Bleibt eine Quelle dauerhaft leer, deaktivieren Sie sie hier.</string>
+    <string name="more_links">Links</string>
+    <string name="more_program">Parteiprogramm</string>
+    <string name="program_title">Wahlprogramm</string>
+    <string name="program_search_hint">Im Programm suchen…</string>
+    <string name="program_source">Quelle: %1$s</string>
+    <string name="program_loading">Aktualisiere aus dem Netz…</string>
+    <string name="program_intro">Vollständiges Wahlprogramm. Tippe ein Stichwort ein oder wähle ein Thema.</string>
+    <string name="program_no_results">Keine Treffer für „%1$s“.</string>
+    <string name="program_page">Seite %1$d</string>
+    <string name="program_results">%1$d Treffer für „%2$s“</string>
+    <string name="program_page_failed">Seite konnte nicht geladen werden.</string>
+    <string name="more_join">Mitglied werden</string>
+    <string name="more_donate_link">Spenden</string>
+    <string name="more_about">Über die App</string>
+    <string name="more_about_text">Private, inoffizielle Informations-App für Parteifreunde. Inhalte stammen von den verlinkten Quellen. Kein offizielles Angebot der AfD oder ihrer Gliederungen.</string>
+    <string name="more_privacy">Datenschutz</string>
+    <string name="more_privacy_note">Datenschutzhinweise ansehen</string>
+    <string name="more_version">Version %1$s</string>
+    <string name="more_stats">%1$d Quellen · %2$d Kontakte</string>
+    <string name="more_clear_cache">Cache leeren</string>
+    <string name="more_cache_cleared">Cache geleert</string>
+
+    <string name="lang_de">Deutsch</string>
+    <string name="lang_en">Englisch</string>
+
+    <string name="action_open">Öffnen</string>
+    <string name="action_back">Zurück</string>
+    <string name="common_retry">Erneut versuchen</string>
+    <string name="common_close">Schließen</string>
+    <string name="error_generic">Etwas ist schiefgelaufen.</string>
+
+    <string name="splash_skip">Tippen zum Überspringen</string>
+
+    <string name="nav_wahlkampf">Wahlkampf</string>
+    <string name="wahlkampf_title">Wahlkampf</string>
+    <string name="wahlkampf_next">Nächste Wahl</string>
+    <string name="wahlkampf_today">heute</string>
+    <string name="wahlkampf_tomorrow">morgen</string>
+    <string name="wahlkampf_in_days">in %1$d Tagen</string>
+    <string name="wahlkampf_dates">Wahltermine</string>
+    <string name="wahlkampf_expected">voraussichtlich</string>
+    <string name="wahlkampf_support">Wahlkampf unterstützen</string>
+    <string name="wahlkampf_support_text">Werde aktiv: Mitglied werden, spenden oder eine Veranstaltung besuchen.</string>
+    <string name="wahlkampf_events">Veranstaltungen</string>
+    <string name="wahlkampf_source">Quelle: wahlrecht.de</string>
+    <string name="wahlkampf_all_dates">Alle Wahltermine auf wahlrecht.de</string>
+    <string name="common_show_more">Mehr anzeigen</string>
+    <string name="common_show_less">Weniger anzeigen</string>
+    <string name="wahlkampf_polls">Umfragen</string>
+    <string name="wahlkampf_polls_all">Alle Umfragen auf wahlrecht.de</string>
+    <string name="polls_title">Landtagswahl-Umfragen</string>
+    <string name="polls_bundestag">Bundestag</string>
+    <string name="polls_landtag">Landtag</string>
+    <string name="polls_open">Umfragen nach Bundesland</string>
+    <string name="polls_afd">AfD</string>
+    <string name="polls_meta">Umfrage vom %1$s · nächste Wahl: %2$s</string>
+    <string name="polls_meta_election">Landtagswahl am %1$s</string>
+    <string name="polls_tag_election">Wahlergebnis</string>
+    <string name="polls_tag_poll">Umfrage</string>
+    <string name="polls_all_title">Alle Bundesländer</string>
+    <string name="polls_source">Quelle: %1$s</string>
+    <string name="wahlkampf_polls_line">%1$s-Umfrage · %2$s</string>
+    <string name="wahlkampf_polls_sample">%1$s Wahlberechtigte</string>
+    <string name="wahlkampf_seats_title">Sitzverteilung im Bundestag</string>
+    <string name="wahlkampf_seats_count">%1$d Sitze</string>
+    <string name="wahlkampf_seats_others">Übrige</string>
+    <string name="wahlkampf_map_button">Karte</string>
+    <string name="wahlkampf_map_title">Veranstaltungskarte</string>
+    <string name="wahlkampf_map_plz_hint">PLZ eingeben</string>
+    <string name="wahlkampf_map_search">Suchen</string>
+    <string name="wahlkampf_map_searching">Suche läuft…</string>
+    <string name="wahlkampf_map_nearest">Nächste Veranstaltung: %1$s</string>
+    <string name="wahlkampf_map_distance">ca. %1$s km entfernt</string>
+    <string name="wahlkampf_map_plz_invalid">Keine Veranstaltung gefunden</string>
+    <string name="wahlkampf_map_open_google">Google Maps</string>
+    <string name="wahlkampf_map_open_apple">Apple Maps</string>
+    <string name="wahlkampf_map_zoom_in">Vergrößern</string>
+    <string name="wahlkampf_map_zoom_out">Verkleinern</string>
+    <string name="wahlkampf_map_load_failed">Karte konnte nicht geladen werden</string>
+    <string name="more_map_provider">Kartenanbieter</string>
+    <string name="more_map_provider_note">Kartenstil der Veranstaltungskarte wählen.</string>
+    <string name="map_provider_esri">Esri</string>
+    <string name="map_provider_osm">OpenStreetMap</string>
+    <string name="map_provider_wikimedia">Wikimedia</string>
+    <string name="map_provider_apple">Apple</string>
+    <string name="map_provider_google">Google</string>
+    <string name="map_provider_apple_open">Apple Karten wird im Browser geöffnet (Brave/Chrome empfohlen).</string>
+    <string name="map_provider_google_open">Google Maps wird im Browser geöffnet (Brave/Chrome empfohlen).</string>
+    <string name="wahlkampf_type_bund">Bund</string>
+    <string name="wahlkampf_type_land">Land</string>
+    <string name="wahlkampf_type_europa">Europa</string>
+    <string name="wahlkampf_type_kommunal">Kommunal</string>
+
+    <string name="support_title">Unterstützen</string>
+    <string name="support_tab_donate">Spenden</string>
+    <string name="support_tab_shop">Shop</string>
+
+    <string name="shop_hero_title">AfD-Fanshop</string>
+    <string name="shop_hero_text">Merch, Fanartikel und Wahlkampfmaterial – Textilien, Ausrüstung, Flyer, Bücher und mehr.</string>
+    <string name="shop_open">Shop öffnen</string>
+    <string name="shop_external_note">Öffnet den Shop im Browser. Preise, Größen und Bestellungen findest du dort.</string>
+    <string name="shop_highlights">Beliebte Bereiche</string>
+    <string name="shop_highlight_1">Kleidung &amp; Accessoires</string>
+    <string name="shop_highlight_2">Flaggen &amp; Fahnen</string>
+    <string name="shop_highlight_3">Aufkleber &amp; Plakate</string>
+    <string name="shop_highlight_4">Tassen &amp; Geschenke</string>
+    <string name="shop_disclaimer">Der Verkauf läuft über den Shop „Wir lieben Deutschland“. Diese App verlinkt nur dorthin.</string>
+
+    <string name="more_shop">Merch-Shop</string>
+    <string name="more_social">Social Media</string>
+
+    <string name="common_stale">Aktualisierung fehlgeschlagen – zeige letzten Stand.</string>
+    <string name="wahlkampf_live">Live von wahlrecht.de · aktualisiert %1$s</string>
+    <string name="wahlkampf_offline">Offline – Quelle: wahlrecht.de</string>
+    <string name="contacts_refresh">Kontakte aktualisieren</string>
+    <string name="contacts_source_live">Live: Bundestag Open Data · aktualisiert %1$s</string>
+    <string name="contacts_source_offline">Offline – Datenstand: %1$s</string>
+    <string name="shop_products">Produkt-Highlights</string>
+    <string name="shop_live">Live vom Shop · aktualisiert %1$s</string>
+    <string name="shop_offline">Auszug aus dem Shop</string>
+</resources>

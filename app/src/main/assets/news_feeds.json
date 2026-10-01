@@ -1,0 +1,12 @@
+[
+  { "id": "afd-fraktion", "name": "AfD-Fraktion", "url": "https://afdbundestag.de/feed/", "color": "#009EE0", "enabled": true },
+  { "id": "afd", "name": "AfD", "url": "https://www.afd.de/feed/", "color": "#0077B6", "enabled": true },
+  { "id": "youtube-afd", "name": "YouTube · AfD", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCq2rogaxLtQFrYG3X3KYNww", "color": "#FF0000", "enabled": true },
+  { "id": "youtube-fraktion", "name": "YouTube · AfD-Fraktion", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_dZp8bZipnjntBGLVHm6rw", "color": "#FF0000", "enabled": true },
+  { "id": "nius", "name": "NIUS", "url": "https://nius.de/rss", "color": "#D7263D", "enabled": true },
+  { "id": "junge-freiheit", "name": "Junge Freiheit", "url": "https://jungefreiheit.de/feed/", "color": "#1D3557", "enabled": true },
+  { "id": "apollo-news", "name": "Apollo News", "url": "https://apollo-news.net/feed/", "color": "#E76F51", "enabled": true },
+  { "id": "tichys-einblick", "name": "Tichys Einblick", "url": "https://www.tichyseinblick.de/feed/", "color": "#2A9D8F", "enabled": true },
+  { "id": "compact", "name": "COMPACT", "url": "https://www.compact-online.de/feed/", "color": "#B23A48", "enabled": true },
+  { "id": "deutschlandkurier", "name": "Deutschlandkurier", "url": "https://deutschlandkurier.de/feed/", "color": "#457B9D", "enabled": true }
+]

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <queries>
+        <package android:name="com.starfinanz.smob.android.sfinanzstatus" />
+        <package android:name="de.fiduciagad.banking.vr" />
+        <package android:name="de.fiduciagad.android.vrbanking" />
+        <package android:name="de.commerzbanking.mobil" />
+        <package android:name="com.db.pwcc.dbmobile" />
+        <package android:name="de.postbank.banking" />
+        <package android:name="de.postbank.finanzassistent" />
+        <package android:name="com.db.mm.norisbank" />
+        <package android:name="com.dkbcodefactory.banking" />
+        <package android:name="de.dkb.portalapp" />
+        <package android:name="de.ingdiba.bankingapp" />
+        <package android:name="de.number26.android" />
+        <package android:name="de.comdirect.app" />
+        <package android:name="com.targo_prod.bad" />
+        <package android:name="eu.unicreditgroup.hvbapptan" />
+        <package android:name="de.santander.presentation" />
+        <package android:name="de.santander.banking" />
+        <package android:name="de.gls.banking" />
+        <package android:name="de.gls.mbank" />
+        <package android:name="de.sdvrz.ihb.mobile.app" />
+        <package android:name="de.sparda.banking.app" />
+        <package android:name="de.apobank.nsa.apoBankingPlus" />
+        <package android:name="de.consorsbank" />
+        <package android:name="de.traderepublic.app" />
+        <intent>
+            <action android:name="android.intent.action.VIEW" />
+            <category android:name="android.intent.category.BROWSABLE" />
+            <data android:scheme="bank" />
+        </intent>
+    </queries>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:localeConfig="@xml/locales_config"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="false"
+        android:theme="@style/Theme.AfDApp">
+
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:theme="@style/Theme.AfDApp.Splash"
+            android:windowSoftInputMode="adjustResize">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
