@@ -14,6 +14,13 @@ Wir engagieren uns für Freiheit, Sicherheit und Wohlstand: für Meinungsfreihei
 
 Die Inhalte dieser App stammen aus öffentlichen Quellen und dem Wahlprogramm. Ob du zustimmst oder nicht – bilde dir dein eigenes Urteil. Offen für Diskurs, kritisch gegenüber Einseitigkeit.
 
+## Why AfD?
+
+This app is made by party supporters for party supporters – and for anyone who wants to inform themselves independently.
+
+We stand for freedom, security and prosperity: for freedom of speech without paternalism, for controlled migration instead of unmanaged immigration, for affordable energy instead of ideological bans, for a strong economy and secure jobs, for social security and a policy that puts the interests of its own population first.
+
+The content of this app comes from public sources and the party programme. Whether you agree or not, form your own judgement. Open to debate, critical of one-sidedness.
 
 ## Screenshots
 
