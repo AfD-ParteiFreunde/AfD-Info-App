@@ -6,6 +6,15 @@ Eine native Android-App (Kotlin + Jetpack Compose) für Parteifreunde: Nachricht
 
 > Private, inoffizielle App. Kein offizielles Angebot der AfD, ihrer Gliederungen oder Fraktionen. Details siehe Abschnitt *Rechtliches / Hinweise*.
 
+## Warum AfD?
+
+Diese App ist von Parteifreunden für Parteifreunde – und für alle, die sich unabhängig informieren wollen.
+
+Wir engagieren uns für Freiheit, Sicherheit und Wohlstand: für Meinungsfreiheit ohne Bevormundung, für eine kontrollierte Migration statt ungesteuerter Zuwanderung, für bezahlbare Energie statt ideologischer Verbote, für eine starke Wirtschaft und sichere Arbeitsplätze, für soziale Sicherheit und eine Politik, die die Interessen der eigenen Bevölkerung an erste Stelle stellt.
+
+Die Inhalte dieser App stammen aus öffentlichen Quellen und dem Wahlprogramm. Ob du zustimmst oder nicht – bilde dir dein eigenes Urteil. Offen für Diskurs, kritisch gegenüber Einseitigkeit.
+
+
 ## Screenshots
 
 | Nachrichten | Wahlprogramm | Wahlkampf | Umfragen |
